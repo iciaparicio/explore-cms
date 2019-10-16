@@ -24,7 +24,7 @@ Rellena los campos obligatorios para ese módulo y, si lo necesitas, cualquiera 
 
 #### 🎯 ¿Quieres más información sobre cómo crear módulos?
 
-{% page-ref page="../../modulo/crear-modulo.md" %}
+{% page-ref page="../../modulo/crear-modulo/" %}
 
 ![](../../.gitbook/assets/create_module.gif)
 
