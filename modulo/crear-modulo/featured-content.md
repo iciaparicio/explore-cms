@@ -10,13 +10,13 @@ Es un módulo ideal para resaltar contenido de máximo interés para el usuario 
 
 Los distintos contenidos configurados pasan a modo de carrusel horizontal para que el usuario pueda verlos cómodamente.
 
-![](../../.gitbook/assets/image%20%281%29.png)
+![](../../.gitbook/assets/image%20%282%29.png)
 
 Rellena los campos obligatorios y decide si necesitas rellenar alguno de los campos opcionales:
 
 ## Details
 
-![](../../.gitbook/assets/image%20%2812%29.png)
+![](../../.gitbook/assets/image%20%2813%29.png)
 
 **Name**. Nombre que identifica internamente al elemento. En la app no se muestra en ningún momento pero con ese nombre puedes identificar el módulo en la vista de listado de módulos.
 
@@ -26,7 +26,7 @@ Rellena los campos obligatorios y decide si necesitas rellenar alguno de los cam
 
 ## Module building
 
-![](../../.gitbook/assets/image%20%284%29.png)
+![](../../.gitbook/assets/image%20%285%29.png)
 
 **Section Title**. Título que se muestra encima del módulo siempre que no esté posicionado en primer lugar. Cuando va en la primera posición, no hay título de sección \(en ese caso el título de sección es siempre _Explore_\). Además, este título sirve para identificar internamente el módulo que estás creando. Con ese título puedes identificar el módulo en la vista de listado de módulos.
 
@@ -53,7 +53,7 @@ Un _bumper_ es un vídeo corto o animación. Es un formato por lo general están
 
 {% tabs %}
 {% tab title="Image" %}
-![](../../.gitbook/assets/image%20%282%29.png)
+![](../../.gitbook/assets/image%20%283%29.png)
 
 **Image Upload an image** 📤. URL de la imagen de la _card_. Tiene que tener el formato de URL propio del CMS.
 
@@ -71,7 +71,7 @@ Cuando la imagen se haya subido se previsualiza justo debajo.
 {% endtab %}
 
 {% tab title="Bumper" %}
-![](../../.gitbook/assets/image%20%286%29.png)
+![](../../.gitbook/assets/image%20%287%29.png)
 
 **Bumper Upload a bumper** 📤. Se autorrellena con el nombre del _bumper_.
 
@@ -82,7 +82,7 @@ Para subir un bumper tienes dos opciones:
 
 Activa la opción **Play in loop** para que el _bumper_ se reproduzca en bucle en Explore. Con la opción desactivada se reproduce cada vez que el _bumper_ entre en pantalla pero se para cuando termina la reproducción.
 
-![Activa o desactiva la opci&#xF3;n para reproducir en bucle](../../.gitbook/assets/image%20%287%29.png)
+![Activa o desactiva la opci&#xF3;n para reproducir en bucle](../../.gitbook/assets/image%20%288%29.png)
 
 Cuando el _bump_e_r_ se haya subido se previsualiza justo debajo:
 
@@ -94,9 +94,37 @@ Cuando el _bump_e_r_ se haya subido se previsualiza justo debajo:
 {% endtab %}
 {% endtabs %}
 
+**Card 1 Pre-title**. Título que aparece inmediatamente debajo de la imagen del carrusel. 
 
+🚦 Tiene una longitud máxima de **44 caracteres** \(recomendado menos de 24\) y es **obligatorio**.
 
+**Card 1 Title**. Título que aparece debajo del **Pre-title** y que identifica a la _card_ internamente.
 
+🚦 Tiene una longitud máxima de **70 caracteres** \(recomendado menos de 35 para no ocupar más de una línea\) y es **obligatorio**.
 
+**Card 1 Tracking Name**. Nombre que no ven los usuarios pero sí se ve en Google Analytics. Sirve para identificar el producto internamente de manera más fácil. 
 
+🚦 Es **opcional**.
+
+**Card 1 Description**. Pequeña descripción de la _card_. 
+
+🚦 Tiene una longitud máxima de **132 caracteres** \(recomendado menos de 125\) y es **obligatorio**.
+
+**Card 1 Tag**. Texto corto que se sitúa por encima de la imagen de la _card_.
+
+🚦 Tiene una longitud máxima de **18 caracteres** \(recomendado menos de 10\) y es **opcional**.
+
+**Card 1 Action Url**. URL de la _card_, es decir, URL a la que se accede al hacer clic sobre la _card_. 
+
+🚦 Es **obligatoria** y tiene que ser una URL válida \(ejemplo: [https://www.google.com](https://www.google.com)\)
+
+**Card 1 Action Url starting and ending date and time**. Fecha y hora en la que la _card_ empieza y termina de mostrarse a los usuarios. Es una manera de programar algunas campañas, especialmente pensado para aquellas de carácter estacional.
+
+🚦 Es **opcional**.
+
+{% hint style="warning" %}
+Recuerda que tienes que configurar un mínimo de 2 _cards_ y un máximo de 6.
+
+Los campos para todas las cards son los mismos.
+{% endhint %}
 
