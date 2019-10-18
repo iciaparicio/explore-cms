@@ -14,9 +14,9 @@ Selecciona el tipo de módulo que vas a utilizar para tu diseño.
 
 ![Featured Content](../../.gitbook/assets/image%20%286%29.png)
 
-![Vertical Cards](../../.gitbook/assets/image%20%2814%29.png)
+![Vertical Cards](../../.gitbook/assets/image%20%2817%29.png)
 
-![Rows](../../.gitbook/assets/image%20%2812%29.png)
+![Rows](../../.gitbook/assets/image%20%2814%29.png)
 
 ![Banner](../../.gitbook/assets/image%20%2810%29.png)
 

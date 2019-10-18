@@ -16,7 +16,7 @@ Rellena los campos obligatorios y decide si necesitas rellenar alguno de los cam
 
 ## Details
 
-![](../../.gitbook/assets/image%20%2813%29.png)
+![](../../.gitbook/assets/image%20%2816%29.png)
 
 **Name**. Nombre que identifica internamente al elemento. En la app no se muestra en ningún momento pero con ese nombre puedes identificar el módulo en la vista de listado de módulos.
 

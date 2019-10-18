@@ -12,6 +12,7 @@
 * [Módulo](modulo/README.md)
   * [Crear módulo](modulo/crear-modulo/README.md)
     * [Featured Content](modulo/crear-modulo/featured-content.md)
+    * [Vertical cards](modulo/crear-modulo/vertical-cards.md)
   * [Editar módulo](modulo/editar-modulo.md)
   * [Repositorio de módulos](modulo/repositorio-de-modulos.md)
 * [Layout](layout/README.md)
