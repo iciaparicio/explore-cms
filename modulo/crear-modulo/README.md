@@ -12,13 +12,13 @@ Selecciona el tipo de módulo que vas a utilizar para tu diseño.
 
 ![](https://lh3.googleusercontent.com/GDHDqVX-K1wnxNozK7yrYOjWk2VOqpJO3Ayeo5OzbGPw9sUG-6S0rhKJA7ntvRtKbejn8Lm0z9G32JzGZYKycYiP593Dyd6zc7PsptCI6FjLLBi_snn6ZdkweHI-RBiofHPawVQN)
 
-![Featured Content](../../.gitbook/assets/image%20%286%29.png)
+![Featured Content](../../.gitbook/assets/image%20%287%29.png)
 
-![Vertical Cards](../../.gitbook/assets/image%20%2817%29.png)
+![Vertical Cards](../../.gitbook/assets/image%20%2829%29.png)
 
-![Rows](../../.gitbook/assets/image%20%2814%29.png)
+![Rows](../../.gitbook/assets/image%20%2824%29.png)
 
-![Banner](../../.gitbook/assets/image%20%2810%29.png)
+![Banner](../../.gitbook/assets/image%20%2817%29.png)
 
 Haz clic en **NEXT** para continuar. En función del tipo de módulo que has seleccionado configura los campos que correspondan.
 
