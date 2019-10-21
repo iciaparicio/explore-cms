@@ -10,13 +10,13 @@ Este tipo de módulo sirve para mostrar varios elementos en formato vertical. Es
 
 Se muestra a modo carrusel ofreciendo enlaces en cada _card_ y elementos opcionales como la etiqueta sobre la imagen o un enlace a toda una lista \(un “Ver todo”\).
 
-![](../../.gitbook/assets/image%20%2830%29.png)
+![](../../.gitbook/assets/image%20%2833%29.png)
 
 Rellena los campos obligatorios y decide si necesitas rellenar alguno de los campos opcionales:
 
 ## Details
 
-![](../../.gitbook/assets/image%20%2824%29.png)
+![](../../.gitbook/assets/image%20%2828%29.png)
 
 **Name**. Nombre que identifica internamente al elemento. En la app no se muestra en ningún momento pero con ese nombre puedes identificar el módulo en la vista de listado de módulos.
 
@@ -26,7 +26,7 @@ Rellena los campos obligatorios y decide si necesitas rellenar alguno de los cam
 
 ## Module building
 
-![](../../.gitbook/assets/image%20%2821%29.png)
+![](../../.gitbook/assets/image%20%2824%29.png)
 
 **Section Title**. Título que se muestra encima del módulo. Además, este título sirve para identificar internamente el módulo que estás creando. Con ese título puedes identificar el módulo en la vista de listado de módulos.
 
@@ -36,7 +36,7 @@ Rellena los campos obligatorios y decide si necesitas rellenar alguno de los cam
 
 Las _cards_ son las secciones que componen el carrusel. Para cada módulo de tipo _Vertical cards_ configura un mínimo de 2 _cards_ y un máximo de 6.
 
-![](../../.gitbook/assets/image%20%286%29.png)
+![](../../.gitbook/assets/image%20%287%29.png)
 
 ![](https://lh5.googleusercontent.com/LV8-Qu4VT7DfhMmvYGdFOm0hHARkbOm8rVq89cWoK3IaADwlh_z-AITPDEx_I02gVcyiommxhOzes93i5o5HBOwBk4qzLkj76Hc31qO2hN_XAm72xIZPqVZxoAKd6SQGzb_uIOiB)
 
@@ -48,7 +48,7 @@ Haz clic en el enlace **Upload an image** 📤 y selecciona la imagen directamen
 
 Cuando la imagen se haya subido se previsualiza justo debajo.
 
-![](../../.gitbook/assets/image%20%2811%29.png)
+![](../../.gitbook/assets/image%20%2814%29.png)
 
 🚦 No tiene una longitud máxima y es **opcional**. 
 
@@ -107,6 +107,16 @@ Aquí tienes un conjunto de ejemplos de combinaciones de campos de **Offers Row*
 **Card 1 Ending date and time**. Fecha y hora en la que quieres que la _card_ termine a mostrarse a los usuarios.
 
 🚦 Es opcional.
+
+**Display the ending date on the card**. Activa esta opción para informar al usuario que la oferta va a caducar. 
+
+![](../../.gitbook/assets/image%20%2811%29.png)
+
+### ¿Cómo se ve la fecha de caducidad?
+
+
+
+![](../../.gitbook/assets/image%20%286%29.png)
 
 🎯 La fecha de comienzo y fin son una manera de programar algunas campañas, especialmente aquellas de carácter estacional.
 
