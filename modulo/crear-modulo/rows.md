@@ -8,13 +8,13 @@ Este tipo de módulo está muy orientado a presentar diferentes tarifas a los us
 
 Tiene un formato por filas \(_rows_\) donde en cada una dispone de varios campos opcionales como una pequeña etiqueta que se comporta como un título para esa fila, un breve texto y su enlace correspondiente.
 
-![](../../.gitbook/assets/image%20%2830%29.png)
+![](../../.gitbook/assets/image%20%2839%29.png)
 
 Rellena los campos obligatorios y decide si necesitas rellenar alguno de los campos opcionales:
 
 ## Details
 
-![](../../.gitbook/assets/image%20%2834%29.png)
+![](../../.gitbook/assets/image%20%2844%29.png)
 
 **Name**. Nombre que identifica internamente al elemento. En la app no se muestra en ningún momento pero con ese nombre puedes identificar el módulo en la vista de listado de módulos.‌
 
@@ -24,7 +24,7 @@ Rellena los campos obligatorios y decide si necesitas rellenar alguno de los cam
 
 ## Module building
 
-![](../../.gitbook/assets/image%20%2824%29.png)
+![](../../.gitbook/assets/image%20%2831%29.png)
 
 **Section Title**. Título que se muestra encima del módulo. Además, este título sirve para identificar internamente el módulo que estás creando. Con ese título puedes identificar el módulo en la vista de listado de módulos.
 
@@ -34,7 +34,7 @@ Rellena los campos obligatorios y decide si necesitas rellenar alguno de los cam
 
 Configura un mínimo de 2 filas y un máximo de 3. Para cada fila los campos disponibles son:
 
-![](../../.gitbook/assets/image%20%2818%29.png)
+![](../../.gitbook/assets/image%20%2825%29.png)
 
 **Row 1 Image URL - Upload an image** 📤 . URL de la imagen de la fila. Tiene que tener el formato de URL propio del CMS.
 
@@ -42,7 +42,7 @@ Haz clic en el enlace **Upload an image** 📤 y selecciona la imagen directamen
 
 Cuando la imagen se haya subido se previsualiza justo debajo.
 
-![](../../.gitbook/assets/image%20%2814%29.png)
+![](../../.gitbook/assets/image%20%2821%29.png)
 
 🚦 No tiene una longitud máxima y es **obligatorio**. 
 
@@ -77,6 +77,36 @@ No tiene una longitud máxima y es **obligatorio**.
 **Row 1 Action URL**. URL de la fila, es decir, URL a la que se accede al hacer clic sobre la fila.
 
 🚦 ****Es **obligatoria** y tiene que ser una URL válida \(ejemplo: [`https://www.google.com`](https://www.google.com)\)
+
+**Card 1 Starting date and time**. Fecha y hora en la que quieres que la _card_ empiece a mostrarse a los usuarios. 
+
+🚦 Es opcional.
+
+**Card 1 Ending date and time**. Fecha y hora en la que quieres que la _card_ termine a mostrarse a los usuarios.
+
+🚦 Es opcional.
+
+**Display the ending date on the card**. Activa esta opción para informar al usuario que la oferta va a caducar. 
+
+![](../../.gitbook/assets/image%20%2815%29.png)
+
+**¿Cómo se visualiza la fecha de caducidad?**
+
+Si has habilitado la opción de mostrar la fecha de caducidad, cómo se muestre esa fecha depende del día en que expire la _card_.
+
+`TERMINA HOY hh:mm AM` o `TERMINA HOY hh:mm PM` para indicar que la _card_ caduca en el mismo día a la hora indicada, por la mañana o por la tarde, respectivamente. Por ejemplo `TERMINA HOY 9:00AM`.
+
+![](../../.gitbook/assets/image%20%2819%29.png)
+
+`MAÑANA` indica que la fecha de caducidad es al día siguiente. 
+
+![](../../.gitbook/assets/image%20%282%29.png)
+
+`TERMINA dd mm` para indicar que la diferencia es de más de dos días. Por ejemplo `TERMINA 30 JUN`.
+
+![](../../.gitbook/assets/image%20%2813%29.png)
+
+🎯 La fecha de comienzo y fin son una manera de programar algunas campañas, especialmente aquellas de carácter estacional.
 
 
 
