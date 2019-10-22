@@ -14,6 +14,7 @@
     * [Featured Content](modulo/crear-modulo/featured-content.md)
     * [Vertical cards](modulo/crear-modulo/vertical-cards.md)
     * [Rows](modulo/crear-modulo/rows.md)
+    * [Banner + links](modulo/crear-modulo/banner-+-links.md)
   * [Editar módulo](modulo/editar-modulo.md)
   * [Repositorio de módulos](modulo/repositorio-de-modulos.md)
 * [Layout](layout/README.md)
