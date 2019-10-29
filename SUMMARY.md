@@ -22,4 +22,5 @@
   * [Repositorio de layouts](layout/repositorio-de-layouts.md)
   * [Publicar layouts](layout/publicar-layouts.md)
 * [Test lines](test-lines.md)
+* [FAQ](faq.md)
 
