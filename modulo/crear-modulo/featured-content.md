@@ -20,7 +20,7 @@ Rellena los campos obligatorios y decide si necesitas rellenar alguno de los cam
 
 **Name**. Nombre que identifica internamente al elemento. En la app no se muestra en ningún momento pero con ese nombre puedes identificar el módulo en la vista de listado de módulos.
 
-  🚦 No tiene una longitud máxima y es **obligatorio**.
+  🔅No tiene una longitud máxima y es **obligatorio**.
 
 **For more information check the guidelines**. Consulta las guías de diseño relativas al módulo que estás creando o editando. Revísalas para asegurar que estás subiendo contenido de la mejor calidad posible.
 
@@ -30,7 +30,7 @@ Rellena los campos obligatorios y decide si necesitas rellenar alguno de los cam
 
 **Section Title**. Título que se muestra encima del módulo siempre que no esté posicionado en primer lugar. Cuando va en la primera posición, no hay título de sección \(en ese caso el título de sección es siempre _Explore_\). Además, este título sirve para identificar internamente el módulo que estás creando. Con ese título puedes identificar el módulo en la vista de listado de módulos.
 
-🚦 Tiene una longitud máxima de **25 caracteres** y es **obligatorio**.
+🔅Tiene una longitud máxima de **25 caracteres** y es **obligatorio**.
 
 {% hint style="warning" %}
 Dentro de un layout, es obligatorio que un módulo de tipo _Featured Content_ esté en primera posición.
@@ -63,11 +63,11 @@ Cuando la imagen se haya subido se previsualiza justo debajo.
 
 ![](https://lh4.googleusercontent.com/dULPpwb-XaQ083yWLTZF1G1l_7MO0cW70lM7eg5-ZpMvWyZAPBHjJJpMVNjiTUDtgMy1ng2b_JaSkVRGDZd84K0oSvZnzSS9wp_ddXuGkWXzR2Loo3Pbeio_0pm5ESpRuO28cUhx)
 
-🚦 Este campo es **obligatorio**.
+🔅Este campo es **obligatorio**.
 
 **Image Accesibility Text**. Descripción de la imagen que se usa para la accesibilidad como alternativa si la imagen no se puede mostrar \(por ejemplo, para personas con problemas de visión\).
 
-🚦 No tiene una longitud máxima y es **opcional**.
+🔅No tiene una longitud máxima y es **opcional**.
 {% endtab %}
 
 {% tab title="Bumper" %}
@@ -90,41 +90,41 @@ Cuando el _bump_e_r_ se haya subido se previsualiza justo debajo:
 
 **Bumper Accesibility Text**. Descripción del _bumper_ que se usa para la accesibilidad como alternativa si el _bumper_ no se puede mostrar \(por ejemplo, para personas con problemas de visión\).
 
-🚦 No tiene una longitud máxima y es **opcional**.
+🔅No tiene una longitud máxima y es **opcional**.
 {% endtab %}
 {% endtabs %}
 
 **Card 1 Pre-title**. Título que aparece inmediatamente debajo de la imagen del carrusel. 
 
-🚦 Tiene una longitud máxima de **44 caracteres** \(recomendado menos de 24\) y es **obligatorio**.
+🔅Tiene una longitud máxima de **44 caracteres** \(recomendado menos de 24\) y es **obligatorio**.
 
 **Card 1 Title**. Título que aparece debajo del **Pre-title** y que identifica a la _card_ internamente.
 
-🚦 Tiene una longitud máxima de **70 caracteres** \(recomendado menos de 35 para no ocupar más de una línea\) y es **obligatorio**.
+🔅Tiene una longitud máxima de **70 caracteres** \(recomendado menos de 35 para no ocupar más de una línea\) y es **obligatorio**.
 
 **Card 1 Tracking Name**. Nombre que no ven los usuarios pero sí se ve en Google Analytics. Sirve para identificar el producto internamente de manera más fácil. 
 
-🚦 Es **opcional**.
+🔅Es **opcional**.
 
 **Card 1 Description**. Pequeña descripción de la _card_. 
 
-🚦 Tiene una longitud máxima de **132 caracteres** \(recomendado menos de 125\) y es **obligatorio**.
+🔅Tiene una longitud máxima de **132 caracteres** \(recomendado menos de 125\) y es **obligatorio**.
 
 **Card 1 Tag**. Texto corto que se sitúa por encima de la imagen de la _card_.
 
-🚦 Tiene una longitud máxima de **18 caracteres** \(recomendado menos de 10\) y es **opcional**.
+🔅Tiene una longitud máxima de **18 caracteres** \(recomendado menos de 10\) y es **opcional**.
 
 **Card 1 Action Url**. URL de la _card_, es decir, URL a la que se accede al hacer clic sobre la _card_. 
 
-🚦 Es **obligatoria** y tiene que ser una URL válida \(ejemplo: [https://www.google.com](https://www.google.com)\)
+🔅Es **obligatoria** y tiene que ser una URL válida \(ejemplo: [https://www.google.com](https://www.google.com)\)
 
 **Card 1 Starting date and time**. Fecha y hora en la que quieres que la _card_ empiece a mostrarse a los usuarios. 
 
-🚦 Es opcional.
+🔅Es opcional.
 
 **Card 1 Ending date and time**. Fecha y hora en la que quieres que la _card_ termine de mostrarse a los usuarios.
 
-🚦 Es opcional.
+🔅Es opcional.
 
 **Display the ending date on the card**. Activa esta opción para informar al usuario que el contenido va a caducar. 
 
@@ -150,7 +150,7 @@ Si has habilitado la opción de mostrar la fecha de caducidad, cómo se muestre 
 
 **Card 1 Micro-segments**. Etiquetas que puedes añadir, siempre separadas por comas, para hacer una segmentación de los usuarios que van a ver el contenido que estás creando.
 
-🚦 Es **opcional**.
+🔅Es **opcional**.
 
 {% hint style="warning" %}
 Recuerda que tienes que configurar un mínimo de 2 _cards_ y un máximo de 6.

@@ -23,7 +23,7 @@ Rellena los campos obligatorios y decide si necesitas rellenar alguno de los cam
 
 **Name**. Nombre que identifica internamente al elemento. En la app no se muestra en ningún momento pero con ese nombre puedes identificar el módulo en la vista de listado de módulos.‌
 
-​​ 🚦No tiene una longitud máxima y es **obligatorio**.‌
+​​ 🔅 No tiene una longitud máxima y es **obligatorio**.‌
 
 **For more information check the guidelines**. Consulta las guías de diseño relativas al módulo que estás creando o editando. Revísalas para asegurar que estás subiendo contenido de la mejor calidad posible.
 
@@ -50,11 +50,11 @@ Cuando la imagen se haya subido se previsualiza justo debajo.
 
 ![](https://lh4.googleusercontent.com/dULPpwb-XaQ083yWLTZF1G1l_7MO0cW70lM7eg5-ZpMvWyZAPBHjJJpMVNjiTUDtgMy1ng2b_JaSkVRGDZd84K0oSvZnzSS9wp_ddXuGkWXzR2Loo3Pbeio_0pm5ESpRuO28cUhx)
 
-🚦 Este campo es **obligatorio**.
+🔅 Este campo es **obligatorio**.
 
 **Image Accesibility Text**. Descripción de la imagen que se usa para la accesibilidad como alternativa si la imagen no se puede mostrar \(por ejemplo, para personas con problemas de visión\).
 
-🚦 No tiene una longitud máxima y es **opcional**.
+ 🔅 No tiene una longitud máxima y es **opcional**.
 {% endtab %}
 
 {% tab title="Bumper" %}
@@ -77,21 +77,21 @@ Cuando el _bump_e_r_ se haya subido se previsualiza justo debajo:
 
 **Bumper Accesibility Text**. Descripción del _bumper_ que se usa para la accesibilidad como alternativa si el _bumper_ no se puede mostrar \(por ejemplo, para personas con problemas de visión\).
 
-🚦 No tiene una longitud máxima y es **opcional**.
+🔅 No tiene una longitud máxima y es **opcional**.
 {% endtab %}
 {% endtabs %}
 
  **Action URL**. URL del _banner_, es decir, URL a la que se accede al hacer clic sobre el _banner_.
 
-🚦 ****Es **obligatoria** y tiene que ser una URL válida \(ejemplo: [`https://www.google.com`](https://www.google.com)\)
+🔅 Es **obligatoria** y tiene que ser una URL válida \(ejemplo: [`https://www.google.com`](https://www.google.com)\)
 
 **Card Starting date and time**. Fecha y hora en la que quieres que el _banner_ empiece a mostrarse a los usuarios. 
 
-🚦 Es opcional.
+🔅  Es opcional.
 
 **Card Ending date and time**. Fecha y hora en la que quieres que el _banner_ termine de mostrarse a los usuarios.
 
-🚦 Es opcional.
+🔅 Es opcional.
 
 **Card Micro-segments**. Etiquetas que puedes añadir, siempre separadas por comas, para hacer una segmentación de los usuarios que van a ver el contenido que estás creando.
 
@@ -103,11 +103,11 @@ De forma opcional puedes añadir enlaces en la parte inferior del _banner_. Para
 
 **Name**. Nombre del enlace \(ejemplo `Beneficios`\).
 
-🚦 Tiene una longitud máxima de **38 caracteres** y es **obligatorio**.
+🔅 Tiene una longitud máxima de **38 caracteres** y es **obligatorio**.
 
 **Action. URL** que se abre al hacer clic sobre el **Name**, es decir, sobre el nombre del enlace.
 
-🚦 Es obligatoria y tiene que ser una URL válida \(ejemplo: [`https://www.google.com`](https://www.google.com)\)
+🔅 Es obligatoria y tiene que ser una URL válida \(ejemplo: [`https://www.google.com`](https://www.google.com)\)
 
 
 

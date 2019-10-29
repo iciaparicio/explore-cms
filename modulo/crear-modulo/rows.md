@@ -18,7 +18,7 @@ Rellena los campos obligatorios y decide si necesitas rellenar alguno de los cam
 
 **Name**. Nombre que identifica internamente al elemento. En la app no se muestra en ningún momento pero con ese nombre puedes identificar el módulo en la vista de listado de módulos.‌
 
-​​ 🚦No tiene una longitud máxima y es **obligatorio**.‌
+​🔅 No tiene una longitud máxima y es **obligatorio**.‌
 
 **For more information check the guidelines**. Consulta las guías de diseño relativas al módulo que estás creando o editando. Revísalas para asegurar que estás subiendo contenido de la mejor calidad posible.
 
@@ -28,7 +28,7 @@ Rellena los campos obligatorios y decide si necesitas rellenar alguno de los cam
 
 **Section Title**. Título que se muestra encima del módulo. Además, este título sirve para identificar internamente el módulo que estás creando. Con ese título puedes identificar el módulo en la vista de listado de módulos.
 
-🚦 Tiene una longitud máxima de **25 caracteres** y es **obligatorio**.
+ 🔅 Tiene una longitud máxima de **25 caracteres** y es **obligatorio**.
 
 ## Cards
 
@@ -44,27 +44,27 @@ Cuando la imagen se haya subido se previsualiza justo debajo.
 
 ![](../../.gitbook/assets/image%20%2824%29.png)
 
-🚦 No tiene una longitud máxima y es **obligatorio**. 
+🔅 No tiene una longitud máxima y es **obligatorio**. 
 
 **Row 1 Image Accesibility Text**. Descripción de la imagen que se usa para la accesibilidad como alternativa si la imagen no se puede mostrar \(por ejemplo, para personas con problemas de visión\).
 
-🚦 No tiene una longitud máxima y es **opcional**. 
+🔅 No tiene una longitud máxima y es **opcional**. 
 
 **Row 1 Pre-title**. Pequeño texto destacado previo al título \(ejemplo `30 DÍAS GRATIS`\). 
 
-🚦 Tiene una longitud máxima de **27 caracteres** \(recomendado menos de 24\) y es **opcional**.
+🔅 Tiene una longitud máxima de **27 caracteres** \(recomendado menos de 24\) y es **opcional**.
 
 **Row 1 Title**. Título de la oferta/plan que aparece al lado de la imagen \(ejemplo: `Plan BIG 20 Gigas`\). 
 
-🚦 Tiene una longitud máxima de **25 caracteres** \(recomendado menos de 23\) y es **obligatorio**.
+🔅Tiene una longitud máxima de **25 caracteres** \(recomendado menos de 23\) y es **obligatorio**.
 
 **Card 1 Tracking Name**. Nombre que no ven los usuarios pero sí se ve en Google Analytics. Sirve para identificar el producto internamente de manera más fácil.
 
-🚦 Es **opcional**.
+🔅Es **opcional**.
 
 **Row 1 Description**. Breve descripción del producto presentado. La descripción se muestra debajo del título.
 
-🚦 Tiene una longitud máxima de **34 caracteres** \(recomendado menos de 32\) y es **obligatorio**.
+🔅Tiene una longitud máxima de **34 caracteres** \(recomendado menos de 32\) y es **obligatorio**.
 
 **Row 1 Price**. Precio que se muestra debajo de la descripción, junto a la imagen. No olvides indicar siempre un precio válido \(ejemplo `$123`\)
 
@@ -72,19 +72,19 @@ No tiene una longitud máxima y es **obligatorio**.
 
 **Row 1 Price Information**. Texto para aportar información adicional acerca del precio. Se muestra junto al precio, con un estilo más discreto y precedido de `/` \(ejemplo `al mes`\). 
 
-🚦 Tiene una longitud máxima de **12 caracteres** \(estos caracteres incluyen también el **Row 1 Price**\) y es **opcional**.
+🔅Tiene una longitud máxima de **12 caracteres** \(estos caracteres incluyen también el **Row 1 Price**\) y es **opcional**.
 
 **Row 1 Action URL**. URL de la fila, es decir, URL a la que se accede al hacer clic sobre la fila.
 
-🚦 ****Es **obligatoria** y tiene que ser una URL válida \(ejemplo: [`https://www.google.com`](https://www.google.com)\)
+🔅Es **obligatoria** y tiene que ser una URL válida \(ejemplo: [`https://www.google.com`](https://www.google.com)\)
 
 **Card 1 Starting date and time**. Fecha y hora en la que quieres que la fila empiece a mostrarse a los usuarios. 
 
-🚦 Es opcional.
+🔅Es opcional.
 
 **Card 1 Ending date and time**. Fecha y hora en la que quieres que la fila __termine de mostrarse a los usuarios.
 
-🚦 Es opcional.
+🔅Es opcional.
 
 **Display the ending date on the card**. Activa esta opción para informar al usuario que el contenido va a caducar. 
 
@@ -110,7 +110,7 @@ Si has habilitado la opción de mostrar la fecha de caducidad, cómo se muestre 
 
 **Card 1 Micro-segments**. Etiquetas que puedes añadir, siempre separadas por comas, para hacer una segmentación de los usuarios que van a ver el contenido que estás creando.
 
-🚦 Es **opcional**.
+🔅Es **opcional**.
 
 
 
