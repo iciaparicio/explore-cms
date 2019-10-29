@@ -6,11 +6,11 @@ description: El sitio donde entrar todos los módulos.
 
 El repositorio de [módulos](./) es el listado de todos los módulos creados. Desde el repositorio de módulos puedes editar un módulo ya existente o crear uno nuevo.
 
-![](../.gitbook/assets/image%20%2850%29.png)
+![](../.gitbook/assets/image%20%2853%29.png)
 
 Accede desde el menú lateral **Explore &gt; Modules**
 
-![](../.gitbook/assets/image%20%2823%29.png)
+![](../.gitbook/assets/image%20%2825%29.png)
 
 
 
