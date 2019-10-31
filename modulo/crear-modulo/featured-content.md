@@ -16,7 +16,7 @@ Rellena los campos obligatorios y decide si necesitas rellenar alguno de los cam
 
 ## Details
 
-![](../../.gitbook/assets/image%20%2863%29.png)
+![](../../.gitbook/assets/image%20%2867%29.png)
 
 **Name**. Nombre que identifica internamente al elemento. En la app no se muestra en ningún momento pero con ese nombre puedes identificar el módulo en la vista de listado de módulos.
 
@@ -26,7 +26,7 @@ Rellena los campos obligatorios y decide si necesitas rellenar alguno de los cam
 
 ## Module building
 
-![](../../.gitbook/assets/image%20%2816%29.png)
+![](../../.gitbook/assets/image%20%2818%29.png)
 
 **Section Title**. Título que se muestra encima del módulo siempre que no esté posicionado en primer lugar. Cuando va en la primera posición, no hay título de sección \(en ese caso el título de sección es siempre _Explore_\). Además, este título sirve para identificar internamente el módulo que estás creando. Con ese título puedes identificar el módulo en la vista de listado de módulos.
 
@@ -53,7 +53,7 @@ Un _bumper_ es un vídeo corto o animación. Es un formato por lo general están
 
 {% tabs %}
 {% tab title="Image" %}
-![](../../.gitbook/assets/image%20%289%29.png)
+![](../../.gitbook/assets/image%20%2810%29.png)
 
 **Image Upload an image** 📤. URL de la imagen de la _card_. Tiene que tener el formato de URL propio del CMS.
 
@@ -71,7 +71,7 @@ Cuando la imagen se haya subido se previsualiza justo debajo.
 {% endtab %}
 
 {% tab title="Bumper" %}
-![](../../.gitbook/assets/image%20%2818%29.png)
+![](../../.gitbook/assets/image%20%2820%29.png)
 
 **Bumper Upload a bumper** 📤. Se autorrellena con el nombre del _bumper_.
 
@@ -82,7 +82,7 @@ Para subir un bumper tienes dos opciones:
 
 Activa la opción **Play in loop** para que el _bumper_ se reproduzca en bucle en Explore. Con la opción desactivada se reproduce cada vez que el _bumper_ entre en pantalla pero se para cuando termina la reproducción.
 
-![Activa o desactiva la opci&#xF3;n para reproducir en bucle](../../.gitbook/assets/image%20%2823%29.png)
+![Activa o desactiva la opci&#xF3;n para reproducir en bucle](../../.gitbook/assets/image%20%2825%29.png)
 
 Cuando el _bump_e_r_ se haya subido se previsualiza justo debajo:
 
@@ -128,7 +128,7 @@ Cuando el _bump_e_r_ se haya subido se previsualiza justo debajo:
 
 **Display the ending date on the card**. Activa esta opción para informar al usuario que el contenido va a caducar. 
 
-![](../../.gitbook/assets/image%20%2822%29.png)
+![](../../.gitbook/assets/image%20%2824%29.png)
 
 **¿Cómo se visualiza la fecha de caducidad?**
 
@@ -136,7 +136,7 @@ Si has habilitado la opción de mostrar la fecha de caducidad, cómo se muestre 
 
 `TERMINA HOY hh:mm AM` o `TERMINA HOY hh:mm PM` o `TERMINA HOY hh:mm` \(el formato varía en función del país\) para indicar que la _card_ caduca en el mismo día a la hora indicada, por la mañana o por la tarde, respectivamente. Por ejemplo `TERMINA HOY 9:00AM`.
 
-![](../../.gitbook/assets/image%20%2853%29.png)
+![](../../.gitbook/assets/image%20%2857%29.png)
 
 `TERMINA MAÑANA` para indicar que la fecha de caducidad es al día siguiente. 
 
@@ -144,7 +144,7 @@ Si has habilitado la opción de mostrar la fecha de caducidad, cómo se muestre 
 
 `TERMINA dd mm` para indicar que la diferencia es de más de dos días. Por ejemplo `TERMINA 30 JUN`.
 
-![](../../.gitbook/assets/image%20%2819%29.png)
+![](../../.gitbook/assets/image%20%2821%29.png)
 
 🎯 La fecha de comienzo y fin son una manera de programar algunas campañas, especialmente aquellas de carácter estacional.
 
