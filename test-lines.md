@@ -28,5 +28,10 @@ En la ventana **Create test line** rellena los siguientes campos:
 
 **Microsegment**. Indica los microsegmentos que quieres aplicar a tu línea de pruebas.
 
+Haz clic en **NEXT** para continuar. Selecciona el estado en el que realizar la prueba:
+
+* **Published**. Verás el diseño exactamente igual que lo ven los usuarios en ese momento.
+* **Draft**. Verás el diseño tal y como está guardado en el CMS en ese momento.
+
 
 
