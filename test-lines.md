@@ -33,5 +33,19 @@ Haz clic en **NEXT** para continuar. Selecciona el estado en el que realizar la 
 * **Published**. Verás el diseño exactamente igual que lo ven los usuarios en ese momento.
 * **Draft**. Verás el diseño tal y como está guardado en el CMS en ese momento.
 
+{% hint style="danger" %}
+Ten en cuenta que los enlaces de las cards no funcionan en este tipo de visualización de prueba de Explore. Aunque hagas clic en las cards no te llevan a ningún producto ni promoción.
+{% endhint %}
+
+
+
+
+
+
+
+
+
+
+
 
 
