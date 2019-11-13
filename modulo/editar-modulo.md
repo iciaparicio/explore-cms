@@ -13,7 +13,7 @@ Los campos aparecen informados o vacíos según la configuración que tuviera el
 Para guardar los cambios y generar una nueva versión del módulo haz clic en **SAVE**. Para descartar los cambios y no modificar la versión actual haz clic en **CANCEL**.
 
 {% hint style="danger" %}
-los módulos no tienen opción de ser publicados, lo que se publica es el layout. Por tanto, si quieres que los cambios que has hecho sobre un módulo se vean en la app, tienes que [publicar el layout](../layout/publicar-layouts.md) o los layouts donde este módulo esté disponible.
+Los módulos no tienen opción de ser publicados, lo que se publica es el layout. Por tanto, si quieres que los cambios que has hecho sobre un módulo se vean en la app, tienes que [publicar el layout](../layout/publicar-layouts.md) o los layouts donde el módulo esté disponible.
 {% endhint %}
 
 Si el módulo que estás editando está en uso por algún layout puedes ver en cuál o en cuáles desde la sección **Details &gt; Layouts**.
