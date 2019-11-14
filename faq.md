@@ -46,7 +46,9 @@ En realidad los módulos no se publican, lo que publicas es el layout. La razón
 
 ## He hecho cambios a un layout pero aún no los he publicado. ¿Puedo previsualizar esos cambios antes de hacerlos visibles a todos los usuarios?
 
+Sí,claro que puedes hacerlo. Consulta este enlace 👇 
 
+{% page-ref page="test-lines.md" %}
 
 ## Quiero crear un nuevo layout, ¿cómo lo hago?
 
@@ -62,7 +64,7 @@ Por supuesto. Puedes situarlo en la posición que quieras dentro del layout. Eso
 Ten en cuenta que en primera posición siempre tiene que ir un módulo de tipo _Featured Content_, independientemente de que uses más de este tipo en tu composición del layout.
 {% endhint %}
 
-## No tengo usuario para acceder a Explore CMS, ¿cómo lo obtengo?
+No tengo usuario para acceder a Explore CMS, ¿cómo lo obtengo?
 
 Ponte directamente en contacto con tu equipo de NOVUM. Ellos gestionarán tu acceso.
 
