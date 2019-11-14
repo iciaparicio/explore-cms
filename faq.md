@@ -46,7 +46,7 @@ En realidad los módulos no se publican, lo que publicas es el layout. La razón
 
 ## He hecho cambios a un layout pero aún no los he publicado. ¿Puedo previsualizar esos cambios antes de hacerlos visibles a todos los usuarios?
 
-Sí,claro que puedes hacerlo. Consulta este enlace 👇 
+Sí, claro que puedes hacerlo. Consulta este enlace 👇 
 
 {% page-ref page="test-lines.md" %}
 
