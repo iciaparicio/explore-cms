@@ -11,9 +11,9 @@ description: >-
 
 Actualmente no existe una versión web para Explore por lo que aún no es posible visualizar directamente cómo queda el contenido antes de su publicación.
 
-No obstante, cada vez que haces un cambio en un layout \(añadir o eliminar un módulo, editar el orden de los módulos\) puedes ver esos cambios desde la app de tu móvil, siempre y cuando hayas facilitado tu número de móvil al equipo de NOVUM de tu OB para que lo puedan meter en una lista concreta y puedas ver los cambios antes de publicar el layout.
+No obstante, cada vez que haces un cambio en un layout \(añadir o eliminar un módulo, editar el orden de los módulos\) ese layout pasa a estado **MODIFIED**. En ese estado puedes ver esos cambios desde la app de tu móvil, siempre y cuando hayas facilitado tu número de móvil al equipo de NOVUM de tu OB para que lo puedan meter en una lista concreta y puedas ver los cambios antes de publicar el layout. 
 
-Además, desde **Test lines** puedes ver desde el mismo dispositivo diferentes configuraciones en función de los diferentes segmentos, sin necesidad de cambiar de línea o tener varios msisdn.
+Además, desde **Test lines** puedes ver, desde el mismo dispositivo, diferentes configuraciones en función de los diferentes segmentos, sin necesidad de cambiar de línea o tener varios msisdn.
 
 ## Crear una línea de pruebas
 

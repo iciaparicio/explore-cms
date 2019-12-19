@@ -15,6 +15,10 @@ El repositorio de layouts incluye información sobre:
 * **PUBLISHED**. La versión del layout está actualmente como pública y es la que están viendo los usuarios.
 * **MODIFIED**. La versión del layout es una versión con cambios pendientes de publicar. Los usuarios no verán esos cambios hasta que se publique el layout. 
 
+{% hint style="info" %}
+En estado **MODIFIED** puedes ver el layout en la app si has proporcionado un msisdn, número de teléfono válido, al equipo de NOVUM de tu OB para que lo incluyan en una lista especial \(_white list_\). 
+{% endhint %}
+
 **ACTIONS**. Desde el icono ![](../.gitbook/assets/icono_editar.png) accedes a la edición de módulos del layout.
 
 
