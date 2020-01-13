@@ -39,7 +39,7 @@ Ejemplo:
 
 Haz clic en **NEXT** para continuar. Selecciona el estado en el que realizar la prueba, en función de lo que quieras hacer:
 
-![](.gitbook/assets/image%20%2830%29.png)
+![](.gitbook/assets/test_line_status.png)
 
 #### Visualizar varios segmentos
 
