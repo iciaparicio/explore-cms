@@ -8,5 +8,5 @@ description: >-
 
 ## ¿Qué es Explore CMS?
 
-Explore CMS \(Content Management System\) es una herramienta diseñada por el equipo de Producto de NOVUM para que las OBs y otros equipos de Novum puedan publicar y gestionar, de forma rápida y sencilla, contenido en Explore.
+Explore CMS \(Content Management System\) es una herramienta diseñada por el equipo de Producto de NOVUM para que las OBs y otros equipos de NOVUM puedan publicar y gestionar, de forma rápida y sencilla, contenido en Explore.
 

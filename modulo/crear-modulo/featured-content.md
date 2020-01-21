@@ -158,3 +158,36 @@ Recuerda que tienes que configurar un mínimo de 2 _cards_ y un máximo de 6.
 Los campos para todas las cards son los mismos.
 {% endhint %}
 
+**Card 1 categories \(mandatory\)**
+
+Las categorías te permiten filtrar el contendido en Explore. Las categorías se muestran en la parte superior, a modo de carrusel horizontal, de modo que el usuario puede navegar por las categorías y seleccionar la que quiera ver.
+
+Cuando el usuario selecciona una categoría el contenido se muestra ordenado en formato vertical \(en lugar de scroll horizontal\), para que el usuario no se pierda ningún contenido.
+
+![](../../.gitbook/assets/categories_divices.png)
+
+En Explore CMS selecciona la categoría o las categorías que aplican a la card que estás configurando:
+
+![](../../.gitbook/assets/categories.png)
+
+* **Accessories**. Accesorios: auriculares, fundas, relojes.
+* **Bundles**. Paquetes: packs, planes, paquetes de productos.
+* **Devices**. Dispositivos: smartphones, tablets.
+* **Loyalty**. Fidelización: membresía, contenido de programas de loyalty/fidelización \(Valoriza, Priority, Club Movistar…\)
+* **Promos**. Promociones: Contenido promocional que pueda encajar y que es posible que incluso pueda convivir con otras categorías.
+* **Plans**. Planes: Tarifas, actualizaciones, planes de precios.
+* **Services**. Servicios: servicios de valor añadido \(nuevas funcionalidades\), apps, servicios de TEF. 
+* **TV**. Televisión: planes de televisión, contenido destacado.
+
+{% hint style="info" %}
+La categoría **All**, que es la primera que se visualiza, no es una categoría como tal sino que es la forma que tiene el usuario de ver todo el contenido.
+
+Por defecto, cuando un usuario abre Explore, ve todo el contenido, todas las cards configuradas, y por tanto la categoría seleccionada es siempre **All**. 
+{% endhint %}
+
+🎯 **Buenas prácticas**: No es recomendable que un contenido tenga asignada más de una categoría, aunque Explore CMS no limite este comportamiento. A nivel de medición de datos  
+
+#### ¿Qué debo tener en cuenta cuando uso las categorías?
+
+¡Consulta la sección [**Categorías**](https://app.gitbook.com/@tef-novum/s/explore-cms/~/drafts/-LyYX2WN5Qc794RVRWmG/faq#categorias) ****del [FAQ](../../faq.md) para resolver todas tus dudas!
+
