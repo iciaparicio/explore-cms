@@ -12,7 +12,7 @@
 * [Módulo](modulo/README.md)
   * [Crear módulo](modulo/crear-modulo/README.md)
     * [Featured Content](modulo/crear-modulo/featured-content.md)
-    * [Vertical cards](modulo/crear-modulo/vertical-cards.md)
+    * [Vertical Cards](modulo/crear-modulo/vertical-cards.md)
     * [Rows](modulo/crear-modulo/rows.md)
     * [Banner + links](modulo/crear-modulo/banner-+-links.md)
   * [Editar módulo](modulo/editar-modulo.md)

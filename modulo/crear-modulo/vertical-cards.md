@@ -4,7 +4,7 @@ description: >-
   ofertas de móviles.
 ---
 
-# Vertical cards
+# Vertical Cards
 
 Este tipo de módulo sirve para mostrar varios elementos en formato vertical. Es muy útil para presentar, por ejemplo, ofertas de productos.
 
