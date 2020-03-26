@@ -171,3 +171,13 @@ Por defecto, cuando un usuario abre Explore, ve todo el contenido, todas las car
 
 ¡Consulta la sección [**Categorías**](https://app.gitbook.com/@tef-novum/s/explore-cms/~/drafts/-LyYX2WN5Qc794RVRWmG/faq#categorias) ****del [FAQ](../../faq.md) para resolver todas tus dudas!
 
+### Cambiar el orden de las _cards_
+
+Dentro del módulo puedes mover las cards para cambiar el orden en el que se muestran. 
+
+![](../../.gitbook/assets/drag-and-drop.png)
+
+Para mover una _card_ arrástrala a la posición en la que quieres que se muestre y suéltala.
+
+![](../../.gitbook/assets/drag-and-drop_demo.gif)
+
