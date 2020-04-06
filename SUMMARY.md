@@ -23,4 +23,5 @@
   * [Publicar layouts](layout/publicar-layouts.md)
 * [Test lines](test-lines.md)
 * [FAQ](faq.md)
+* [Deeplinks en Explore](deeplinks-en-explore.md)
 
