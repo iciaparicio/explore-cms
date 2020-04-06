@@ -6,7 +6,7 @@ description: Aquí puedes ver cómo construir correctamente un deeplink para Exp
 
 ## ¿Cómo se construye un deeplink de Explore?
 
-Un deeplink de Explore tiene las siguientes partes:
+Un deeplink de Explore es una enlace que configurado con una serie de parámetros lleva al usuario a un lugar concreto de la app. Mira cómo se construye:
 
 ### Enlace
 
@@ -50,8 +50,10 @@ Usa el caracter `?` para añadir más de un parámetro.
 
 2 El contenido se refresca
 
-3 El deeplink muestra el contendido filtrado por la categoría Accesorios.
+3 El deeplink muestra el contendido filtrado por la categoría **Accesorios**.
 
-Por tanto, este ejemplo es un deeplink que te muestra el contendido de Explore actualizado y filtrado por **Accesorios**.  
+Por tanto, este ejemplo es un deeplink que te muestra el contendido de Explore actualizado y filtrado por **Accesorios**.
+
+Amplia información sobre Deeplinks en [Deeplinks Catalogue](https://tef-novum.gitbook.io/novum/develop/deeplinks-catalog).  
 
 
