@@ -14,6 +14,10 @@ Destino, dentro de al app, al que lleva el enlace \(URL\). Para Explore, el enla
 
 [`https://appwebview.movistar.es/explore?`](https://appwebview.movistar.es/explore?)\`\`
 
+{% hint style="warning" %}
+Ten en cuenta que esta URL varía en función de la OB. Asegúrate de estar usando la correcta 😉 
+{% endhint %}
+
 ### Parámetros
 
 #### `refresh`
