@@ -10,13 +10,13 @@ Este tipo de módulo sirve para mostrar varios elementos en formato vertical. Es
 
 Se muestra a modo carrusel ofreciendo enlaces en cada _card_ y elementos opcionales como la etiqueta sobre la imagen o un enlace a toda una lista \(un “Ver todo”\).
 
-![](../../.gitbook/assets/image%20%2863%29.png)
+![](../../.gitbook/assets/image%20%2869%29.png)
 
 Rellena los campos obligatorios y decide si necesitas rellenar alguno de los campos opcionales:
 
 ## Details
 
-![](../../.gitbook/assets/image%20%2854%29.png)
+![](../../.gitbook/assets/image%20%2860%29.png)
 
 **Name**. Nombre que identifica internamente al elemento. En la app no se muestra en ningún momento pero con ese nombre puedes identificar el módulo en la vista de listado de módulos.
 
@@ -26,7 +26,7 @@ Rellena los campos obligatorios y decide si necesitas rellenar alguno de los cam
 
 ## Module building
 
-![](../../.gitbook/assets/image%20%2848%29.png)
+![](../../.gitbook/assets/image%20%2853%29.png)
 
 **Section Title**. Título que se muestra encima del módulo. Además, este título sirve para identificar internamente el módulo que estás creando. Con ese título puedes identificar el módulo en la vista de listado de módulos.
 
@@ -36,9 +36,7 @@ Rellena los campos obligatorios y decide si necesitas rellenar alguno de los cam
 
 Las _cards_ son las secciones que componen el carrusel. Para cada módulo de tipo _Vertical cards_ configura un mínimo de 2 _cards_ y un máximo de 6.
 
-![](../../.gitbook/assets/image%20%2817%29.png)
-
-![](https://lh5.googleusercontent.com/LV8-Qu4VT7DfhMmvYGdFOm0hHARkbOm8rVq89cWoK3IaADwlh_z-AITPDEx_I02gVcyiommxhOzes93i5o5HBOwBk4qzLkj76Hc31qO2hN_XAm72xIZPqVZxoAKd6SQGzb_uIOiB)
+![](../../.gitbook/assets/image%20%2822%29.png)
 
 Para cada _card_ los campos disponibles son:
 
@@ -48,7 +46,7 @@ Haz clic en el enlace **Upload an image** 📤 y selecciona la imagen directamen
 
 Cuando la imagen se haya subido se previsualiza justo debajo.
 
-![](../../.gitbook/assets/image%20%2834%29.png)
+![](../../.gitbook/assets/image%20%2837%29.png)
 
 🔅No tiene una longitud máxima y es **opcional**. 
 
@@ -110,7 +108,7 @@ Aquí tienes un conjunto de ejemplos de combinaciones de campos de **Offers Row*
 
 **Display the ending date on the card**. Activa esta opción para informar al usuario que el contenido va a caducar. 
 
-![](../../.gitbook/assets/image%20%2825%29.png)
+![](../../.gitbook/assets/image%20%2827%29.png)
 
 **¿Cómo se visualiza la fecha de caducidad?**
 
@@ -118,7 +116,7 @@ Si has habilitado la opción de mostrar la fecha de caducidad, cómo se muestre 
 
 `TERMINA HOY hh:mm AM` o `TERMINA HOY hh:mm PM` o `TERMINA HOY hh:mm` \(el formato varía en función del país\) para indicar que la _card_ caduca en el mismo día a la hora indicada, por la mañana o por la tarde, respectivamente. Por ejemplo `TERMINA HOY 9:00AM`.
 
-![](../../.gitbook/assets/image%20%2849%29.png)
+![](../../.gitbook/assets/image%20%2855%29.png)
 
 `MAÑANA` indica que la fecha de caducidad es al día siguiente. 
 
@@ -126,7 +124,7 @@ Si has habilitado la opción de mostrar la fecha de caducidad, cómo se muestre 
 
 `TERMINA dd mm` para indicar que la diferencia es de más de dos días. Por ejemplo `TERMINA 30 JUN`.
 
-![](../../.gitbook/assets/image%20%2822%29.png)
+![](../../.gitbook/assets/image%20%2824%29.png)
 
 🎯 La fecha de comienzo y fin son una manera de programar algunas campañas, especialmente aquellas de carácter estacional.
 
@@ -180,4 +178,22 @@ Dentro del módulo puedes mover las cards para cambiar el orden en el que se mue
 Para mover una _card_ arrástrala a la posición en la que quieres que se muestre y suéltala.
 
 ![](../../.gitbook/assets/drag-and-drop_demo.gif)
+
+## Link
+
+De forma opcional puedes añadir enlaces que aparecerán en la parte inferior del módulo.
+
+![](../../.gitbook/assets/link_module.png)
+
+Para hacerlo rellena, para cada enlace que quieras añadir \(hasta un máximo de 5 enlaces\), los siguientes campos:
+
+**Name**. Nombre del enlace \(ejemplo `Beneficios`\).
+
+🔅 Tiene una longitud máxima de **38 caracteres** y es **obligatorio**.
+
+**Action URL.** Enlace ****que se abre al hacer clic sobre el **Name**, es decir, sobre el nombre del enlace.
+
+🔅 Es obligatorio y tiene que ser una URL válida \(ejemplo: [`https://www.google.com`](https://www.google.com)\)
+
+![](../../.gitbook/assets/image%20%2854%29.png)
 

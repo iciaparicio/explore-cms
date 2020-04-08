@@ -58,7 +58,7 @@ No puedes crear un nuevo layout dado que los layouts vienen ya configurados en f
 
 Por supuesto. Puedes situarlo en la posición que quieras dentro del layout. Eso sí, ten en cuenta que el título que se muestra en ese caso es el que hayas definido en el campo **Section Title**.
 
-![](.gitbook/assets/image%20%2845%29.png)
+![](.gitbook/assets/image%20%2850%29.png)
 
 {% hint style="warning" %}
 Ten en cuenta que en primera posición siempre tiene que ir un módulo de tipo _Featured Content_, independientemente de que uses más de este tipo en tu composición del layout.

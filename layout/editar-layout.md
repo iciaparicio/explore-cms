@@ -36,7 +36,7 @@ Recuerda que en primera posición siempre tiene que haber un módulo de tipo [_F
 
 Selecciona en el desplegable el módulo que quieres añadir.
 
-![](../.gitbook/assets/image%20%2872%29.png)
+![](../.gitbook/assets/image%20%2878%29.png)
 
 Usa la funcionalidad de autocompletar: comienza a escribir el nombre del módulo y de forma automática se van filtrando los módulos que coincidan con tu búsqueda. 
 
@@ -48,7 +48,7 @@ Para que un módulo no se muestre en un layout haz clic en el icono ![](https://
 
 Haz clic en **DELETE** para acepta el mensaje que se muestra en pantalla y confirmar la acción de borrado.
 
-![](../.gitbook/assets/image%20%2840%29.png)
+![](../.gitbook/assets/image%20%2843%29.png)
 
 {% hint style="danger" %}
 La acción de eliminar un módulo de un layout no elimina el módulo del repositorio de módulos y por tanto podrás usarlo en otro momento si lo consideras necesario.
@@ -56,7 +56,7 @@ La acción de eliminar un módulo de un layout no elimina el módulo del reposit
 
 Cuando hayas finalizado la edición del layout haz clic en el botón **DONE**. 
 
-![](../.gitbook/assets/image%20%2824%29.png)
+![](../.gitbook/assets/image%20%2826%29.png)
 
 {% hint style="info" %}
 Al hacer clic en **DONE** el layout queda editado pero aún no publicado.

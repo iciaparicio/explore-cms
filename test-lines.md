@@ -19,11 +19,11 @@ Además, desde **Test lines** puedes ver, desde el mismo dispositivo, diferentes
 
 Accede al menú **Explore &gt; Test lines** y haz clic en **CREATE A NEW TEST LINE**.
 
-![](.gitbook/assets/image%20%2852%29.png)
+![](.gitbook/assets/image%20%2858%29.png)
 
 En la ventana **Create test line** rellena los siguientes campos:
 
-![](.gitbook/assets/image%20%2814%29.png)
+![](.gitbook/assets/image%20%2815%29.png)
 
 **Phone number**. Selecciona en el listado el número de teléfono sobre el que quieres hacer la prueba.
 

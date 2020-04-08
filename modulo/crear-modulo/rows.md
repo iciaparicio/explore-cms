@@ -8,13 +8,13 @@ Este tipo de módulo está muy orientado a presentar diferentes tarifas a los us
 
 Tiene un formato por filas \(_rows_\) donde en cada una dispone de varios campos opcionales como una pequeña etiqueta que se comporta como un título para esa fila, un breve texto y su enlace correspondiente.
 
-![](../../.gitbook/assets/image%20%2858%29.png)
+![](../../.gitbook/assets/image%20%2864%29.png)
 
 Rellena los campos obligatorios y decide si necesitas rellenar alguno de los campos opcionales:
 
 ## Details
 
-![](../../.gitbook/assets/image%20%2865%29.png)
+![](../../.gitbook/assets/image%20%2871%29.png)
 
 **Name**. Nombre que identifica internamente al elemento. En la app no se muestra en ningún momento pero con ese nombre puedes identificar el módulo en la vista de listado de módulos.‌
 
@@ -24,7 +24,7 @@ Rellena los campos obligatorios y decide si necesitas rellenar alguno de los cam
 
 ## Module building
 
-![](../../.gitbook/assets/image%20%2868%29.png)
+![](../../.gitbook/assets/image%20%2874%29.png)
 
 **Section Title**. Título que se muestra encima del módulo. Además, este título sirve para identificar internamente el módulo que estás creando. Con ese título puedes identificar el módulo en la vista de listado de módulos.
 
@@ -34,7 +34,7 @@ Rellena los campos obligatorios y decide si necesitas rellenar alguno de los cam
 
 Configura un mínimo de 2 filas y un máximo de 3. Para cada fila los campos disponibles son:
 
-![](../../.gitbook/assets/image%20%2839%29.png)
+![](../../.gitbook/assets/image%20%2844%29.png)
 
 **Row 1 Image URL - Upload an image** 📤 . URL de la imagen de la fila. Tiene que tener el formato de URL propio del CMS.
 
@@ -42,7 +42,7 @@ Haz clic en el enlace **Upload an image** 📤 y selecciona la imagen directamen
 
 Cuando la imagen se haya subido se previsualiza justo debajo.
 
-![](../../.gitbook/assets/image%20%2834%29.png)
+![](../../.gitbook/assets/image%20%2837%29.png)
 
 🔅 No tiene una longitud máxima y es **obligatorio**. 
 
@@ -88,7 +88,7 @@ No tiene una longitud máxima y es **obligatorio**.
 
 **Display the ending date on the card**. Activa esta opción para informar al usuario que el contenido va a caducar. 
 
-![](../../.gitbook/assets/image%20%2825%29.png)
+![](../../.gitbook/assets/image%20%2827%29.png)
 
 **¿Cómo se visualiza la fecha de caducidad?**
 
@@ -96,7 +96,7 @@ Si has habilitado la opción de mostrar la fecha de caducidad, cómo se muestre 
 
 `TERMINA HOY hh:mm AM` o `TERMINA HOY hh:mm PM` o `TERMINA HOY hh:mm` \(el formato varía en función del país\) para indicar que la _card_ caduca en el mismo día a la hora indicada, por la mañana o por la tarde, respectivamente. Por ejemplo `TERMINA HOY 9:00AM`.
 
-![](../../.gitbook/assets/image%20%2831%29.png)
+![](../../.gitbook/assets/image%20%2834%29.png)
 
 `MAÑANA` indica que la fecha de caducidad es al día siguiente. 
 
@@ -104,7 +104,7 @@ Si has habilitado la opción de mostrar la fecha de caducidad, cómo se muestre 
 
 `TERMINA dd mm` para indicar que la diferencia es de más de dos días. Por ejemplo `TERMINA 30 JUN`.
 
-![](../../.gitbook/assets/image%20%2822%29.png)
+![](../../.gitbook/assets/image%20%2824%29.png)
 
 🎯 La fecha de comienzo y fin son una manera de programar algunas campañas, especialmente aquellas de carácter estacional.
 
@@ -152,4 +152,22 @@ Dentro del módulo puedes mover las cards para cambiar el orden en el que se mue
 Para mover una _card_ arrástrala a la posición en la que quieres que se muestre y suéltala.
 
 ![](../../.gitbook/assets/drag-and-drop_demo.gif)
+
+## Link
+
+De forma opcional puedes añadir enlaces que aparecerán en la parte inferior del módulo.
+
+![](../../.gitbook/assets/link_module.png)
+
+Para hacerlo rellena, para cada enlace que quieras añadir \(hasta un máximo de 5 enlaces\), los siguientes campos:
+
+**Name**. Nombre del enlace \(ejemplo `Beneficios`\).
+
+🔅 Tiene una longitud máxima de **38 caracteres** y es **obligatorio**.
+
+**Action URL.** Enlace ****que se abre al hacer clic sobre el **Name**, es decir, sobre el nombre del enlace.
+
+🔅 Es obligatorio y tiene que ser una URL válida \(ejemplo: [`https://www.google.com`](https://www.google.com)\)
+
+![](../../.gitbook/assets/image%20%289%29.png)
 
