@@ -9,10 +9,6 @@ description: >-
 
 Los módulos de tipo _Banner_ contienen simplemente una imagen o un _bumper_ con un link.
 
-💡 __**¿Sabías que?**
-
-Un _bumper_ es un vídeo corto o animación. Es un formato por lo general estándar con una duración media de 6 segundos aproximadamente y suele usarse con fines comerciales. 
-
 ![](../../.gitbook/assets/image%20%2863%29.png)
 
 Rellena los campos obligatorios y decide si necesitas rellenar alguno de los campos opcionales:
