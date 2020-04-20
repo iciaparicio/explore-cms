@@ -169,3 +169,5 @@ Para hacerlo rellena, para cada enlace que quieras añadir \(hasta un máximo de
 
 🔅 Es obligatorio y tiene que ser una URL válida \(ejemplo: [`https://www.google.com`](https://www.google.com)\)
 
+![](../../.gitbook/assets/row_link.png)
+
