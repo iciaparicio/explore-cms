@@ -1,12 +1,12 @@
 ---
-description: Aquí puedes ver cómo construir correctamente un deeplink para Explore
+description: Aquí puedes ver cómo construir correctamente un deep link para Explore
 ---
 
-# Deeplinks por categorías
+# Deep links por categorías
 
-## Lista de deeplinks por categorías
+## Lista de deep links por categorías
 
-Esta es la lista de deeplinks \(enlaces\) para llevar al usuario al contenido de Explore filtrado según la categoría:
+Esta es la lista de deep links \(enlaces\) para llevar al usuario al contenido de Explore filtrado según la categoría:
 
 **Accesorios**
 
@@ -43,6 +43,6 @@ Esta es la lista de deeplinks \(enlaces\) para llevar al usuario al contenido de
 {% hint style="warning" %}
 Ten en cuenta que esta URL varía en función de la OB. Asegúrate de estar usando la correcta 😉 
 
-Amplia información sobre Deeplinks en [Deeplinks Catalogue](https://tef-novum.gitbook.io/novum/develop/deeplinks-catalog).  
+Amplía información sobre Deep links en [Deeplinks Catalogue](https://tef-novum.gitbook.io/novum/develop/deeplinks-catalog).  
 {% endhint %}
 
