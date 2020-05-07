@@ -36,7 +36,7 @@ Rellena los campos obligatorios y decide si necesitas rellenar alguno de los cam
 
 Las _cards_ son las secciones que componen el carrusel. Para cada módulo de tipo _Vertical cards_ configura un mínimo de 2 _cards_ y un máximo de 6.
 
-![](../../.gitbook/assets/image%20%2822%29.png)
+![](../../.gitbook/assets/vertical_cards_cms.png)
 
 Para cada _card_ los campos disponibles son:
 
