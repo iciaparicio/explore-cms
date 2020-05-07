@@ -40,7 +40,7 @@ Dentro de un layout, es obligatorio que un módulo de tipo _Featured Content_ es
 
 Las _cards_ son las secciones que componen el carrusel. Para cada módulo de tipo _Featured Content_ configura un mínimo de 2 _cards_ y un máximo de 6.
 
-![](../../.gitbook/assets/image%20%2828%29.png)
+![](../../.gitbook/assets/featured_content_cms.png)
 
 Para cada _card_ los campos disponibles varían en función de que selecciones una imagen o un _bumper_:
 
