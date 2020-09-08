@@ -164,7 +164,7 @@ As categorias permitem filtrar o conteúdo no Explore. As categorias são mostra
 
 Quando o usuário seleciona uma categoria, o conteúdo é exibido no formato vertical \(em vez de rolagem horizontal\), para que o usuário não perca nenhum conteúdo.
 
-![](https://github.com/iciaparicio/explore-cms/tree/2d14bb61a8e92a38fe23ad18f7cf392e8f2f8668/pt-BR/.gitbook/assets/categories_divices.png)
+![](../../.gitbook/assets/categories_divices.png)
 
 Em Explore CMS, selecione a categoria ou categorias que se aplicam ao cartão que você está configurando:
 
@@ -205,7 +205,7 @@ Para movimentar um _card_ arraste-o até a posição onde será exibido e solte-
 
 De maneira opcional, é possível adicionar links que aparecerão na parte inferior do módulo.
 
-![](https://github.com/iciaparicio/explore-cms/tree/2d14bb61a8e92a38fe23ad18f7cf392e8f2f8668/pt-BR/.gitbook/assets/link_module.png)
+![](../../.gitbook/assets/link_module.png)
 
 Para isso, preencha para cada link que deseja adicionar \(máximo de 5 links\) os campos abaixo:
 
@@ -217,5 +217,5 @@ Para isso, preencha para cada link que deseja adicionar \(máximo de 5 links\) o
 
 🔅 É obrigatório e deve ser uma URL válida \(por exemplo: [`https://www.google.com`](https://www.google.com)\)
 
-![](https://github.com/iciaparicio/explore-cms/tree/2d14bb61a8e92a38fe23ad18f7cf392e8f2f8668/pt-BR/.gitbook/assets/link_featured_content.png)
+![](../../.gitbook/assets/link_featured_content.png)
 
