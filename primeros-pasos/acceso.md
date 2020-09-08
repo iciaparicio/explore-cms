@@ -1,6 +1,6 @@
-# Acceso
+# Access
 
-Desde el menú lateral izquierdo haz clic en **Explore**.
+From the left side menu, click **Explore**.
 
 ![](../.gitbook/assets/image%20%2852%29.png)
 

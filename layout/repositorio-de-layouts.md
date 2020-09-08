@@ -1,25 +1,23 @@
 ---
-description: Consulta el listado de layouts desde el menú lateral.
+description: Consult the list of layouts from the side menu.
 ---
 
-# Repositorio de layouts
+# Layouts repository
 
-Es la lista de los layouts disponibles en Explore CMS. Esta lista varía en función de la segmentación de tu OB. Es importante que sepas que no puedes crear layouts nuevos. Lo que sí puedes hacer es editar cada uno de los layouts correspondientes e indicar, para cada layout, qué módulos quieres mostrar de los módulos que has creado.
+List of layouts available in Explore CMS. This list varies depending on the segmentation of your OB. It is important to be aware that you cannot create new layouts. What you can do is edit each of the corresponding layouts and indicate, for each layout, which modules you wish to display from the modules you have created.
 
-El repositorio de layouts incluye información sobre:
+The layouts repository includes information about:
 
-**LAYOUT**. Título del layout que es descriptivo de los segmentos a los que afecta. 
+**LAYOUT**. Title of the layout that describes the segments affected.
 
-**STATUS**. Estado del Layout que te informa de los últimos cambios aplicados sobre el layout y en qué estado se encuentra. Los estados disponibles son: 
+**STATUS**. Layout status that informs you of the latest changes applied to the layout and its current status. The available statuses are:
 
-* **PUBLISHED**. La versión del layout está actualmente como pública y es la que están viendo los usuarios.
-* **MODIFIED**. La versión del layout es una versión con cambios pendientes de publicar. Los usuarios no verán esos cambios hasta que se publique el layout. 
+* **PUBLISHED**. The layout version is currently public and is the one that users are viewing.
+* **MODIFIED**. The layout version is a version with changes pending publication. Users will not see these changes until the layout is published.
 
 {% hint style="info" %}
-En estado **MODIFIED** puedes ver el layout en la app si has proporcionado un msisdn, número de teléfono válido, al equipo de NOVUM de tu OB para que lo incluyan en una lista especial \(_white list_\). 
+In the **MODIFIED** status, if you have provided a MSISDN and a valid telephone number to the NOVUM team of your OB, you can view the layout in the app so that they can include it in a special list \(_white list_\).
 {% endhint %}
 
-**ACTIONS**. Desde el icono ![](../.gitbook/assets/icono_editar.png) accedes a la edición de módulos del layout.
-
-
+**ACTIONS**. From the icon ![](https://github.com/iciaparicio/explore-cms/blob/master/.gitbook/assets/icono_editar.png?raw=true) you can access layout module editing.
 

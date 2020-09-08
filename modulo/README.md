@@ -1,8 +1,8 @@
 ---
 description: >-
-  Es la unidad de contenido más pequeña que puedes guardar en Explore CMS. Un
-  módulo puede tener una o varias cards. ¡Anímate, sigue leyendo!
+  The smallest content unit that you can save in Explore CMS. A module can have
+  one or more cards. Keep reading!
 ---
 
-# Módulo
+# Module
 

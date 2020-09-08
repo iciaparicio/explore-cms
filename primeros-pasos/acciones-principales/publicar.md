@@ -1,22 +1,20 @@
 ---
 description: >-
-  Echa un vistazo rápido a cómo publicar un layout. Al final de este artículo
-  puedes acceder a los pasos de manera mucho más detallada.
+  Take a quick look at how to publish a layout. At the end of this article you
+  can access the steps in a much more detailed way.
 ---
 
-# Publicar un layout
+# Publish a layout
 
-Para que los cambios que has hecho en el layout puedan llegar a los usuarios de la app tienes que publicarlos.
+You need to publish the changes you have made to the layout in order for them to reach app users.
 
-Desde el repositorio de layouts haz clic en **PUBLISH** y confirma el mensaje que se muestra por pantalla.
+From the layouts repository, click **PUBLISH** and confirm the message shown on the screen.
 
 ![](https://lh5.googleusercontent.com/o9P5bId1r6OrZf9Gx0V-CJuQ7ZRHlJCogACIc1cQXUXIDxUaKyeJBkLzx_ydQJ-TuYUovBnGPQlMfLcHjG-rquOWOF0-jSOekotRcg4o6cjVlCHWFNi_CnkTs4vK7T3KUPzKgzpI)
 
-####  🎯 ¿Quieres más información sobre cómo publicar layouts?
+## 🎯 Do you want more information on how to publish layouts?
 
 {% page-ref page="../../layout/publicar-layouts.md" %}
 
-![](../../.gitbook/assets/publish_layout.gif)
-
-
+![](https://github.com/iciaparicio/explore-cms/blob/master/.gitbook/assets/publish_layout.gif?raw=true)
 

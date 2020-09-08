@@ -1,55 +1,55 @@
 ---
 description: >-
-  Usa esta opción del menú principal para poder probar cómo quedarán los
-  contenidos que estás preparando antes de publicarlos o úsala para ver al mismo
-  tiempo el contenido de distintos segmentos.
+  Use this option on the main menu to preview how the contents that you are
+  preparing will look before you publish them, or use it to simultaneously view
+  the content of different segments.
 ---
 
 # Test lines
 
-## Previsualizar cambios
+## Preview changes
 
-Actualmente no existe una versión web para Explore por lo que aún no es posible visualizar directamente cómo queda el contenido antes de su publicación.
+There is currently no web version for Explore so it is not yet possible to directly see how the content looks before publishing it.
 
-No obstante, cada vez que haces un cambio en un layout \(añadir o eliminar un módulo, editar el orden de los módulos\) ese layout pasa a estado **MODIFIED**. En ese estado puedes ver esos cambios desde la app de tu móvil, siempre y cuando hayas facilitado tu número de móvil al equipo de NOVUM de tu OB para que lo puedan meter en una lista concreta y puedas ver los cambios antes de publicar el layout. 
+However, every time you make a change to a layout \(add or remove a module, edit the order of the modules\), that layout changes to a **MODIFIED** status. In this status you can see those changes from your mobile app, as long as you have provided your mobile number to the NOVUM team of your OB so that they can add it to a specific list and you can see the changes before publishing the layout.
 
-Además, desde **Test lines** puedes ver, desde el mismo dispositivo, diferentes configuraciones en función de los diferentes segmentos, sin necesidad de cambiar de línea o tener varios msisdn.
+In addition, from **Test lines** you are able to view different configurations of segments from the same device, without needing to change line or have various MSISDNs.
 
-## Crear una línea de pruebas
+## Create a test line
 
-Accede al menú **Explore &gt; Test lines** y haz clic en **CREATE A NEW TEST LINE**.
+Access the **Explore &gt; Test lines** menu and click on **CREATE A NEW TEST LINE**.
 
 ![](.gitbook/assets/image%20%2858%29.png)
 
-En la ventana **Create test line** rellena los siguientes campos:
+In the **Create test line** window, fill in the following fields:
 
 ![](.gitbook/assets/image%20%2815%29.png)
 
-**Phone number**. Selecciona en el listado el número de teléfono sobre el que quieres hacer la prueba.
+**Phone number**. From the list, select the phone number that you want to perform the test on.
 
-**Layout type**. Selecciona uno o varios layouts para probar el contenido.
+**Layout type**. Select one or more layouts to test the content.
 
-**Microsegment**. Indica los microsegmentos que quieres aplicar a tu línea de pruebas. Escribe los nombres de los microsegmentos separados por coma y un espacio.
+**Microsegment**. Indicate the microsegments you want to apply to your test line. Write the names of the microsegments, separated by a comma and a space.
 
-Ejemplo:
+Example:
 
-`microsegmento1, microsegmento2, microsegmento3`
+`microsegment1, microsegment2, microsegment3`
 
-🔅 Este campo es opcional.
+🔅 This is an optional field.
 
-Haz clic en **NEXT** para continuar. Selecciona el estado en el que realizar la prueba, en función de lo que quieras hacer:
+Click **NEXT** to continue. Select the state in which you wish to perform the test, depending on your objective:
 
 ![](.gitbook/assets/test_line_status.png)
 
-#### Visualizar varios segmentos
+### Display multiple segments
 
-* **Published**. Verás el diseño exactamente igual que lo ven los usuarios en ese momento, con la ventaja de que puedes visualizar al mismo tiempo varios segmentos \(los que hayas seleccionado en **Layout type**\), independientemente del segmento de tu línea móvil. 
+* **Published**. You will see the design exactly as users are seeing it at that moment in time, with the advantage that you can also simultaneously view several other segments \(those selected in **Layout type**\), regardless of the segment of your mobile line.
 
-#### Previsualizar contenido antes de publicar
+### Preview content before publishing
 
-* **Draft**. Verás el diseño tal y como está guardado en el CMS en ese momento, aunque no esté publicado. Usa esta opción para previsualizar una configuración antes de publicarla y asegurarte de cómo la verán los usuarios.
+* **Draft**. You will see the design exactly as it is stored in the CMS at that time, even if it is not published. Use this option to preview a configuration before publishing it, ensuring that users will view it as you want them to.
 
 {% hint style="danger" %}
-Ten en cuenta que en modo prueba es posible que algunos enlaces de las _cards_ no funcionen correctamente. 
+Please note that in test mode some _cards_ links may not work properly.
 {% endhint %}
 

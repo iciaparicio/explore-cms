@@ -1,6 +1,6 @@
 ---
-description: Accede a Explore CMS desde la Comms Tool
+description: Access Explore CMS from the Comms Tool
 ---
 
-# Primeros pasos
+# First steps
 

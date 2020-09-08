@@ -1,100 +1,96 @@
 ---
 description: >-
-  Sección de Preguntas Frecuentes donde puedes consultar las dudas más
-  habituales sobre el uso de Explore CMS.
+  Section on FAQs where you can consult the most frequent doubts regarding how
+  to use Explore CMS.
 ---
 
-# FAQ
+# FAQs
 
-## ¿Un módulo puede estar en varios layouts a la vez?
+## Can a module be in several layouts at the same time?
 
-Sí, claro que sí. Por tanto, ten en cuenta que los cambios que hagas en un módulo pueden afectar a varios layouts. 
+Yes, absolutely. It is therefore worth bearing in mind that the changes you make to a module can affect several layouts.
 
-Al editar un módulo puedes ver en qué layout o layouts está:
+When editing a module, you can see which layout or layouts it is included in:
 
 ![](.gitbook/assets/image%20%281%29.png)
 
-## Quiero cambiar solo un detalle de un módulo para un layout pero ese módulo está también en uso en otro layout, ¿qué puedo hacer?
+## I only want to change one detail of a module for one layout but that module is also in use in another layout; what can I do?
 
-Si quieres que ese cambio afecte solo a un layout entonces crea otro módulo igual pero que incluya además el detalle que quieres modificar. En ese momento tendrás dos módulos creados. Usa en cada layout el módulo que necesites.
+If you only want that change to affect one layout then create another identical module that also includes the detail you wish to modify. You will then have created two modules. Use the module you need in each layout.
 
 {% hint style="info" %}
-Ejemplo
+For example
 
-_Tengo los layouts **Layout android prepay** y **Layout ios prepay**. En ambos tengo el módulo **Rows Club Movistar**:_ 
+_I have the layouts **Layout android prepay** and **Layout ios prepay**. Both layouts contain the **Rows Club Movistar** module:_
 
-_He decidido que una de las informaciones sobre el precio que quiero mostrar no es la misma para Android que para iOS._
+_I have decided that some of the information I wish to display about the price is not the same for Android as it is for iOS._
 
-_¿Cómo debo proceder?_
+_What should I do?_
 
-En ese caso lo que que tienes que hacer es crear un nuevo módulo. Llámalo, por ejemplo, _Club Movistar iOS_. La configuración será la misma que el módulo que ya tenías \(_Club Movistar_\) pero con el dato sobre el precio para iOS modificado, tal y como querías.
+In this case, you need to create a new module. Call it, for example, _Club Movistar iOS_. The configuration will be the same as the module you already had \(_Club Movistar_\) but with modified pricing information for iOS, just as you wanted.
 
-A continuación, cuando tengas ese módulo creado, accede al repositorio de Layouts y edita **Layout ios prepay**. Elimina el módulo **Row Club Movistar** y añade el nuevo módulo que has creado **Row Club Movistar iOS**.
+Then, once you have created this module, go to the layout repository and edit **Layout ios prepay**. Delete the **Row Club Movistar** module and add the new **Row Club Movistar iOS** module that you have created.
 {% endhint %}
 
 {% hint style="warning" %}
-No olvides ordenar los módulos tal y como quieras que aparezcan dado que el nuevo módulo que has añadido aparecerá en último lugar.
+Remember to put the modules in the order you wish them to appear, taking into account the fact that the new module you have created will appear last.
 {% endhint %}
 
-## He hecho un cambio en un módulo y quiero publicarlo. ¿Desde dónde lo hago?
+## I have made a change to a module and I want to publish it. Where do I do this from?
 
-En realidad los módulos no se publican, lo que publicas es el layout. La razón es sencilla: un cambio en un módulo puede afectar a varios layouts al mismo tiempo y es posible que esa no sea tu intención. Por esa razón lo que siempre vas a publicar son layouts.
+The fact is that you publish the layout rather than the modules. The reason for this is simple: a change to a module can affect several layouts at the same time and that may not be your intention. That is why you always publish layouts.
 
-🎯 ¿No sabes cómo publicar un layout? Esto te interesa 👇 
+🎯 Don't know how to publish a layout? This will be of interest to you 👇
 
-{% page-ref page="layout/publicar-layouts.md" %}
+## I have made changes to a layout but I have not yet published them. Can I preview the changes before making them visible to all users?
 
-## He hecho cambios a un layout pero aún no los he publicado. ¿Puedo previsualizar esos cambios antes de hacerlos visibles a todos los usuarios?
+Yes, of course you can do it. Click on this link 👇
 
-Sí, claro que puedes hacerlo. Consulta este enlace 👇 
+## I want to create a new layout; how do I do it?
 
-{% page-ref page="test-lines.md" %}
+You cannot create a new layout as the layouts are already configured depending on the segmentation of your customers. Remember, operating system, payment model.
 
-## Quiero crear un nuevo layout, ¿cómo lo hago?
+## I want to use a _Featured Content_ module but I would like it to be seen after another module that I had created. Is it possible to place it in any position?
 
-No puedes crear un nuevo layout dado que los layouts vienen ya configurados en función de la segmentación de tus clientes. Recuerda, sistema operativo, modelo de pago.
-
-## Quiero usar un módulo de tipo _Featured Content_ pero me gustaría que se viese después de otro módulo que había creado. ¿Es posible situarlo en cualquier posición?
-
-Por supuesto. Puedes situarlo en la posición que quieras dentro del layout. Eso sí, ten en cuenta que el título que se muestra en ese caso es el que hayas definido en el campo **Section Title**.
+Of course. You can place it in any position you want within the layout. Of course, bear in mind that the title shown in this case is the one you defined in the **Section Title** field.
 
 ![](.gitbook/assets/image%20%2850%29.png)
 
 {% hint style="warning" %}
-Ten en cuenta que en primera posición siempre tiene que ir un módulo de tipo _Featured Content_, independientemente de que uses más de este tipo en tu composición del layout.
+Bear in mind that a _Featured Content_​-type module must always occupy the first position, regardless of whether you use more of this type in your layout composition.
 {% endhint %}
 
-## No tengo usuario para acceder a Explore CMS, ¿cómo lo obtengo?
+## I don't have a username to log in to Explore CMS, how do I get one?
 
-Ponte directamente en contacto con tu equipo de NOVUM. Ellos gestionarán tu acceso.
+Contact your NOVUM team directly. They will manage your login.
 
-## Categorías
+## Categories
 
-Desde esta sección puedes resolver todas tus dudas referentes a la configuración de categorías y que te ayudarán a configurarlas de forma óptima:
+In this section, you can resolve all of your doubts regarding the configuration of categories, learning how to configure them in the optimum manner:
 
-### ¿Todo el contenido de Explore CMS tiene que estar categorizado?
+### Does all the Explore CMS content need to be categorised?
 
-Sí, así es. Todo el contenido tiene que tener asignada, al menos, una categoría.
+Yes, that's right. All the content needs to be assigned to at least one category.
 
-### ¿Puedo editar, crear o eliminar una categoría desde Explore CMS?
+### Can I edit, create or delete a category in Explore CMS?
 
-No, no es posible ni crear, ni editar el nombre, ni eliminar una de las categorías existentes desde Explore CMS. Pero no te preocupes porque las categorías que puedes seleccionar han sido acordadas con tu OB para que no necesites crear categorías nuevas.
+No, it's not possible to create, rename or delete any of the existing categories from Explore CMS. But don't worry, because the categories that you can select have been agreed with your OB, meaning you won't need to create new categories.
 
-Si aún así consideras que hay contenido que no se adapta a ninguna de las categorías disponibles no dudes en ponerte en contacto con el responsable de tu OB para que pueda trasladar al equipo de NOVUM tu petición. Juntos decidirán si efectivamente es necesario hacer algún cambio.
+If you still feel that there is content that doesn't apply to any of the available categories, please feel free to contact your OB manager for him/​her to forward your request to the NOVUM team. They will make a joint decision as to whether or not a change is necessary.
 
-### He visto que hay muchas categorías predefinidas en Explore CMS pero no las necesito todas.
+### I've seen that there are many predefined categories in Explore CMS, but I don't need all of them.
 
-No pasa nada. Si hay alguna categoría que no necesitas no la uses. En ese caso esa categoría no se muestra al usuario.
+Don't worry. If there's a category that you don't need, don't use it. In this case, the category won't be shown to the user.
 
-### ¿Puedo usar solo una categoría para todo mi contenido?
+### Can I use one category for all my content?
 
-No, necesitas usar al menos 3 categorías de las propuestas. Piensa que si solo usas 1 o 2 categorías el contenido que muestras al usuario es prácticamente el mismo.
+No, you need to use at least 3 of the proposed categories. If you use just 1 or 2 categories, the filtered content will be almost the same as the unfiltered content.
 
-De todos modos seguro que tienes un contenido muy interesante para usar al menos esas 3 categorías. De hecho la recomendación es que uses entre 3 y 5 categorías. Eso hará que la experiencia del usuario al usar Explore mejore considerablemente.
+Anyway, you're bound to have some really interesting content that applies to those 3 categories. In fact, we recommend using between 3 and 5 categories. This will considerably improve the user's experience of Explore CMS.
 
-### ¿Puedo cambiar el orden en el que se van a mostrar las categorías en Explore?
+### Can I change the order in which the categories are shown in Explore?
 
-Desde Explore CMS no. Pero no te preocupes porque antes del lanzamiento de las categorías el orden se ha acordado ya con los responsables de tu OB. 
+From Explore CMS, no. But don't worry, because the order will already have been agreed with the managers of your OB prior to the launch of the categories.
 
-Si fuera necesario algún cambio, comunícalo a la persona responsable de tu OB para que lo pueda gestionar con el personal de NOVUM.
+If you feel like a change is necessary, please inform the person responsible for your OB so that they can manage the change with NOVUM staff.
 
