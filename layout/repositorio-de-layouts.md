@@ -12,9 +12,12 @@ O arquivo de layouts inclui informação sobre:
 
 **STATUS**. Estado do Layout que informa sobre as últimas mudanças efetuadas no layout e sobre o estado em que se encontra. Os estados disponíveis são:
 
-- **PUBLISHED**. A versão do layout atualmente é pública e pode ser visualizada pelos usuários.
-- **MODIFIED**. A versão do layout é uma versão com mudanças pendentes de publicação. Os usuários não verão essas mudanças até a publicação do layout.
+* **PUBLISHED**. A versão do layout atualmente é pública e pode ser visualizada pelos usuários.
+* **MODIFIED**. A versão do layout é uma versão com mudanças pendentes de publicação. Os usuários não verão essas mudanças até a publicação do layout.
 
-{% hint style="info" %} No estado **MODIFIED** pode visualizar o layout no app caso tenha informado um msisdn, número de telefone válido, para a equipe da NOVUM de sua OB, para ser incluído em uma lista especial (*white list*). {% endhint %}
+{% hint style="info" %}
+No estado **MODIFIED** pode visualizar o layout no app caso tenha informado um msisdn, número de telefone válido, para a equipe da NOVUM de sua OB, para ser incluído em uma lista especial \(_white list_\).
+{% endhint %}
 
 **ACTIONS**. Com o ícone ![](https://github.com/iciaparicio/explore-cms/blob/master/.gitbook/assets/icono_editar.png?raw=true) pode acessar a edição de módulos do layout.
+

@@ -1,5 +1,7 @@
 ---
-description: Veja rapidamente como editar um layout. No final deste artigo, você pode acessar os passos de maneira muito mais detalhada.
+description: >-
+  Veja rapidamente como editar um layout. No final deste artigo, você pode
+  acessar os passos de maneira muito mais detalhada.
 ---
 
 # Edição de um Layout
@@ -18,12 +20,13 @@ Na edição de layout, você pode adicionar ou eliminar módulos, ou mudar a ord
 
 ### Passo 3
 
-Quando finalizar a edição do layout, clique em **DONE** Quando finalizar a edição do layout, clique em estado *draft*. Publique-as para que os usuários do app possam visualizá-las.
+Quando finalizar a edição do layout, clique em **DONE** Quando finalizar a edição do layout, clique em estado _draft_. Publique-as para que os usuários do app possam visualizá-las.
 
-#### ​​ 🎯 Quer obter mais informações sobre como editar layouts?
+### ​​ 🎯 Quer obter mais informações sobre como editar layouts?
 
 {% page-ref page="../../layout/editar-layout.md" %}
 
-![Cómo añadir un módulo en un layout](https://github.com/iciaparicio/explore-cms/blob/master/.gitbook/assets/edit_layouts.gif?raw=true)
+![C&#xF3;mo a&#xF1;adir un m&#xF3;dulo en un layout](https://github.com/iciaparicio/explore-cms/blob/master/.gitbook/assets/edit_layouts.gif?raw=true)
 
-![Cómo cambiar de posición un módulo dentro de un layout](https://github.com/iciaparicio/explore-cms/blob/master/.gitbook/assets/move_layouts.gif?raw=true)
+![C&#xF3;mo cambiar de posici&#xF3;n un m&#xF3;dulo dentro de un layout](https://github.com/iciaparicio/explore-cms/blob/master/.gitbook/assets/move_layouts.gif?raw=true)
+

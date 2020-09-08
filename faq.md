@@ -1,5 +1,7 @@
 ---
-description: Seção de Perguntas Frequentes, onde poderá consultar dúvidas mais comuns sobre a utilização de Explore CMS.
+description: >-
+  Seção de Perguntas Frequentes, onde poderá consultar dúvidas mais comuns sobre
+  a utilização de Explore CMS.
 ---
 
 # FAQ
@@ -10,25 +12,29 @@ description: Seção de Perguntas Frequentes, onde poderá consultar dúvidas ma
 
 Quando da edição de um módulo, pode ver em que layout ou layouts está:
 
-![](.gitbook/assets/image%20%281%29.png)
+![](https://github.com/iciaparicio/explore-cms/tree/2d14bb61a8e92a38fe23ad18f7cf392e8f2f8668/pt-BR/.gitbook/assets/image%20%281%29.png)
 
 ## Somente quero mudar um detalhe de um módulo para um layout, mas esse módulo também está sendo utilizado em outro layout. O que posso fazer?
 
 Se deseja que essa mudança afete só um layout, crie outro módulo igual, mas que também inclua o detalhe que quer modificar. Nesse momento, você possuirá dois módulos criados. Use o módulo que precisar em cada layout.
 
-{% hint style="info" %} Por exemplo
+{% hint style="info" %}
+Por exemplo
 
-*Tenho os layouts **Layout android prepay** e **Layout ios prepay**. Em ambos, está o módulo **Rows Club Movistar**:*
+_Tenho os layouts **Layout android prepay** e **Layout ios prepay**. Em ambos, está o módulo **Rows Club Movistar**:_
 
-*Decidi que uma das informações sobre o preço que vou exibir não seja a mesma para Android do que para iOS.*
+_Decidi que uma das informações sobre o preço que vou exibir não seja a mesma para Android do que para iOS._
 
-*O que devo fazer?*
+_O que devo fazer?_
 
-Nesse caso, você deve criar um novo módulo. Coloque o nome, por exemplo, ​*Club Movistar iOS*.  A configuração será a mesma que para o módulo que já possuía (*Club Movistar*) mas com o dado sobre o preço para iOS modificado, tal e como você desejava.
+Nesse caso, você deve criar um novo módulo. Coloque o nome, por exemplo, ​_Club Movistar iOS_. A configuração será a mesma que para o módulo que já possuía \(_Club Movistar_\) mas com o dado sobre o preço para iOS modificado, tal e como você desejava.
 
-Seguidamente, quando esse módulo já estiver criado, acesse o arquivo de Layouts e edite **Layout ios prepay**. Elimine o módulo **Row Club Movistar** e adicione o novo módulo criado, **Row Club Movistar iOS**. {% endhint %}
+Seguidamente, quando esse módulo já estiver criado, acesse o arquivo de Layouts e edite **Layout ios prepay**. Elimine o módulo **Row Club Movistar** e adicione o novo módulo criado, **Row Club Movistar iOS**.
+{% endhint %}
 
-{% hint style="warning" %} Lembre-se de ordenar os módulos tal e como quer que eles apareçam, porque o novo módulo adicionado estará no último lugar. {% endhint %}
+{% hint style="warning" %}
+Lembre-se de ordenar os módulos tal e como quer que eles apareçam, porque o novo módulo adicionado estará no último lugar.
+{% endhint %}
 
 ## Fiz uma mudança em um módulo e quero publicá-la. Onde posso fazê-la?
 
@@ -48,13 +54,15 @@ Sim, é claro que pode. Consulte este link 👇
 
 Você não pode criar um novo layout, porque os layouts já estão configurados segundo a segmentação de seus clientes. Lembre-se, sistema operacional, modelo de pagamento.
 
-## Quero usar um módulo tipo *Featured Content* mas gostaria que aparecesse depois de outro módulo que já tenho criado. É possível colocá-lo em qualquer posição?
+## Quero usar um módulo tipo _Featured Content_ mas gostaria que aparecesse depois de outro módulo que já tenho criado. É possível colocá-lo em qualquer posição?
 
 Certamente. Você pode colocá-lo na posição que desejar dentro do layout. Contudo, tenha em conta que o título mostrado, nesse caso, será aquele definido no campo **Section Title**.
 
-![](.gitbook/assets/image%20%2850%29.png)
+![](https://github.com/iciaparicio/explore-cms/tree/2d14bb61a8e92a38fe23ad18f7cf392e8f2f8668/pt-BR/.gitbook/assets/image%20%2850%29.png)
 
-{% hint style="warning" %} Ainda, considere que, na primeira posição, sempre deve existir um módulo do tipo *Featured Content*, independente de usar mais deste tipo na composição do seu layout. {% endhint %}
+{% hint style="warning" %}
+Ainda, considere que, na primeira posição, sempre deve existir um módulo do tipo _Featured Content_, independente de usar mais deste tipo na composição do seu layout.
+{% endhint %}
 
 ## Não tenho usuário para acessar o Explore CMS. Como obtê-lo?
 
@@ -89,3 +97,4 @@ De qualquer forma, certamente você tem conteúdo muito interessante para usar p
 Do Explore CMS no. Mas não se preocupe, porque antes do lançamento das categorias o pedido já havia sido acordado com os responsáveis pelo seu OB.
 
 Se for necessária alguma alteração, comunique-a à pessoa responsável pelo seu OB para que ele possa ser gerenciado com a equipe da NOVUM.
+
