@@ -1,48 +1,46 @@
 ---
-description: Aquí puedes ver cómo construir correctamente un deep link para Explore
+description: Here you can see how to correctly create a deep link for Explore
 ---
 
-# Deep links por categorías
+# Deep links by category
 
-## Lista de deep links por categorías
+## List of deep links by category
 
-Esta es la lista de deep links \(enlaces\) para llevar al usuario al contenido de Explore filtrado según la categoría:
+This is the list of deep links that will take the user to the Explore content, filtered by category:
 
-**Accesorios**
+**Accessories**
 
-`https://appwebview.movistar.es/explore?refresh=true&categoryID=accesory` 
+`https://appwebview.movistar.es/explore?refresh=true?categoryID=accesory`
 
-**Paquetes**
+**Bundles**
 
-`https://appwebview.movistar.es/explore?refresh=true&categoryID=bundle`
+`https://appwebview.movistar.es/explore?refresh=true?categoryID=bundle`
 
-**Dispositivos**
+**Devices**
 
-`https://appwebview.movistar.es/explore?refresh=true&categoryID=device`
+`https://appwebview.movistar.es/explore?refresh=true?categoryID=device`
 
-**Fidelización**
+**Loyalty**
 
-`https://appwebview.movistar.es/explore?refresh=true&categoryID=loyalty`
+`https://appwebview.movistar.es/explore?refresh=true?categoryID=loyalty`
 
-**Promociones**
+**Promos**
 
-`https://appwebview.movistar.es/explore?refresh=true&categoryID=promotion`
+`https://appwebview.movistar.es/explore?refresh=true?categoryID=promotion`
 
-**Planes**
+**Plans**
 
-`https://appwebview.movistar.es/explore?refresh=true&categoryID=plan`
+`https://appwebview.movistar.es/explore?refresh=true?categoryID=plan`
 
-**Servicios**
+**Services**
 
-`https://appwebview.movistar.es/explore?refresh=true&categoryID=value_added_service` 
+`https://appwebview.movistar.es/explore?refresh=true?categoryID=value_added_service`
 
-**Televisión**
+**Television**
 
-`https://appwebview.movistar.es/explore?refresh=true&categoryID=tv` 
+`https://appwebview.movistar.es/explore?refresh=true?categoryID=tv`
 
-{% hint style="warning" %}
-Ten en cuenta que esta URL varía en función de la OB. Asegúrate de estar usando la correcta 😉 
+{% hint style="warning" %} Please note that this URL will vary depending on the OB. Make sure you're using the right one 😉
 
-Amplía información sobre Deep links en [Deeplinks Catalogue](https://tef-novum.gitbook.io/novum/develop/deeplinks-catalog).  
-{% endhint %}
-
+Learn more about Deep links in the [Deep links Catalogue](https://tef-novum.gitbook.io/novum/develop/deeplinks-catalog).
+ {% endhint %}

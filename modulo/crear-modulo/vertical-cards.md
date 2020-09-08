@@ -1,199 +1,192 @@
 ---
-description: >-
-  Muestra elementos en formato vertical. Úsalo, por ejemplo, para presentar
-  ofertas de móviles.
+description: It displays elements in vertical format. It is very useful for presenting mobile phone offers, for example.
 ---
 
 # Vertical Cards
 
-Este tipo de módulo sirve para mostrar varios elementos en formato vertical. Es muy útil para presentar, por ejemplo, ofertas de productos.
+This type of module is used to display several elements in vertical format. It is very useful for presenting products offers, for example.
 
-Se muestra a modo carrusel ofreciendo enlaces en cada _card_ y elementos opcionales como la etiqueta sobre la imagen o un enlace a toda una lista \(un “Ver todo”\).
+It is displayed as a carousel offering links on each *card* as well as optional elements like a tag on the image or a link to an entire list (a “See all”).
 
 ![](../../.gitbook/assets/image%20%2869%29.png)
 
-Rellena los campos obligatorios y decide si necesitas rellenar alguno de los campos opcionales:
+Fill in the required fields and decide if you need to fill in any of the optional fields:
 
 ## Details
 
 ![](../../.gitbook/assets/image%20%2860%29.png)
 
-**Name**. Nombre que identifica internamente al elemento. En la app no se muestra en ningún momento pero con ese nombre puedes identificar el módulo en la vista de listado de módulos.
+**Name**. Name that internally identifies the element. It is never shown in the app but you can use this name to identify the module in the module list view.
 
-🔅No tiene una longitud máxima y es **obligatorio**.
+🔅It has no maximum length and is a **required** field.
 
-**For more information check the guidelines**. Consulta las guías de diseño relativas al módulo que estás creando o editando. Revísalas para asegurar que estás subiendo contenido de la mejor calidad posible.
+**For more information check the guidelines**. Check the design guidelines relating to the module you are creating or editing. Review them to ensure that content of the highest possible quality is being uploaded.
 
 ## Module building
 
 ![](../../.gitbook/assets/image%20%2853%29.png)
 
-**Section Title**. Título que se muestra encima del módulo. Además, este título sirve para identificar internamente el módulo que estás creando. Con ese título puedes identificar el módulo en la vista de listado de módulos.
+**Section Title**. Title shown above the module. In addition, this title is used to internally identify the module you are creating. Using this title, you can identify the module in the module list view.
 
-🔅Tiene una longitud máxima de **25 caracteres** y es **obligatorio**.
+🔅It has a maximum length of **25 characters** and is a **required** field.
 
 ## Cards
 
-Las _cards_ son las secciones que componen el carrusel. Para cada módulo de tipo _Vertical cards_ configura un mínimo de 2 _cards_ y un máximo de 6.
+The *cards* are the sections that make up the carousel. For each​ *Vertical cards* module, configure a minimum of *cards* and a maximum of 6.
 
-![](../../.gitbook/assets/vertical_cards_cms.png)
+![](../../.gitbook/assets/image%20%2822%29.png)
 
-Para cada _card_ los campos disponibles son:
+For each *card*, the available fields are:
 
-**Card 1Image - Upload an image** 📤 . URL de la imagen de la _card_. Tiene que tener el formato de URL propio del CMS.
+**Card 1Image - Upload an image** 📤 . URL of the *card* image. This must be in the CMS's own URL format.
 
-Haz clic en el enlace **Upload an image** 📤 y selecciona la imagen directamente desde de tu ordenador. Una vez procesada la subida de la imagen, la URL se autocompleta en el campo de texto.
+Click on the **Upload an image** link 📤 and choose the image you want from your computer. Once the image upload has been processed, the URL will auto-complete in the text field.
 
-Cuando la imagen se haya subido se previsualiza justo debajo.
+When the image has been uploaded it is previewed just below.
 
 ![](../../.gitbook/assets/image%20%2837%29.png)
 
-🔅No tiene una longitud máxima y es **opcional**. 
+🔅It has no maximum length and is an **optional** field.
 
-**Card 1 Image Accesibility Text**. Descripción de la imagen que se usa para la accesibilidad como alternativa si la imagen no se puede mostrar \(por ejemplo, para personas con problemas de visión\).
+**Card 1 Image Accesibility Text**. Description of the image that is used for accessibility as an alternative if the image cannot be displayed (for example, for people with vision problems).
 
-🔅No tiene una longitud máxima y es **obligatorio**. 
+🔅It has no maximum length and is a **required** field.
 
-**Card 1 Title**. Título de la card que aparece bajo la imagen. Además, identifica internamente a la card \(ejemplo: `iPhone X`\). 
+**Card 1 Title**. Title of the card that appears below the image. In addition, it identifies the card internally (for example: `iPhone X`).
 
-🔅Tiene una longitud máxima de **15 caracteres** y es **obligatorio**.
+🔅It has a maximum length of **15 characters** and is a **required** field.
 
-**Card 1 Tracking Name**. Nombre que no ven los usuarios pero sí se ve en Google Analytics. Sirve para identificar el producto internamente de manera más fácil. 
+**Card 1 Tracking Name**. Name that is not seen by users but is seen in Google Analytics. It is used to more easily identify the product internally.
 
-🔅Es **opcional**.
+🔅It is an **optional** field.
 
-**Card 1 Description**. Breve descripción del producto presentado \(ejemplo: `by Apple`\).
+**Card 1 Description**. Short description of the product shown (for example: `by Apple`).
 
-🔅Tiene una longitud máxima de **22 caracteres** y es **obligatorio**.
+🔅It has a maximum length of **22 characters** and is a **required** field.
 
-**Card 1 Offers Row**: **Standard**. Texto que se muestra sobre el precio de la _card_, con un estilo normal \(ejemplo: `Desde`\). Combinado con otros campos de **Offers Row** los últimos campos se pueden ver afectados si usas todos los disponibles. 
+**Card 1 Offers Row**: **Standard**. Text that is displayed about the price of the *card*, with a highlighted style (for example: ​`From`). When combined with other **Offers Row** fields, the last fields may be affected if you use all available fields.
 
-🔅Tiene una longitud máxima de **26 caracteres** y es **opcional**.
+🔅It has a maximum length of **26 characters** and is an **optional** field.
 
 ![](https://lh4.googleusercontent.com/U58Gt_-TAB8-6hP_lOnHwZTrWTwHGkEwUlQwYM307RiwVaimItNKmZ05kE-CmuAfsv1lz2iymyCPW_tjBoRR78OhsplTOmdJcfJqvP-7tyJAKkkc1Z0Vj0_AaAcaHS2_xs8A6JGH)
 
-**Card 1 Offers Row: Highlight**. Texto que se muestra sobre el precio de la _card_, con un estilo destacado \(ejemplo: `-18%`\). Combinado con otros campos de **Offers Row** los últimos campos se pueden ver afectados si usas todos los disponibles. 
+**Card 1 Offers Row: Highlight**. Text that is displayed over the price of the *card*, with a highlighted style (for example: `-18%`). When combined with other **Offers Row** fields, the last fields may be affected if you use all available fields.
 
-🔅Tiene una longitud máxima de **26 caracteres** y es **opcional**.
+🔅It has a maximum length of **26 characters** and is an **optional** field.
 
 ![](https://lh6.googleusercontent.com/oYG3Qydlec2DuKc7ttf9gVM7GGkHzV0XYo8mVH2f4MJhE37Cb95CdPYH5x2UYYcrIvVuk_n0QBI8wG8APlWF8LzRGaSTVe9pWg6Sh1_ZrW5mQiEuxJyBsXk2yZEdjfhjgB4wzFw-)
 
-Aquí tienes un conjunto de ejemplos de combinaciones de campos de **Offers Row**:
+Here is a set of examples of combinations of **Offers Row** fields:
 
 ![](https://lh4.googleusercontent.com/DiHi3QS0LBDadggmHzsZil8UJdKpcV2f2lkvwmoxzqJHEiPBnEgSiSlZ_mS8BWpXo86vdPe8Q83khlKGfWrjRkGI8patA1-GyOzrbfHCJFBheR8mzSuZMug3PjJ_I4TtfYEnmnOu)
 
-**Row 1 Price**. Precio que se muestra debajo del título y la descripción. No olvides indicar siempre un precio válido \(ejemplo `$123`\).
+**Row 1 Price**. Price that is shown below the title and description. Remember to always indicate a valid price (for example`$123`).
 
-🔅No tiene una longitud máxima y es **obligatorio**.
+​​ 🔅It has no maximum length and is a **required** field.‌
 
-**Row 1 Price Information.** Texto para aportar información adicional acerca del precio. Se muestra debajo. En función del número de caracteres ocupa una o dos líneas \(ejemplo `Hasta 12 meses sin intereses`\).
+**Row 1 Price Information.** Text to provide additional information about the price and which is shown below. Depending on the number of characters, it takes up one or two lines (for example `Up to 12 months interest-free​`).
 
-🔅Tiene una longitud máxima de **52 caracteres** y es **opcional**.
+🔅It has a maximum length of **52 characters** and is an **optional** field.
 
-**Card 1 Tag**. Texto corto que se sitúa por encima de la imagen de la _card_. 
+**Card 1 Tag**. Short text that is located above the image of the *card*.
 
-🔅Tiene una longitud máxima de **18 caracteres** \(recomendado menos de 10\) y es **opcional**.
+🔅It has a maximum length of **18 characters** (less than 10 recommended) and is an **optional** field.
 
-**Card 1 Action Url**. URL de la _card_, es decir, URL a la que se accede al hacer clic sobre la _card_. 
+**Card 1 Action Url**. URL of the *card*, i.e., the URL that can be accessed by clicking on the *card*.
 
-🔅Es **obligatoria** y tiene que ser una URL válida \(ejemplo: [`https://www.google.com`](https://www.google.com)\)
+🔅This is a **required** field and has to be a valid URL (for example: [`https://www.google.com`](https://www.google.com))
 
-**Card 1 Starting date and time**. Fecha y hora en la que quieres que la _card_ empiece a mostrarse a los usuarios. 
+**Card 1 Starting date and time**. Date and time you want the *card* to start being displayed to users.
 
-🔅Es opcional.
+🔅  It is an optional field.
 
-**Card 1 Ending date and time**. Fecha y hora en la que quieres que la _card_ termine de mostrarse a los usuarios.
+**Card 1 Ending date and time**. Date and time you want the *card* to stop being displayed to users.
 
-🔅Es opcional.
+🔅  It is an optional field.
 
-**Display the ending date on the card**. Activa esta opción para informar al usuario que el contenido va a caducar. 
+**Display the ending date on the card**. Activate this option to inform the user that the content will expire.
 
 ![](../../.gitbook/assets/image%20%2827%29.png)
 
-**¿Cómo se visualiza la fecha de caducidad?**
+**How is the expiration date displayed?**
 
-Si has habilitado la opción de mostrar la fecha de caducidad, cómo se muestre esa fecha depende del día en que expire la _card_.
+If you have enabled the option to show the expiration date, the way in which that date is displayed depends on the day on which the *card* expires.
 
-`TERMINA HOY hh:mm AM` o `TERMINA HOY hh:mm PM` o `TERMINA HOY hh:mm` \(el formato varía en función del país\) para indicar que la _card_ caduca en el mismo día a la hora indicada, por la mañana o por la tarde, respectivamente. Por ejemplo `TERMINA HOY 9:00AM`.
+`ENDS TODAY hh:mm AM` or `ENDS TODAY hh:mm PM` or `ENDS TODAY hh:mm` (format varies depending on the country) to indicate that *card* expires on the same day at the specified time, in the morning or in the afternoon, respectively. For example, `ENDS TODAY at 9:00 AM`.
 
 ![](../../.gitbook/assets/image%20%2855%29.png)
 
-`MAÑANA` indica que la fecha de caducidad es al día siguiente. 
+`TOMORROW` indicates that the expiration date is the following day.
 
 ![](../../.gitbook/assets/image%20%286%29.png)
 
-`TERMINA dd mm` para indicar que la diferencia es de más de dos días. Por ejemplo `TERMINA 30 JUN`.
+`ENDS on dd mm` to indicate that the difference is more than two days. For example `ENDS on 30 JUN`.
 
 ![](../../.gitbook/assets/image%20%2824%29.png)
 
-🎯 La fecha de comienzo y fin son una manera de programar algunas campañas, especialmente aquellas de carácter estacional.
+🎯 Starting and Ending date and time is a way to program some campaigns and is specifically designed for seasonal campaigns.
 
-**Card 1 Micro-segments**. Etiquetas que puedes añadir, siempre separadas por comas, para hacer una segmentación de los usuarios que van a ver el contenido que estás creando.
+**Card 1 Micro-segments**. Tags that you can add, always separated by commas, to make a segmentation of the users who are going to see the content you are creating.
 
-🔅Es **opcional**. 
+🔅It is an **optional** field.
 
-{% hint style="warning" %}
-Recuerda que tienes que configurar un mínimo de 2 _cards_ y un máximo de 6.
+{% hint style="warning" %} Remember that you have to configure a minimum of 2 *cards* and a maximum of 6.
 
-Los campos para todas las cards son los mismos.
-{% endhint %}
+The fields for all the cards are the same. {% endhint %}
 
-**Card 1 categories \(mandatory\)**
+**Card 1 categories (mandatory)**
 
-Las categorías te permiten filtrar el contendido en Explore. Las categorías se muestran en la parte superior, a modo de carrusel horizontal, de modo que el usuario puede navegar por las categorías y seleccionar la que quiera ver.
+Categories allow you to filter content in Explore. The categories are shown at the top in a horizontal scroll bar, which allows the user to browse by category and choose the one they want to see.
 
-Cuando el usuario selecciona una categoría el contenido se muestra ordenado en formato vertical \(en lugar de scroll horizontal\), para que el usuario no se pierda ningún contenido.
+When the user selects a category, the content is shown in a vertical format (as opposed to having to scroll horizontally), so that the user doesn't miss any content.
 
 ![](../../.gitbook/assets/categories_divices.png)
 
-En Explore CMS selecciona la categoría o las categorías que aplican a la card que estás configurando:
+In Explore CMS, select the category or categories that apply to the card that you are configuring:
 
 ![](../../.gitbook/assets/categories.png)
 
-* **Accessories**. Accesorios: auriculares, fundas, relojes.
-* **Bundles**. Paquetes: packs, planes, paquetes de productos.
-* **Devices**. Dispositivos: smartphones, tablets.
-* **Loyalty**. Fidelización: membresía, contenido de programas de loyalty/fidelización \(Valoriza, Priority, Club Movistar…\)
-* **Promos**. Promociones: Contenido promocional que pueda encajar y que es posible que incluso pueda convivir con otras categorías.
-* **Plans**. Planes: Tarifas, actualizaciones, planes de precios.
-* **Services**. Servicios: servicios de valor añadido \(nuevas funcionalidades\), apps, servicios de TEF. 
-* **TV**. Televisión: planes de televisión, contenido destacado.
+- **Accessories**: Earphones, cases, watches.
+- **Bundles**: Packs, plans, product packs.
+- **Devices**:  Smartphones, tablets.
+- **Loyalty**: Membership, loyalty/​retention programmes content (Vivo Valoriza, Priority, Club Movistar, etc.)
+- **Promos**: Promotional content that may apply and which may coexist with other categories.
+- **Plans**: Tariffs, plans and plan upgrades.
+- **Services**: Added value services (new app features), apps, other TEF services.
+- **TV**: Television plans, featured content.
 
-{% hint style="info" %}
-La categoría **All**, que es la primera que se visualiza, no es una categoría como tal sino que es la forma que tiene el usuario de ver todo el contenido.
+{% hint style="info" %} The category **All**, which is the first one that you see, isn't a category as such. Rather, it is the way in which the user can view all the content.
 
-Por defecto, cuando un usuario abre Explore, ve todo el contenido, todas las cards configuradas, y por tanto la categoría seleccionada es siempre **All**. 
-{% endhint %}
+By default, when a user opens Explore he/she sees all content and all configured cards. As such, the selected category is always **All**. {% endhint %}
 
-#### ¿Qué debo tener en cuenta cuando uso las categorías?
+#### What should I consider when using the categories?
 
-¡Consulta la sección [**Categorías**](https://app.gitbook.com/@tef-novum/s/explore-cms/~/drafts/-LyYX2WN5Qc794RVRWmG/faq#categorias) ****del [FAQ](../../faq.md) para resolver todas tus dudas!
+Consult the [**Categories**](https://app.gitbook.com/@tef-novum/s/explore-cms/%7E/drafts/-LyYX2WN5Qc794RVRWmG/faq#categorias) section of the [FAQ](../../faq.md) to resolve all of your doubts!
 
-### Cambiar el orden de las _cards_
+### Change the order of the *cards*
 
-Dentro del módulo puedes mover las cards para cambiar el orden en el que se muestran. 
+Inside the module, you can move the cards to change the order in which they are displayed.
 
 ![](../../.gitbook/assets/drag-and-drop.png)
 
-Para mover una _card_ arrástrala a la posición en la que quieres que se muestre y suéltala.
+To move a *card*, simply drag it to the place where you want it to be displayed and release.
 
 ![](../../.gitbook/assets/drag-and-drop_demo.gif)
 
 ## Link
 
-De forma opcional puedes añadir enlaces que aparecerán en la parte inferior del módulo.
+You can choose to add links that will be shown at the bottom of the module.
 
 ![](../../.gitbook/assets/link_module.png)
 
-Para hacerlo rellena, para cada enlace que quieras añadir \(hasta un máximo de 5 enlaces\), los siguientes campos:
+In order to do so, fill in the following fields for each link you want to add (up to a maximum of 5 links):
 
-**Name**. Nombre del enlace \(ejemplo `Beneficios`\).
+**Name**. Name of the link (for example `Benefits`).
 
-🔅 Tiene una longitud máxima de **38 caracteres** y es **obligatorio**.
+🔅 It has a maximum length of **38 characters** and is a **required** field.
 
-**Action URL.** Enlace ****que se abre al hacer clic sobre el **Name**, es decir, sobre el nombre del enlace.
+**Action URL.** Link that opens when you click on the ​**Name**, i.e., on the name of the link.
 
-🔅 Es obligatorio y tiene que ser una URL válida \(ejemplo: [`https://www.google.com`](https://www.google.com)\)
+🔅 This is a required field and has to be a valid URL (for example: [`https://www.google.com`](https://www.google.com))
 
-![](../../.gitbook/assets/vertical_cards_link.png)
-
+![](../../.gitbook/assets/image%20%2854%29.png)

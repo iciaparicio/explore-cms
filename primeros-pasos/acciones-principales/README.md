@@ -1,10 +1,8 @@
 ---
-description: >-
-  Desde Explore CMS hay algunas acciones que harás con más frecuencia. Mira de
-  forma rápida cómo hacerlas.
+description: From Explore CMS, there are some actions that you will complete more frequently than others. Take a quick look at how to do them.
 ---
 
-# Acciones principales
+# Main actions
 
 {% page-ref page="crear-un-modulo.md" %}
 
@@ -13,6 +11,3 @@ description: >-
 {% page-ref page="editar-un-layout.md" %}
 
 {% page-ref page="publicar.md" %}
-
-
-

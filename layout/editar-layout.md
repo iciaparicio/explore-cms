@@ -1,64 +1,57 @@
 ---
-description: Conoce al detalle cómo editar layouts para los usuarios.
+description: Learn the details of how to edit layouts for users.
 ---
 
-# Editar layout
+# Edit layout
 
-Recuerda que un layout es una unidad de contenido formada por varios módulos. La composición completa de módulos es lo que el usuario ve en la aplicación. Este layout está basado en los segmentos o combinación de segmentos de usuarios a los que va dirigido el contenido \(prepago, contrato, sistema operativo\).
+Keep in mind that a layout is a content unit made up of several modules. The full composition of modules is what the user sees in the app. This layout is based on the user segments or combination of user segments for whom the content is intended (prepay, postpay, operating system).
 
-Los layouts actualmente disponibles dependen de la OB y sus características.
+The layouts currently available depend on the OB and their characteristics.
 
 ![](https://lh6.googleusercontent.com/FdJIOgERcMtTfTcV7ehhcTKaYLbGIM4vmUoOPmxSg2VZDNA7FbPTJoaTrVQihA5_4EcQgYbGXjLsIrfNW4xX4YQ3gBA44iQOQl2MA2SNNcEtYtFfw3UN8HUXdS31GwVTzUsbOf7-)
 
-Para editar un layout existente en Explore CMS y poder publicarlo, accede al repositorio de layouts y haz clic en ![](../.gitbook/assets/icono_editar.png) en la fila del layout correspondiente.
+In order to edit an existing layout in Explore CMS and be able to publish it, go to the layouts repository and click ![](../.gitbook/assets/icono_editar.png) on the row of the corresponding layout.
 
 ![](https://lh3.googleusercontent.com/t2IaTREbk-P1nHvx8nJ1SGOS423cQyTdPdvSRznGPXFFECYQFXtw9tPnHb3bd0-sARSPKaT7zExAC7_9bgmkfBc4JPQGykkLy8dmTp-Dd9gZuEz-x0SYAZ54TMKVhq0ikMiopJ73)
 
-En la cabecera del modo de edición del layout dispones de información sobre:
+In the header of the layout building mode, you can find information about:
 
-**Segment**. Segmento del layout: **Prepay** \(prepago\) o **Postpay** \(postpago\).
+**Segment**. Layout segment: **Prepay** or **Postpay**.
 
-**Operating System.** Sistema operativo del segmento al que va dirigido el layout: **iOS** o **Android**.
+**Operating System.** Operating system of the segment for which the layout is intended: **iOS** or **Android**.
 
 ## Layout building
 
-Desde este apartado puedes configurar el layout, indicando los módulos que vas a mostrar y el orden de los módulos cuando el usuario los vea desde Explore. También puedes crear un módulo desde aquí.
+From this section, you can configure the layout, indicating the modules that you will display and the order of the modules when the user sees them from Explore. You can also create a module from here.
 
-### Cómo cambiar el orden de un módulo en el layout
+### How to change the order of a module in the layout
 
-En el listado haz clic en las flechas ![](https://lh5.googleusercontent.com/VzfjcfEIrPHTLjp_bPrzRkNxpTM4IcMOY2uwN0-ZS4mQqX_ySYoDGL7-FUbKaEPhwY0IQsrvaqGokR0qdpReVgjg-F3U6rLteuZDl3Wc4wpmFbK2sy9Kq7hiaIh5faycHrlgB2ED) para bajar y subir el módulo de su posición.
+In the list, click on the ![](https://lh5.googleusercontent.com/VzfjcfEIrPHTLjp_bPrzRkNxpTM4IcMOY2uwN0-ZS4mQqX_ySYoDGL7-FUbKaEPhwY0IQsrvaqGokR0qdpReVgjg-F3U6rLteuZDl3Wc4wpmFbK2sy9Kq7hiaIh5faycHrlgB2ED) arrows to lower and raise the position of the module.
 
-{% hint style="danger" %}
-Recuerda que en primera posición siempre tiene que haber un módulo de tipo [_Featured Content_](../modulo/crear-modulo/featured-content.md).
-{% endhint %}
+{% hint style="danger" %} Remember that a [*Featured Content*](../modulo/crear-modulo/featured-content.md)-type module must always occupy the first position. {% endhint %}
 
-### Cómo añadir un módulo desde la edición de layouts
+### How to add a module from layouts editing
 
-Selecciona en el desplegable el módulo que quieres añadir.
+Select the module you wish to add from the drop-down menu.
 
 ![](../.gitbook/assets/image%20%2878%29.png)
 
-Usa la funcionalidad de autocompletar: comienza a escribir el nombre del módulo y de forma automática se van filtrando los módulos que coincidan con tu búsqueda. 
+Use the auto-fill function: start typing the module name and the modules that match your search will be filtered automatically.
 
 ![](../.gitbook/assets/autocompletar.png)
 
-### Cómo eliminar un módulo de un layout
+### How to delete a module from a layout
 
-Para que un módulo no se muestre en un layout haz clic en el icono ![](https://lh5.googleusercontent.com/q0qzCAHIyMnv9dyt1hP6CQAHLrJGow0i9F0V5Eee4bWiyqX8RTP2Q7ZYTiXTEOSYO9yyk3hxZIldCKjYgQUDM4bKJK-G9K4i0mPjYGhWacvIkKvvztVn2k_d5tyVKrz55H9TZm9j)del módulo correspondiente.
+In order for a module not to be displayed in a layout, click on the icon ![](https://lh5.googleusercontent.com/q0qzCAHIyMnv9dyt1hP6CQAHLrJGow0i9F0V5Eee4bWiyqX8RTP2Q7ZYTiXTEOSYO9yyk3hxZIldCKjYgQUDM4bKJK-G9K4i0mPjYGhWacvIkKvvztVn2k_d5tyVKrz55H9TZm9j) of the corresponding module.
 
-Haz clic en **DELETE** para acepta el mensaje que se muestra en pantalla y confirmar la acción de borrado.
+Click **DELETE** to accept the message displayed on the screen and confirm that you want to delete the text.
 
 ![](../.gitbook/assets/image%20%2843%29.png)
 
-{% hint style="danger" %}
-La acción de eliminar un módulo de un layout no elimina el módulo del repositorio de módulos y por tanto podrás usarlo en otro momento si lo consideras necesario.
-{% endhint %}
+{% hint style="danger" %} The action of deleting a module from a layout does not delete the module from the modules repository and you can therefore use it at another time if necessary. {% endhint %}
 
-Cuando hayas finalizado la edición del layout haz clic en el botón **DONE**. 
+When you have finished editing the layout, click on the **DONE** button.
 
 ![](../.gitbook/assets/image%20%2826%29.png)
 
-{% hint style="info" %}
-Al hacer clic en **DONE** el layout queda editado pero aún no publicado.
-{% endhint %}
-
+{% hint style="info" %} By clicking **DONE** the layout is edited but not yet published. {% endhint %}

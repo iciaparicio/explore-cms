@@ -1,221 +1,206 @@
 ---
-description: >-
-  También llamado carrusel horizontal. Usa este módulo, por ejemplo, para
-  resaltar contendido relevante para el usuario.
+description: Also called horizontal carousel. This module can be used, for example, to highlight content that is relevant to the user.
 ---
 
 # Featured Content
 
-Es un módulo ideal para resaltar contenido de máximo interés para el usuario limitando el número de elementos que puede ver, con un máximo de 6. 
+An ideal module to highlight relevant content for the user, limiting the number of elements that can be viewed, with a maximum of 6.
 
-Los distintos contenidos configurados pasan a modo de carrusel horizontal para que el usuario pueda verlos cómodamente.
+The various content that has been configured is displayed as a horizontal carousel so that the user can see it comfortably.
 
 ![](../../.gitbook/assets/image%20%288%29.png)
 
-Rellena los campos obligatorios y decide si necesitas rellenar alguno de los campos opcionales:
+Fill in the required fields and decide if you need to fill in any of the optional fields:
 
 ## Details
 
 ![](../../.gitbook/assets/image%20%2876%29.png)
 
-**Name**. Nombre que identifica internamente al elemento. En la app no se muestra en ningún momento pero con ese nombre puedes identificar el módulo en la vista de listado de módulos.
+**Name**. Name that internally identifies the element. It is never shown in the app but you can use this name to identify the module in the module list view.
 
-  🔅No tiene una longitud máxima y es **obligatorio**.
+🔅It has no maximum length and is a **required** field.
 
-**For more information check the guidelines**. Consulta las guías de diseño relativas al módulo que estás creando o editando. Revísalas para asegurar que estás subiendo contenido de la mejor calidad posible.
+**For more information check the guidelines**.  Check the design guidelines relating to the module you are creating or editing. Review them to ensure that content of the highest possible quality is being uploaded.
 
 ## Module building
 
 ![](../../.gitbook/assets/image%20%2820%29.png)
 
-**Section Title**. Título que se muestra encima del módulo siempre que no esté posicionado en primer lugar. Cuando va en la primera posición, no hay título de sección \(en ese caso el título de sección es siempre _Explore_\). Además, este título sirve para identificar internamente el módulo que estás creando. Con ese título puedes identificar el módulo en la vista de listado de módulos.
+**Section Title**. Title that is shown above the module as long as it is not positioned first. When a module is positioned first, there is no section title (in that case the section title is always *Explore*). In addition, this title is used to internally identify the module you are creating. Using this title, you can identify the module in the module list view.
 
-🔅Tiene una longitud máxima de **25 caracteres** y es **obligatorio**.
+🔅It has a maximum length of **25 characters** and is a **required** field.
 
-{% hint style="warning" %}
-Dentro de un layout, es obligatorio que un módulo de tipo _Featured Content_ esté en primera posición.
-{% endhint %}
+{% hint style="warning" %} Within a layout, a *Featured Content*​-type module must occupy the first position. {% endhint %}
 
 ## Cards
 
-Las _cards_ son las secciones que componen el carrusel. Para cada módulo de tipo _Featured Content_ configura un mínimo de 2 _cards_ y un máximo de 6.
+The *cards* are the sections that make up the carousel. For each *Featured Content* module, configure a minimum of 2 *cards* and a maximum of 6.
 
-![](../../.gitbook/assets/featured_content_cms.png)
+![](../../.gitbook/assets/image%20%2828%29.png)
 
-Para cada _card_ los campos disponibles varían en función de que selecciones una imagen o un _bumper_:
+For each *card* the available fields will vary depending on whether you select an image or a *bumper*:
 
-* **Image**. Muestra una imagen estática.
-* **Bumper**. Muestra un vídeo corto o animación.
+- **Image**. It displays a static image.
+- **Bumper**. It displays a short video or animation.
 
-\*\*\*\*💡 __**¿Sabías que?**
+****💡 __**Did you know?**
 
-Un _bumper_ es un vídeo corto o animación. Es un formato por lo general estándar con una duración media de 6 segundos aproximadamente y suele usarse con fines comerciales. 
+A *bumper* is a short video or animation. It is a fairly standard format used in marketing, usually used for commercial purposes and with an average duration of around 6 seconds.
 
-{% tabs %}
-{% tab title="Image" %}
-![](../../.gitbook/assets/image%20%2812%29.png)
+{% tabs %} {% tab title="Image" %} ![](../../.gitbook/assets/image%20%2812%29.png)
 
-**Image Upload an image** 📤. URL de la imagen de la _card_. Tiene que tener el formato de URL propio del CMS.
+**Image Upload an image** 📤. URL of the *card* image. This must be in the CMS's own URL format.
 
-Haz clic en el enlace **Upload an image** 📤 ****y selecciona la imagen directamente desde de tu ordenador. Una vez procesada la subida de la imagen, la URL se autocompleta en el campo de texto.
+Click on the ​**Upload an image** 📤 link and choose the image you want from your computer. Once the image upload has been processed, the URL will auto-complete in the text field.
 
-Cuando la imagen se haya subido se previsualiza justo debajo.
+When the image has been uploaded it is previewed just below.
 
 ![](https://lh4.googleusercontent.com/dULPpwb-XaQ083yWLTZF1G1l_7MO0cW70lM7eg5-ZpMvWyZAPBHjJJpMVNjiTUDtgMy1ng2b_JaSkVRGDZd84K0oSvZnzSS9wp_ddXuGkWXzR2Loo3Pbeio_0pm5ESpRuO28cUhx)
 
-🔅Este campo es **obligatorio**.
+🔅 This is a **required** field.
 
-**Image Accesibility Text**. Descripción de la imagen que se usa para la accesibilidad como alternativa si la imagen no se puede mostrar \(por ejemplo, para personas con problemas de visión\).
+**Image Accesibility Text**. Description of the image that is used for accessibility as an alternative if the image cannot be displayed (for example, for people with vision problems).
 
-🔅No tiene una longitud máxima y es **opcional**.
-{% endtab %}
+🔅It has no maximum length and is an **optional** field. {% endtab %}
 
-{% tab title="Bumper" %}
-![](../../.gitbook/assets/image%20%2823%29.png)
+{% tab title="Bumper" %} ![](../../.gitbook/assets/image%20%2823%29.png)
 
-**Bumper Upload a bumper** 📤. Se autorrellena con el nombre del _bumper_.
+**Bumper Upload a bumper** 📤. It is auto-filled with the name of the *bumper*.
 
-Para subir un bumper tienes dos opciones: 
+To upload a bumper you have two options:
 
-1. Haz clic en el enlace **Upload a bumper** 📤 y sube un _bumper_ desde tu ordenador.
-2. Despliega la lista de los _bumpers_ y selecciona uno de los que ya haya subidos.
+1. Click on the **Upload a bumper** 📤 link and upload a *bumper* from your computer.
+2. Display the list of *bumpers* and select one of those that have already been uploaded.
 
-Activa la opción **Play in loop** para que el _bumper_ se reproduzca en bucle en Explore. Con la opción desactivada se reproduce cada vez que el _bumper_ entre en pantalla pero se para cuando termina la reproducción.
+Activate the **Play in loop** option for the *bumper* to be played in loop in Explore. If you leave it off, it will play every time the *bumper* is on the screen, but once it has finished it will stop.
 
-![Activa o desactiva la opci&#xF3;n para reproducir en bucle](../../.gitbook/assets/image%20%2829%29.png)
+![Activa o desactiva la opción para reproducir en bucle](../../.gitbook/assets/image%20%2829%29.png)
 
-Cuando el _bump_e_r_ se haya subido se previsualiza justo debajo:
+When the *bumper* has been uploaded it is previewed just below:
 
 ![](https://lh3.googleusercontent.com/3IXi0mLJsZm9bEzL8Tv-0-lZoNL-TfIve9tuIW_3fQCsNTzYPF7HhKdPi_Vl5RV-TiRr7AF3LgeRpOP-IYXqNsxsMQqz2eZ-_T-zseUG3oWU7N7coCU5szug3M2kTo65W4LYDuT_)
 
-**Bumper Accesibility Text**. Descripción del _bumper_ que se usa para la accesibilidad como alternativa si el _bumper_ no se puede mostrar \(por ejemplo, para personas con problemas de visión\).
+**Bumper Accesibility Text**. Description of the *bumper* that is used for accessibility as an alternative if the *bumper* cannot be displayed (for example, for people with vision problems).
 
-🔅No tiene una longitud máxima y es **opcional**.
-{% endtab %}
-{% endtabs %}
+🔅It has no maximum length and is an **optional** field. {% endtab %} {% endtabs %}
 
-**Card 1 Pre-title**. Título que aparece inmediatamente debajo de la imagen del carrusel. 
+**Card 1 Pre-title**. Title that appears immediately below the image in the carousel.
 
-🔅Tiene una longitud máxima de **44 caracteres** \(recomendado menos de 24\) y es **obligatorio**.
+🔅It has a maximum length of **44 characters** (less than 24 recommended) and is a **required** field.
 
-**Card 1 Title**. Título que aparece debajo del **Pre-title** y que identifica a la _card_ internamente.
+**Card 1 Title**. Title that appears below the  **Pre-title** and identifies the *card* internally.
 
-🔅Tiene una longitud máxima de **70 caracteres** \(recomendado menos de 35 para no ocupar más de una línea\) y es **obligatorio**.
+🔅It has a maximum length of **70 characters**  (less than 35 recommended so as not to take up more than one line) and is a **required** field.
 
-**Card 1 Tracking Name**. Nombre que no ven los usuarios pero sí se ve en Google Analytics. Sirve para identificar el producto internamente de manera más fácil. 
+**Card 1 Tracking Name**. Name that is not seen by users but is seen in Google Analytics. It is used to more easily identify the product internally.
 
-🔅Es **opcional**.
+🔅It is an **optional** field.
 
-**Card 1 Description**. Pequeña descripción de la _card_. 
+**Card 1 Description**. Short description of the *card*.
 
-🔅Tiene una longitud máxima de **132 caracteres** \(recomendado menos de 125\) y es **obligatorio**.
+🔅It has a maximum length of **132 characters** (less than 125 recommended) and is a **required** field.
 
-**Card 1 Tag**. Texto corto que se sitúa por encima de la imagen de la _card_.
+**Card 1 Tag**. Short text that is located above the image of the *card*.
 
-🔅Tiene una longitud máxima de **18 caracteres** \(recomendado menos de 10\) y es **opcional**.
+🔅It has a maximum length of **18 characters** (less than 10 recommended) and is an **optional** field.
 
-**Card 1 Action Url**. URL de la _card_, es decir, URL a la que se accede al hacer clic sobre la _card_. 
+**Card 1 Action Url**. URL of the *card*, i.e., the URL that can be accessed by clicking on the *card*.
 
-🔅Es **obligatoria** y tiene que ser una URL válida \(ejemplo: [https://www.google.com](https://www.google.com)\)
+🔅This is a **required** field and has to be a valid URL (for example: [https://www.google.com](https://www.google.com))
 
-**Card 1 Starting date and time**. Fecha y hora en la que quieres que la _card_ empiece a mostrarse a los usuarios. 
+**Card 1 Starting date and time**. Date and time you want the *card* to start being displayed to users.
 
-🔅Es opcional.
+🔅It is an optional field.
 
-**Card 1 Ending date and time**. Fecha y hora en la que quieres que la _card_ termine de mostrarse a los usuarios.
+**Card 1 Ending date and time**. Date and time you want the *card* to stop being displayed to users.
 
-🔅Es opcional.
+🔅It is an optional field.
 
-**Display the ending date on the card**. Activa esta opción para informar al usuario que el contenido va a caducar. 
+**Display the ending date on the card**. Activate this option to inform the user that the content will expire.
 
 ![](../../.gitbook/assets/image%20%2827%29.png)
 
-**¿Cómo se visualiza la fecha de caducidad?**
+**How is the expiration date displayed?**
 
-Si has habilitado la opción de mostrar la fecha de caducidad, cómo se muestre esa fecha depende del día en que expire la _card_.
+If you have enabled the option to show the expiration date, the way in which that date is displayed depends on the day on which the *card* expires.
 
-`TERMINA HOY hh:mm AM` o `TERMINA HOY hh:mm PM` o `TERMINA HOY hh:mm` \(el formato varía en función del país\) para indicar que la _card_ caduca en el mismo día a la hora indicada, por la mañana o por la tarde, respectivamente. Por ejemplo `TERMINA HOY 9:00AM`.
+`ENDS TODAY hh:mm AM` or `ENDS TODAY hh:mm PM` or `ENDS TODAY hh:mm` (format varies depending on the country) to indicate that *card* expires on the same day at the specified time, in the morning or in the afternoon, respectively. For example, `ENDS TODAY at 9:00 AM`.
 
 ![](../../.gitbook/assets/image%20%2865%29.png)
 
-`TERMINA MAÑANA` para indicar que la fecha de caducidad es al día siguiente. 
+`ENDS TOMORROW` to indicate that the expiration date is the following day.
 
 ![](../../.gitbook/assets/image%20%286%29.png)
 
-`TERMINA dd mm` para indicar que la diferencia es de más de dos días. Por ejemplo `TERMINA 30 JUN`.
+`ENDS on dd mm` to indicate that the difference is more than two days. For example `ENDS on 30 JUN`.
 
 ![](../../.gitbook/assets/image%20%2824%29.png)
 
-🎯 La fecha de comienzo y fin son una manera de programar algunas campañas, especialmente aquellas de carácter estacional.
+🎯 Starting and Ending date and time is a way to program some campaigns and is specifically designed for seasonal campaigns.
 
-**Card 1 Micro-segments**. Etiquetas que puedes añadir, siempre separadas por comas, para hacer una segmentación de los usuarios que van a ver el contenido que estás creando.
+**Card 1 Micro-segments**. Tags that you can add, always separated by commas, to make a segmentation of the users who are going to see the content you are creating.
 
-🔅Es **opcional**.
+🔅It is an **optional** field.
 
-{% hint style="warning" %}
-Recuerda que tienes que configurar un mínimo de 2 _cards_ y un máximo de 6.
+{% hint style="warning" %} Remember that you have to configure a minimum of 2 *cards* and a maximum of 6.
 
-Los campos para todas las cards son los mismos.
-{% endhint %}
+The fields for all the cards are the same. {% endhint %}
 
-**Card 1 categories \(mandatory\)**
+**Card 1 categories (mandatory)**
 
-Las categorías te permiten filtrar el contendido en Explore. Las categorías se muestran en la parte superior, a modo de carrusel horizontal, de modo que el usuario puede navegar por las categorías y seleccionar la que quiera ver.
+Categories allow you to filter content in Explore. The categories are shown at the top in a horizontal scroll bar, which allows the user to browse by category and choose the one they want to see.
 
-Cuando el usuario selecciona una categoría el contenido se muestra ordenado en formato vertical \(en lugar de scroll horizontal\), para que el usuario no se pierda ningún contenido.
+When the user selects a category, the content is shown in a vertical format (as opposed to having to scroll horizontally), so that the user doesn't miss any content.
 
 ![](../../.gitbook/assets/categories_divices.png)
 
-En Explore CMS selecciona la categoría o las categorías que aplican a la card que estás configurando:
+In Explore CMS, select the category or categories that apply to the card that you are configuring:
 
 ![](../../.gitbook/assets/categories.png)
 
-* **Accessories**. Accesorios: auriculares, fundas, relojes.
-* **Bundles**. Paquetes: packs, planes, paquetes de productos.
-* **Devices**. Dispositivos: smartphones, tablets.
-* **Loyalty**. Fidelización: membresía, contenido de programas de loyalty/fidelización \(Valoriza, Priority, Club Movistar…\)
-* **Promos**. Promociones: Contenido promocional que pueda encajar y que es posible que incluso pueda convivir con otras categorías.
-* **Plans**. Planes: Tarifas, actualizaciones, planes de precios.
-* **Services**. Servicios: servicios de valor añadido \(nuevas funcionalidades\), apps, servicios de TEF. 
-* **TV**. Televisión: planes de televisión, contenido destacado.
+- **Accessories**: Earphones, cases, watches.
+- **Bundles**: Packs, plans, product packs.
+- **Devices**:  Smartphones, tablets.
+- **Loyalty**: Membership, loyalty/​retention programmes content (Vivo Valoriza, Priority, Club Movistar, etc.)
+- **Promos**: Promotional content that may apply and which may coexist with other categories.
+- **Plans**: Tariffs, plans and plan upgrades.
+- **Services**: Added value services (new app features), apps, other TEF services.
+- **TV**: Television plans, featured content.
 
-{% hint style="info" %}
-La categoría **All**, que es la primera que se visualiza, no es una categoría como tal sino que es la forma que tiene el usuario de ver todo el contenido.
+{% hint style="info" %} The category **All**, which is the first one that you see, isn't a category as such. Rather, it is the way in which the user can view all the content.
 
-Por defecto, cuando un usuario abre Explore, ve todo el contenido, todas las cards configuradas, y por tanto la categoría seleccionada es siempre **All**. 
-{% endhint %}
+By default, when a user opens Explore he/​she sees all content and all configured cards. As such, the selected category is always **All**. {% endhint %}
 
-🎯 **Buenas prácticas**: No es recomendable que un contenido tenga asignada más de una categoría, aunque Explore CMS no limite este comportamiento. A nivel de medición de datos  
+🎯 **Buenas prácticas**: We don't recommend assigning more than one category to a content. Explore CMS does not, however, set a limit for the number of categories that can be assigned. On the data measurement level:
 
-#### ¿Qué debo tener en cuenta cuando uso las categorías?
+#### What should I consider when using the categories?
 
-¡Consulta la sección [**Categorías**](https://app.gitbook.com/@tef-novum/s/explore-cms/~/drafts/-LyYX2WN5Qc794RVRWmG/faq#categorias) ****del [FAQ](../../faq.md) para resolver todas tus dudas!
+Consult the [**Categories**](https://app.gitbook.com/@tef-novum/s/explore-cms/%7E/drafts/-LyYX2WN5Qc794RVRWmG/faq#categorias) section of the [FAQ](../../faq.md) to resolve all of your doubts!
 
-### Cambiar el orden de las _cards_
+### Change the order of the *cards*
 
-Dentro del módulo puedes mover las cards para cambiar el orden en el que se muestran. 
+Inside the module, you can move the cards to change the order in which they are displayed.
 
 ![](../../.gitbook/assets/drag-and-drop.png)
 
-Para mover una _card_ arrástrala a la posición en la que quieres que se muestre y suéltala.
+To move a *card*, simply drag it to the place where you want it to be displayed and release.
 
 ![](../../.gitbook/assets/drag-and-drop_demo.gif)
 
 ## Link
 
-De forma opcional puedes añadir enlaces que aparecerán en la parte inferior del módulo.
+You can choose to add links that will be shown at the bottom of the module.
 
 ![](../../.gitbook/assets/link_module.png)
 
-Para hacerlo rellena, para cada enlace que quieras añadir \(hasta un máximo de 5 enlaces\), los siguientes campos:
+In order to do so, fill in the following fields for each link you want to add (up to a maximum of 5 links):
 
-**Name**. Nombre del enlace \(ejemplo `Beneficios`\).
+**Name**. Name of the link (for example `Benefits`).
 
-🔅 Tiene una longitud máxima de **38 caracteres** y es **obligatorio**.
+🔅 It has a maximum length of **38 characters** and is a **required** field.
 
-**Action URL.** Enlace ****que se abre al hacer clic sobre el **Name**, es decir, sobre el nombre del enlace.
+**Action URL.**  Link that opens when you click on the ​ **Name**, i.e., on the name of the link.
 
-🔅 Es obligatorio y tiene que ser una URL válida \(ejemplo: [`https://www.google.com`](https://www.google.com)\)
+🔅 This is a required field and has to be a valid URL (for example: [`https://www.google.com`](https://www.google.com))
 
 ![](../../.gitbook/assets/link_featured_content.png)
-
