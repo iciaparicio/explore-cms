@@ -1,5 +1,7 @@
 ---
-description: Veja rapidamente como publicar um layout. No final deste artigo, você pode acessar os passos de maneira muito mais detalhada.
+description: >-
+  Veja rapidamente como publicar um layout. No final deste artigo, você pode
+  acessar os passos de maneira muito mais detalhada.
 ---
 
 # Publicação de um layout
@@ -15,3 +17,4 @@ No arquivo de layouts, clique em **PUBLISH** e confirme a mensagem mostrada na t
 {% page-ref page="../../layout/publicar-layouts.md" %}
 
 ![](https://github.com/iciaparicio/explore-cms/blob/master/.gitbook/assets/publish_layout.gif?raw=true)
+

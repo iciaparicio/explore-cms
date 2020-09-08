@@ -1,5 +1,7 @@
 ---
-description: Esta ação publica as mudanças editadas em um layout e, assim, os usuários do app poderão visualizá-las.
+description: >-
+  Esta ação publica as mudanças editadas em um layout e, assim, os usuários do
+  app poderão visualizá-las.
 ---
 
 # Publicar layouts
@@ -11,3 +13,4 @@ Para publicar um layout clique em **PUBLISH**, botão localizado na parte superi
 Aceite a mensagem de confirmação para publicar as mudanças:
 
 ![](https://lh5.googleusercontent.com/-se3-efRIz2FWYfzRU8I8utiBfkT9BmO65CIL3Cau9zIr0CIP8HE350hAu06uCnMZSg7XddutX-iu6sjvRZfFcl8mWW9wjuZPecM6GbAkc2ZBYH8-Dogw-3CQ0dp9YfeU6EETdbs)
+

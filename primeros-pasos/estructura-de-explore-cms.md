@@ -1,5 +1,7 @@
 ---
-description: A ferramenta de configuração de Explore conta com dois blocos de configuração básicos: Modules e Layouts.
+description: >-
+  A ferramenta de configuração de Explore conta com dois blocos de configuração
+  básicos: Modules e Layouts.
 ---
 
 # Estrutura de Explore CMS
@@ -12,6 +14,7 @@ Os **módulos** são a estrutura básica e mínima que compõem o Explore. Confi
 
 ## Layouts
 
-Os **layouts**são uma série de módulos. Um layout é configurado considerando a segmentação dos clientes (pré-pagamento, pós-pagamento, híbrido, sistema operacional). Utilize os módulos para configurar o layout, selecionando os módulos e a ordem em que deseja mostrá-los em Explore.
+Os **layouts** são uma série de módulos. Um layout é configurado considerando a segmentação dos clientes \(pré-pagamento, pós-pagamento, híbrido, sistema operacional\). Utilize os módulos para configurar o layout, selecionando os módulos e a ordem em que deseja mostrá-los em Explore.
 
 ![](https://github.com/iciaparicio/explore-cms/blob/master/.gitbook/assets/layout_example.gif?raw=true)
+

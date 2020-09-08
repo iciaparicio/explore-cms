@@ -6,7 +6,7 @@ description: Acesse aqui como construir corretamente um deep link para Explore
 
 ## Lista de deep links por categorias
 
-Esta é a lista de deep links (links) que levarão o usuário até o conteúdo de Explore filtrado conforme a categoria:
+Esta é a lista de deep links \(links\) que levarão o usuário até o conteúdo de Explore filtrado conforme a categoria:
 
 **Acessórios**
 
@@ -40,7 +40,9 @@ Esta é a lista de deep links (links) que levarão o usuário até o conteúdo d
 
 `https://appwebview.movistar.es/explore?refresh=true&categoryId=tv`
 
-{% hint style="warning" %} Observe que este URL varia segundo a OB. Confira se está utilizando a correta 😉
+{% hint style="warning" %}
+Observe que este URL varia segundo a OB. Confira se está utilizando a correta 😉
 
 Obtenha mais informações sobre Deep links em [Deeplinks Catalogue](https://tef-novum.gitbook.io/novum/develop/deeplinks-catalog).
- {% endhint %}
+{% endhint %}
+
