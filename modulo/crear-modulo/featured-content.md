@@ -10,13 +10,13 @@ Módulo ideal para destacar conteúdo relevante para os usuários, limitando o n
 
 Os diferentes conteúdos configurados passarão para o modo carrossel horizontal, para que os usuários possam visualizá-los confortavelmente.
 
-![](https://github.com/iciaparicio/explore-cms/tree/2d14bb61a8e92a38fe23ad18f7cf392e8f2f8668/pt-BR/.gitbook/assets/image%20%288%29.png)
+![](../../.gitbook/assets/image%20%288%29.png)
 
 Preencha os campos obrigatórios e decida se precisa completar quaisquer dos campos opcionais:
 
 ## Details
 
-![](https://github.com/iciaparicio/explore-cms/tree/2d14bb61a8e92a38fe23ad18f7cf392e8f2f8668/pt-BR/.gitbook/assets/image%20%2876%29.png)
+![](../../.gitbook/assets/image%20%2876%29.png)
 
 **Name**. Nome que identifica internamente o elemento. Nunca é exibido no app, mas com esse nome pode identificar o módulo ao visualizar a lista de módulos.
 
@@ -26,7 +26,7 @@ Preencha os campos obrigatórios e decida se precisa completar quaisquer dos cam
 
 ## Module building
 
-![](https://github.com/iciaparicio/explore-cms/tree/2d14bb61a8e92a38fe23ad18f7cf392e8f2f8668/pt-BR/.gitbook/assets/image%20%2820%29.png)
+![](../../.gitbook/assets/image%20%2820%29.png)
 
 **Section Title**. Título mostrado acima do módulo, sempre que não esteja posicionado em primeiro lugar. Quando estiver na primeira posição, não haverá título de seção \(nesse caso, o título de seção sempre será _Explore_\). Ainda, este título serve para identificar internamente o módulo que está sendo criado. Com esse título, você identificará o módulo ao visualizar a lista dos módulos.
 
@@ -40,7 +40,7 @@ Dentro de um layout, é obrigatório que un módulo do tipo _Featured Content_ s
 
 Os _cards_ são as seções que integram o carrossel. Para cada módulo tipo _Featured Content_ configure pelo menos 2 _cards_ e um máximo de 6.
 
-![](https://github.com/iciaparicio/explore-cms/tree/2d14bb61a8e92a38fe23ad18f7cf392e8f2f8668/pt-BR/.gitbook/assets/featured_content_cms.png)
+![](../../.gitbook/assets/featured_content_cms.png)
 
 Para cada _card_ os campos disponíveis podem variar segundo for selecionada uma imagem ou um _bumper_:
 
@@ -53,7 +53,7 @@ Um _bumper_ é um vídeo curto ou animação. Em geral, é um formato padrão co
 
 {% tabs %}
 {% tab title="Image" %}
-![](https://github.com/iciaparicio/explore-cms/tree/2d14bb61a8e92a38fe23ad18f7cf392e8f2f8668/pt-BR/.gitbook/assets/image%20%2812%29.png)
+![](../../.gitbook/assets/image%20%2812%29.png)
 
 **Image Upload an image** 📤. URL da imagem do _card_. Deve ter o formato de URL próprio do CMS.
 
@@ -71,7 +71,7 @@ Quando a imagem for carregada, será possível pré-visualizá-la logo abaixo.
 {% endtab %}
 
 {% tab title="Bumper" %}
-![](https://github.com/iciaparicio/explore-cms/tree/2d14bb61a8e92a38fe23ad18f7cf392e8f2f8668/pt-BR/.gitbook/assets/image%20%2823%29.png)
+![](../../.gitbook/assets/image%20%2823%29.png)
 
 **Bumper Upload a bumper** 📤. É preenchido automaticamente com o nome do _bumper_.
 
@@ -82,7 +82,7 @@ Para carregar um bumper, há duas opções:
 
 Ative a opção **Play in loop** para que o _bumper_ seja reproduzido em loop no Explore. Com a opção desativada, será reproduzido a cada vez que o _bumper_ acessar a tela, mas para quando finaliza a reprodução.
 
-![Activa o desactiva la opci&#xF3;n para reproducir en bucle](https://github.com/iciaparicio/explore-cms/tree/2d14bb61a8e92a38fe23ad18f7cf392e8f2f8668/pt-BR/.gitbook/assets/image%20%2829%29.png)
+![Activa o desactiva la opci&#xF3;n para reproducir en bucle](../../.gitbook/assets/image%20%2829%29.png)
 
 Quando o _bump\_e\_r_ for carregado, será possível pré-visualizar logo abaixo:
 
@@ -128,7 +128,7 @@ Quando o _bump\_e\_r_ for carregado, será possível pré-visualizar logo abaixo
 
 **Display the ending date on the card**. Ative esta opção para informar o usuário que o conteúdo irá expirar.
 
-![](https://github.com/iciaparicio/explore-cms/tree/2d14bb61a8e92a38fe23ad18f7cf392e8f2f8668/pt-BR/.gitbook/assets/image%20%2827%29.png)
+![](../../.gitbook/assets/image%20%2827%29.png)
 
 **Como é visualizada a data de validade?**
 
@@ -136,15 +136,15 @@ Se a opção de exibir a data de validade estiver habilitada, a exibição dessa
 
 `FINALIZA HOJE hh:mm AM` ou `FINALIZA HOJE hh:mm PM` ou `FINALIZA HOJE hh:mm` \(o formato varia segundo o país\) para indicar que o _card_ expira no mesmo dia na hora indicada, pela manhã ou pela tarde, respectivamente. Por exemplo `FINALIZA HOJE 9:00AM`.
 
-![](https://github.com/iciaparicio/explore-cms/tree/2d14bb61a8e92a38fe23ad18f7cf392e8f2f8668/pt-BR/.gitbook/assets/image%20%2865%29.png)
+![](../../.gitbook/assets/image%20%2865%29.png)
 
 `FINALIZA AMANHÃ` para indicar que a data de validade é o dia seguinte.
 
-![](https://github.com/iciaparicio/explore-cms/tree/2d14bb61a8e92a38fe23ad18f7cf392e8f2f8668/pt-BR/.gitbook/assets/image%20%286%29.png)
+![](../../.gitbook/assets/image%20%286%29.png)
 
 `FINALIZA dd mm` para indicar que a diferença é de mais de dois dias. Por exemplo `FINALIZA 30 JUN​`.
 
-![](https://github.com/iciaparicio/explore-cms/tree/2d14bb61a8e92a38fe23ad18f7cf392e8f2f8668/pt-BR/.gitbook/assets/image%20%2824%29.png)
+![](../../.gitbook/assets/image%20%2824%29.png)
 
 🎯 A data de início e finalização é uma maneira de programar algumas campanhas, especialmente naquelas de caráter sazonal.
 
