@@ -10,35 +10,35 @@ Esta é a lista de deep links (links) que levarão o usuário até o conteúdo d
 
 **Acessórios**
 
-`https://appwebview.movistar.es/explore?refresh=true&categoryID=accesory`
+`https://appwebview.movistar.es/explore?refresh=true&categoryId=accesory`
 
 **Pacotes**
 
-`https://appwebview.movistar.es/explore?refresh=true&categoryID=bundle`
+`https://appwebview.movistar.es/explore?refresh=true&categoryId=bundle`
 
 **Dispositivos**
 
-`https://appwebview.movistar.es/explore?refresh=true&categoryID=device`
+`https://appwebview.movistar.es/explore?refresh=true&categoryId=device`
 
-**Fidelidade**
+**FIdelIdade**
 
-`https://appwebview.movistar.es/explore?refresh=true&categoryID=loyalty`
+`https://appwebview.movistar.es/explore?refresh=true&categoryId=loyalty`
 
 **Promoções**
 
-`https://appwebview.movistar.es/explore?refresh=true&categoryID=promotion`
+`https://appwebview.movistar.es/explore?refresh=true&categoryId=promotion`
 
 **Planos**
 
-`https://appwebview.movistar.es/explore?refresh=true&categoryID=plan`
+`https://appwebview.movistar.es/explore?refresh=true&categoryId=plan`
 
 **Serviços**
 
-`https://appwebview.movistar.es/explore?refresh=true&categoryID=value_added_service`
+`https://appwebview.movistar.es/explore?refresh=true&categoryId=value_added_service`
 
 **Televisão**
 
-`https://appwebview.movistar.es/explore?refresh=true&categoryID=tv`
+`https://appwebview.movistar.es/explore?refresh=true&categoryId=tv`
 
 {% hint style="warning" %} Observe que este URL varia segundo a OB. Confira se está utilizando a correta 😉
 
