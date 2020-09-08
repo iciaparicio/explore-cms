@@ -8,6 +8,7 @@ The [modules](./) repository is the list of all the modules created. From the mo
 
 ![](../.gitbook/assets/image%20%2870%29.png)
 
-Access from the side menu **Explore > Modules**
+Access from the side menu **Explore &gt; Modules**
 
 ![](../.gitbook/assets/image%20%2836%29.png)
+

@@ -1,12 +1,14 @@
 ---
-description: This is an ideal module for showing your customers a promotion or any content related to a specific campaign that you wish to offer them.
+description: >-
+  This is an ideal module for showing your customers a promotion or any content
+  related to a specific campaign that you wish to offer them.
 ---
 
 # Banner + links
 
-*Banner* modules simply contain an image or a *bumper* with a link.
+_Banner_ modules simply contain an image or a _bumper_ with a link.
 
-![Activa o desactiva la opción para reproducir en bucle](../../.gitbook/assets/image%20%2829%29.png)
+![](../../.gitbook/assets/image-16-.png)
 
 Fill in the required fields and decide if you need to fill in any of the optional fields:
 
@@ -26,14 +28,16 @@ Fill in the required fields and decide if you need to fill in any of the optiona
 
 ![](../../.gitbook/assets/image%20%2845%29.png)
 
-For each *banner* the available fields will vary depending on whether you select an image or a *bumper*:
+For each _banner_ the available fields will vary depending on whether you select an image or a _bumper_:
 
-- **Image**. It displays a static image.
-- **Bumper**. It displays a short video or animation.
+* **Image**. It displays a static image.
+* **Bumper**. It displays a short video or animation.
 
-{% tabs %} {% tab title="Image" %} ![](../../.gitbook/assets/image%20%2812%29.png)
+{% tabs %}
+{% tab title="Image" %}
+![](../../.gitbook/assets/image%20%2812%29.png)
 
-**Image Upload an image** 📤. URL of the *banner* image. This must be in the CMS's own URL format.
+**Image Upload an image** 📤. URL of the _banner_ image. This must be in the CMS's own URL format.
 
 Click on the **Upload an image** 📤 link and choose the image you want from your computer. Once the image upload has been processed, the URL will auto-complete in the text field.
 
@@ -43,50 +47,54 @@ When the image has been uploaded it is previewed just below.
 
 🔅 This is a **required** field.
 
-**Image Accesibility Text**. Description of the image that is used for accessibility as an alternative if the image cannot be displayed (for example, for people with vision problems).
+**Image Accesibility Text**. Description of the image that is used for accessibility as an alternative if the image cannot be displayed \(for example, for people with vision problems\).
 
-🔅 It has no maximum length and is an **optional**. {% endtab %}
+🔅 It has no maximum length and is an **optional**.
+{% endtab %}
 
-{% tab title="Bumper" %} ![](../../.gitbook/assets/image%20%2823%29.png)
+{% tab title="Bumper" %}
+![](../../.gitbook/assets/image%20%2823%29.png)
 
-**Bumper Upload a bumper** 📤. It is auto-filled with the name of the *bumper*.
+**Bumper Upload a bumper** 📤. It is auto-filled with the name of the _bumper_.
 
 To upload a bumper you have two options:
 
-1. Click on **Upload a bumper** 📤 link and upload a *bumper* from your computer.
-2. Display the list of *bumpers* and select one of those that have already been uploaded.
+1. Click on **Upload a bumper** 📤 link and upload a _bumper_ from your computer.
+2. Display the list of _bumpers_ and select one of those that have already been uploaded.
 
-Activate the **Play in loop** option for the *bumper* to be played in loop in Explore. If you leave it off, it will play every time the *bumper* is on the screen, but once it has finished it will stop.
+Activate the **Play in loop** option for the _bumper_ to be played in loop in Explore. If you leave it off, it will play every time the _bumper_ is on the screen, but once it has finished it will stop.
 
-![Activa o desactiva la opción para reproducir en bucle](../../.gitbook/assets/image%20%2829%29.png)
+![Activa o desactiva la opci&#xF3;n para reproducir en bucle](../../.gitbook/assets/image%20%2829%29.png)
 
-When the *bumper* has been uploaded it is previewed just below:
+When the _bumper_ has been uploaded it is previewed just below:
 
 ![](../../.gitbook/assets/image%20%2840%29.png)
 
-**Bumper Accesibility Text**. Description of the *bumper* that is used for accessibility as an alternative if the *bumper* cannot be displayed (for example, for people with vision problems).
+**Bumper Accesibility Text**. Description of the _bumper_ that is used for accessibility as an alternative if the _bumper_ cannot be displayed \(for example, for people with vision problems\).
 
-🔅 It has no maximum length and is an **optional** field. {% endtab %} {% endtabs %}
+🔅 It has no maximum length and is an **optional** field.
+{% endtab %}
+{% endtabs %}
 
-**Action URL**. URL of the *banner*​, i.e., the URL that can be accessed by clicking on the *banner*.
+**Action URL**. URL of the _banner_​, i.e., the URL that can be accessed by clicking on the _banner_.
 
-🔅 This is a **required** field and has to be a valid URL (for example: [`https://www.google.com`](https://www.google.com))
+🔅 This is a **required** field and has to be a valid URL \(for example: [`https://www.google.com`](https://www.google.com)\)
 
-**Card Starting date and time**. Date and time you want the *banner* to start being displayed to users.
+**Card Starting date and time**. Date and time you want the _banner_ to start being displayed to users.
 
-🔅  It is an optional field.
+🔅 It is an optional field.
 
-**Card Ending date and time**. Date and time you want the *banner* to stop being displayed to users.
+**Card Ending date and time**. Date and time you want the _banner_ to stop being displayed to users.
 
-🔅  It is an optional field.
+🔅 It is an optional field.
 
 **Card Micro-segments**. Tags that you can add, always separated by commas, to make a segmentation of the users who are going to see the content you are creating.
 
-**Categories (mandatory)**
+**Categories \(mandatory\)**
 
 Categories allow you to filter content in Explore. The categories are shown at the top in a horizontal scroll bar, which allows the user to browse by category and choose the one they want to see.
 
-When the user selects a category, the content is shown in a vertical format (as opposed to having to scroll horizontally), so that the user doesn't miss any content.
+When the user selects a category, the content is shown in a vertical format \(as opposed to having to scroll horizontally\), so that the user doesn't miss any content.
 
 ![](../../.gitbook/assets/categories_divices.png)
 
@@ -94,18 +102,20 @@ In Explore CMS, select the category or categories that apply to the card that yo
 
 ![](../../.gitbook/assets/categories_banner.png)
 
-- **Accessories**: Earphones, cases, watches.
-- **Bundles**: Packs, plans, product packs.
-- **Devices**:  Smartphones, tablets.
-- **Loyalty**: Membership, loyalty/​retention programmes content (Vivo Valoriza, Priority, Club Movistar, etc.)
-- **Promos**: Promotional content that may apply and which may coexist with other categories.
-- **Plans**: Tariffs, plans and plan upgrades.
-- **Services**: Added value services (new app features), apps, other TEF services.
-- **TV**: Television plans, featured content.
+* **Accessories**: Earphones, cases, watches.
+* **Bundles**: Packs, plans, product packs.
+* **Devices**:  Smartphones, tablets.
+* **Loyalty**: Membership, loyalty/​retention programmes content \(Vivo Valoriza, Priority, Club Movistar, etc.\)
+* **Promos**: Promotional content that may apply and which may coexist with other categories.
+* **Plans**: Tariffs, plans and plan upgrades.
+* **Services**: Added value services \(new app features\), apps, other TEF services.
+* **TV**: Television plans, featured content.
 
-{% hint style="info" %} The category **All**, which is the first one that you see, isn't a category as such. Rather, it is the way in which the user can view all the content.
+{% hint style="info" %}
+The category **All**, which is the first one that you see, isn't a category as such. Rather, it is the way in which the user can view all the content.
 
-By default, when a user opens Explore he/​she sees all content and all configured cards. As such, the selected category is always **All**. {% endhint %}
+By default, when a user opens Explore he/​she sees all content and all configured cards. As such, the selected category is always **All**.
+{% endhint %}
 
 #### What should I consider when using the categories?
 
@@ -115,12 +125,13 @@ Consult the [**Categories**](https://app.gitbook.com/@tef-novum/s/explore-cms/%7
 
 ![](../../.gitbook/assets/image%20%2877%29.png)
 
-You can choose to add links at the bottom of the module. In order to do so, fill in the following fields for each link you want to add (up to a maximum of 5 links):
+You can choose to add links at the bottom of the module. In order to do so, fill in the following fields for each link you want to add \(up to a maximum of 5 links\):
 
-**Name**. Name of the link (for example `Benefits`).
+**Name**. Name of the link \(for example `Benefits`\).
 
 🔅 It has a maximum length of **38 characters** and is a **required** field.
 
 **Action. URL** that opens when you click on the **Name**, i.e., on the name of the link.
 
-🔅 This is a required field and has to be a valid URL (for example: [`https://www.google.com`](https://www.google.com))
+🔅 This is a required field and has to be a valid URL \(for example: [`https://www.google.com`](https://www.google.com)\)
+

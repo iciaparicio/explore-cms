@@ -1,5 +1,7 @@
 ---
-description: This action publishes the changes you have edited in a layout and means that app users can see them.
+description: >-
+  This action publishes the changes you have edited in a layout and means that
+  app users can see them.
 ---
 
 # Publish Layouts
@@ -11,3 +13,4 @@ To publish a layout, click the **PUBLISH**, button located at the top right of t
 Accept the confirmation message to publish the changes:
 
 ![](https://lh5.googleusercontent.com/-se3-efRIz2FWYfzRU8I8utiBfkT9BmO65CIL3Cau9zIr0CIP8HE350hAu06uCnMZSg7XddutX-iu6sjvRZfFcl8mWW9wjuZPecM6GbAkc2ZBYH8-Dogw-3CQ0dp9YfeU6EETdbs)
+

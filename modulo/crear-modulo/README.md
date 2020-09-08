@@ -21,3 +21,4 @@ Select the type of module you are going to use for your design.
 ![Banner](../../.gitbook/assets/image%20%2851%29.png)
 
 Click **NEXT** to continue. Depending on the type of module you have selected, configure the corresponding fields.
+

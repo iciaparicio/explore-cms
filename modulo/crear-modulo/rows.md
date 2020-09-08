@@ -6,7 +6,7 @@ description: Designed to present different tariffs in a row format.
 
 This type of module is really geared towards presenting different tariffs to users although you can use it for any content that fits.
 
-It is formatted in *rows* where each one has several optional fields such as a small tag that acts as a title for that row, a short text and its corresponding link.
+It is formatted in _rows_ where each one has several optional fields such as a small tag that acts as a title for that row, a short text and its corresponding link.
 
 ![](../../.gitbook/assets/image%20%2864%29.png)
 
@@ -46,17 +46,17 @@ When the image has been uploaded it is previewed just below.
 
 🔅 No tiene una longitud máxima y es **obligatorio**.
 
-**Row 1 Image Accesibility Text**. Description of the image that is used for accessibility as an alternative if the image cannot be displayed (for example, for people with vision problems).
+**Row 1 Image Accesibility Text**. Description of the image that is used for accessibility as an alternative if the image cannot be displayed \(for example, for people with vision problems\).
 
 🔅 It has no maximum length and is an **optional** field.
 
-**Row 1 Pre-title**. Small highlighted text prior to the title (for example `30 DAYS FREE​`).
+**Row 1 Pre-title**. Small highlighted text prior to the title \(for example `30 DAYS FREE​`\).
 
-🔅 It has a maximum length of **27 characters** (less than 24 recommended) and is an **optional** field.
+🔅 It has a maximum length of **27 characters** \(less than 24 recommended\) and is an **optional** field.
 
-**Row 1 Title**. Title of the offer/​plan that appears next to the image (for example: `BIG 20 Gigas Plan`).
+**Row 1 Title**. Title of the offer/​plan that appears next to the image \(for example: `BIG 20 Gigas Plan`\).
 
-🔅It has a maximum length of **25 characters** (less than 23 recommended) and is a **required** field.
+🔅It has a maximum length of **25 characters** \(less than 23 recommended\) and is a **required** field.
 
 **Card 1 Tracking Name**. Name that is not seen by users but is seen in Google Analytics. It is used to more easily identify the product internally.
 
@@ -64,19 +64,19 @@ When the image has been uploaded it is previewed just below.
 
 **Row 1 Description**. Brief description of the product presented. The description is shown below the title.
 
-🔅It has a maximum length of **34 characters** (less than 32 recommended) and is a **required** field.
+🔅It has a maximum length of **34 characters** \(less than 32 recommended\) and is a **required** field.
 
-**Row 1 Price**. Price that is shown below the description, next to the image. Remember to always specify a valid price (for example ​ `$123`)
+**Row 1 Price**. Price that is shown below the description, next to the image. Remember to always specify a valid price \(for example ​ `$123`\)
 
 ​It has no maximum length and is a **required** field.‌
 
-**Row 1 Price Information**. Text to provide additional information about the price. It is shown next to the price, with a more discreet style and preceded by `/` (for example `per month`).
+**Row 1 Price Information**. Text to provide additional information about the price. It is shown next to the price, with a more discreet style and preceded by `/` \(for example `per month`\).
 
-🔅It has a maximum length of ​**12 characters** (these characters also include the **Row 1 Price**) and is an **optional** field.
+🔅It has a maximum length of ​**12 characters** \(these characters also include the **Row 1 Price**\) and is an **optional** field.
 
 **Row 1 Action URL**. URL of the row, i.e., the URL that can be accessed by clicking on the row.
 
-🔅This is a **required** field and has to be a valid URL (for example: [`https://www.google.com`](https://www.google.com))
+🔅This is a **required** field and has to be a valid URL \(for example: [`https://www.google.com`](https://www.google.com)\)
 
 **Card 1 Starting date and time**. Date and time you want the ​row​​ to start being displayed to users.
 
@@ -84,7 +84,7 @@ When the image has been uploaded it is previewed just below.
 
 **Card 1 Ending date and time**. Date and time you want the ​​row​​ to stop being displayed to users.
 
-🔅  It is an optional field.
+🔅 It is an optional field.
 
 **Display the ending date on the card**. Activate this option to inform the user that the content will expire.
 
@@ -92,9 +92,9 @@ When the image has been uploaded it is previewed just below.
 
 **How is the expiration date displayed?**
 
-If you have enabled the option to show the expiration date, the way in which that date is displayed depends on the day on which the *card* expires.
+If you have enabled the option to show the expiration date, the way in which that date is displayed depends on the day on which the _card_ expires.
 
-`ENDS TODAY hh:mm AM` or `ENDS TODAY hh:mm PM` or `ENDS TODAY hh:mm` (format varies depending on the country) to indicate that *card* expires on the same day at the specified time, in the morning or in the afternoon, respectively. For example, `ENDS TODAY at 9:00 AM`.
+`ENDS TODAY hh:mm AM` or `ENDS TODAY hh:mm PM` or `ENDS TODAY hh:mm` \(format varies depending on the country\) to indicate that _card_ expires on the same day at the specified time, in the morning or in the afternoon, respectively. For example, `ENDS TODAY at 9:00 AM`.
 
 ![](../../.gitbook/assets/image%20%2834%29.png)
 
@@ -112,11 +112,11 @@ Starting and Ending date and time is a way to program some campaigns and is spec
 
 🔅It is an **optional** field.
 
-**Card 1 categories (mandatory)**
+**Card 1 categories \(mandatory\)**
 
 Categories allow you to filter content in Explore. The categories are shown at the top in a horizontal scroll bar, which allows the user to browse by category and choose the one they want to see.
 
-When the user selects a category, the content is shown in a vertical format (as opposed to having to scroll horizontally), so that the user doesn't miss any content.
+When the user selects a category, the content is shown in a vertical format \(as opposed to having to scroll horizontally\), so that the user doesn't miss any content.
 
 ![](../../.gitbook/assets/categories_divices.png)
 
@@ -124,30 +124,32 @@ In Explore CMS, select the category or categories that apply to the card that yo
 
 ![](../../.gitbook/assets/categories.png)
 
-- **Accessories**: Earphones, cases, watches.
-- **Bundles**: Packs, plans, product packs.
-- **Devices**:  Smartphones, tablets.
-- **Loyalty**: Membership, loyalty/​retention programmes content (Vivo Valoriza, Priority, Club Movistar, etc.)
-- **Promos**: Promotional content that may apply and which may coexist with other categories.
-- **Plans**: Tariffs, plans and plan upgrades.
-- **Services**: Added value services (new app features), apps, other TEF services.
-- **TV**: Television plans, featured content.
+* **Accessories**: Earphones, cases, watches.
+* **Bundles**: Packs, plans, product packs.
+* **Devices**:  Smartphones, tablets.
+* **Loyalty**: Membership, loyalty/​retention programmes content \(Vivo Valoriza, Priority, Club Movistar, etc.\)
+* **Promos**: Promotional content that may apply and which may coexist with other categories.
+* **Plans**: Tariffs, plans and plan upgrades.
+* **Services**: Added value services \(new app features\), apps, other TEF services.
+* **TV**: Television plans, featured content.
 
-{% hint style="info" %} The category **All**, which is the first one that you see, isn't a category as such. Rather, it is the way in which the user can view all the content.
+{% hint style="info" %}
+The category **All**, which is the first one that you see, isn't a category as such. Rather, it is the way in which the user can view all the content.
 
-By default, when a user opens Explore he/​she sees all content and all configured cards. As such, the selected category is always **All**. {% endhint %}
+By default, when a user opens Explore he/​she sees all content and all configured cards. As such, the selected category is always **All**.
+{% endhint %}
 
 #### What should I consider when using the categories?
 
 Consult the [**Categories**](https://app.gitbook.com/@tef-novum/s/explore-cms/%7E/drafts/-LyYX2WN5Qc794RVRWmG/faq#categorias) section of the [FAQ](../../faq.md) to resolve all of your doubts!
 
-### Change the order of the *cards*
+### Change the order of the _cards_
 
 Inside the module, you can move the cards to change the order in which they are displayed.
 
 ![](../../.gitbook/assets/drag-and-drop.png)
 
-To move a *card*, simply drag it to the place where you want it to be displayed and release.
+To move a _card_, simply drag it to the place where you want it to be displayed and release.
 
 ![](../../.gitbook/assets/drag-and-drop_demo.gif)
 
@@ -157,14 +159,15 @@ You can choose to add links that will be shown at the bottom of the module.
 
 ![](../../.gitbook/assets/link_module.png)
 
-In order to do so, fill in the following fields for each link you want to add (up to a maximum of 5 links):
+In order to do so, fill in the following fields for each link you want to add \(up to a maximum of 5 links\):
 
-**Name**. Name of the link (for example `Benefits`).
+**Name**. Name of the link \(for example `Benefits`\).
 
 🔅 It has a maximum length of **38 characters** and is a **required** field.
 
-**Action URL.**  Link that opens when you click on the ​ **Name**, i.e., on the name of the link.
+**Action URL.** Link that opens when you click on the ​ **Name**, i.e., on the name of the link.
 
-🔅 This is a required field and has to be a valid URL (for example: [`https://www.google.com`](https://www.google.com))
+🔅 This is a required field and has to be a valid URL \(for example: [`https://www.google.com`](https://www.google.com)\)
 
 ![](../../.gitbook/assets/image%20%289%29.png)
+

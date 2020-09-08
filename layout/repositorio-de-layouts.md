@@ -12,9 +12,12 @@ The layouts repository includes information about:
 
 **STATUS**. Layout status that informs you of the latest changes applied to the layout and its current status. The available statuses are:
 
-- **PUBLISHED**. The layout version is currently public and is the one that users are viewing.
-- **MODIFIED**. The layout version is a version with changes pending publication. Users will not see these changes until the layout is published.
+* **PUBLISHED**. The layout version is currently public and is the one that users are viewing.
+* **MODIFIED**. The layout version is a version with changes pending publication. Users will not see these changes until the layout is published.
 
-{% hint style="info" %} In the **MODIFIED** status, if you have provided a MSISDN and a valid telephone number to the NOVUM team of your OB, you can view the layout in the app so that they can include it in a special list (*white list*). {% endhint %}
+{% hint style="info" %}
+In the **MODIFIED** status, if you have provided a MSISDN and a valid telephone number to the NOVUM team of your OB, you can view the layout in the app so that they can include it in a special list \(_white list_\).
+{% endhint %}
 
 **ACTIONS**. From the icon ![](https://github.com/iciaparicio/explore-cms/blob/master/.gitbook/assets/icono_editar.png?raw=true) you can access layout module editing.
+

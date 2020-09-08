@@ -10,37 +10,39 @@ This is the list of deep links that will take the user to the Explore content, f
 
 **Accessories**
 
-`https://appwebview.movistar.es/explore?refresh=true?categoryID=accesory`
+`https://appwebview.movistar.es/explore?refresh=true?categoryId=accesory`
 
 **Bundles**
 
-`https://appwebview.movistar.es/explore?refresh=true?categoryID=bundle`
+`https://appwebview.movistar.es/explore?refresh=true?categoryId=bundle`
 
 **Devices**
 
-`https://appwebview.movistar.es/explore?refresh=true?categoryID=device`
+`https://appwebview.movistar.es/explore?refresh=true?categoryId=device`
 
 **Loyalty**
 
-`https://appwebview.movistar.es/explore?refresh=true?categoryID=loyalty`
+`https://appwebview.movistar.es/explore?refresh=true?categoryId=loyalty`
 
 **Promos**
 
-`https://appwebview.movistar.es/explore?refresh=true?categoryID=promotion`
+`https://appwebview.movistar.es/explore?refresh=true?categoryId=promotion`
 
 **Plans**
 
-`https://appwebview.movistar.es/explore?refresh=true?categoryID=plan`
+`https://appwebview.movistar.es/explore?refresh=true?categoryId=plan`
 
 **Services**
 
-`https://appwebview.movistar.es/explore?refresh=true?categoryID=value_added_service`
+`https://appwebview.movistar.es/explore?refresh=true?categoryId=value_added_service`
 
 **Television**
 
-`https://appwebview.movistar.es/explore?refresh=true?categoryID=tv`
+`https://appwebview.movistar.es/explore?refresh=true?categoryId=tv`
 
-{% hint style="warning" %} Please note that this URL will vary depending on the OB. Make sure you're using the right one 😉
+{% hint style="warning" %}
+Please note that this URL will vary depending on the OB. Make sure you're using the right one 😉
 
 Learn more about Deep links in the [Deep links Catalogue](https://tef-novum.gitbook.io/novum/develop/deeplinks-catalog).
- {% endhint %}
+{% endhint %}
+

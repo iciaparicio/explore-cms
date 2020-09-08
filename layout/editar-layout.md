@@ -4,7 +4,7 @@ description: Learn the details of how to edit layouts for users.
 
 # Edit layout
 
-Keep in mind that a layout is a content unit made up of several modules. The full composition of modules is what the user sees in the app. This layout is based on the user segments or combination of user segments for whom the content is intended (prepay, postpay, operating system).
+Keep in mind that a layout is a content unit made up of several modules. The full composition of modules is what the user sees in the app. This layout is based on the user segments or combination of user segments for whom the content is intended \(prepay, postpay, operating system\).
 
 The layouts currently available depend on the OB and their characteristics.
 
@@ -28,7 +28,9 @@ From this section, you can configure the layout, indicating the modules that you
 
 In the list, click on the ![](https://lh5.googleusercontent.com/VzfjcfEIrPHTLjp_bPrzRkNxpTM4IcMOY2uwN0-ZS4mQqX_ySYoDGL7-FUbKaEPhwY0IQsrvaqGokR0qdpReVgjg-F3U6rLteuZDl3Wc4wpmFbK2sy9Kq7hiaIh5faycHrlgB2ED) arrows to lower and raise the position of the module.
 
-{% hint style="danger" %} Remember that a [*Featured Content*](../modulo/crear-modulo/featured-content.md)-type module must always occupy the first position. {% endhint %}
+{% hint style="danger" %}
+Remember that a [_Featured Content_](../modulo/crear-modulo/featured-content.md)-type module must always occupy the first position.
+{% endhint %}
 
 ### How to add a module from layouts editing
 
@@ -48,10 +50,15 @@ Click **DELETE** to accept the message displayed on the screen and confirm that 
 
 ![](../.gitbook/assets/image%20%2843%29.png)
 
-{% hint style="danger" %} The action of deleting a module from a layout does not delete the module from the modules repository and you can therefore use it at another time if necessary. {% endhint %}
+{% hint style="danger" %}
+The action of deleting a module from a layout does not delete the module from the modules repository and you can therefore use it at another time if necessary.
+{% endhint %}
 
 When you have finished editing the layout, click on the **DONE** button.
 
 ![](../.gitbook/assets/image%20%2826%29.png)
 
-{% hint style="info" %} By clicking **DONE** the layout is edited but not yet published. {% endhint %}
+{% hint style="info" %}
+By clicking **DONE** the layout is edited but not yet published.
+{% endhint %}
+
