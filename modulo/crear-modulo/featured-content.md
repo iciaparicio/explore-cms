@@ -168,7 +168,7 @@ Quando o usuário seleciona uma categoria, o conteúdo é exibido no formato ver
 
 Em Explore CMS, selecione a categoria ou categorias que se aplicam ao cartão que você está configurando:
 
-![](https://github.com/iciaparicio/explore-cms/tree/2d14bb61a8e92a38fe23ad18f7cf392e8f2f8668/pt-BR/.gitbook/assets/categories.png)
+![](../../.gitbook/assets/categories.png)
 
 * **Accessories**. Acessórios: fones de ouvido, estojos, relógios.
 * **Bundles**. Pacotes: pacotes, planos, pacotes de produtos.
@@ -195,11 +195,11 @@ Consulte a seção [**Categorias**](https://app.gitbook.com/@tef-novum/s/explore
 
 Dentro do módulo, é possível movimentar os cards para mudar a ordem em que são exibidos.
 
-![](https://github.com/iciaparicio/explore-cms/tree/2d14bb61a8e92a38fe23ad18f7cf392e8f2f8668/pt-BR/.gitbook/assets/drag-and-drop.png)
+![](../../.gitbook/assets/drag-and-drop.png)
 
 Para movimentar um _card_ arraste-o até a posição onde será exibido e solte-o.
 
-![](https://github.com/iciaparicio/explore-cms/tree/2d14bb61a8e92a38fe23ad18f7cf392e8f2f8668/pt-BR/.gitbook/assets/drag-and-drop_demo.gif)
+![](../../.gitbook/assets/drag-and-drop_demo.gif)
 
 ## Link
 
