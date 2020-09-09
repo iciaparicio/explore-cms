@@ -9,13 +9,13 @@ description: >-
 
 Os módulos do tipo _Banner_ simplesmente contêm uma imagem ou um _bumper_ com um link.
 
-![](https://github.com/iciaparicio/explore-cms/tree/2d14bb61a8e92a38fe23ad18f7cf392e8f2f8668/pt-BR/.gitbook/assets/image%20%2863%29.png)
+![](../../.gitbook/assets/image%20%2863%29.png)
 
 Preencha os campos obrigatórios e decida se precisa completar quaisquer dos campos opcionais:
 
 ## Details
 
-![](https://github.com/iciaparicio/explore-cms/tree/2d14bb61a8e92a38fe23ad18f7cf392e8f2f8668/pt-BR/.gitbook/assets/image%20%2813%29.png)
+![](../../.gitbook/assets/image%20%2813%29.png)
 
 **Name**. Nome que identifica internamente o elemento. Nunca é exibido no app, mas com esse nome pode identificar o módulo ao visualizar a lista de módulos.‌
 
@@ -27,7 +27,7 @@ Preencha os campos obrigatórios e decida se precisa completar quaisquer dos cam
 
 ### Banner
 
-![](https://github.com/iciaparicio/explore-cms/tree/2d14bb61a8e92a38fe23ad18f7cf392e8f2f8668/pt-BR/.gitbook/assets/image%20%2845%29.png)
+![](../../.gitbook/assets/image%20%2845%29.png)
 
 Para cada _banner_, os campos disponíveis podem variar segundo for selecionada uma imagem ou um _bumper_:
 
@@ -36,7 +36,7 @@ Para cada _banner_, os campos disponíveis podem variar segundo for selecionada 
 
 {% tabs %}
 {% tab title="Image" %}
-![](https://github.com/iciaparicio/explore-cms/tree/2d14bb61a8e92a38fe23ad18f7cf392e8f2f8668/pt-BR/.gitbook/assets/image%20%2812%29.png)
+![](../../.gitbook/assets/image%20%2812%29.png)
 
 **Image Upload an image** 📤. URL da imagem do _banner_. Deve ter o formato de URL próprio do CMS.
 
@@ -54,7 +54,7 @@ Quando a imagem for carregada, será possível pré-visualizá-la logo abaixo.
 {% endtab %}
 
 {% tab title="Bumper" %}
-![](https://github.com/iciaparicio/explore-cms/tree/2d14bb61a8e92a38fe23ad18f7cf392e8f2f8668/pt-BR/.gitbook/assets/image%20%2823%29.png)
+![](../../.gitbook/assets/image%20%2823%29.png)
 
 **Bumper Upload a bumper** 📤. É preenchido automaticamente com o nome do _bumper_.
 
@@ -65,11 +65,11 @@ Para carregar um bumper, há duas opções:
 
 Ative a opção **Play in loop** para que o _bumper_ seja reproduzido em loop no Explore. Com a opção desativada, será reproduzido a cada vez que o _bumper_ acessar a tela, mas para quando finaliza a reprodução.
 
-![Activa o desactiva la opci&#xF3;n para reproducir en bucle](https://github.com/iciaparicio/explore-cms/tree/2d14bb61a8e92a38fe23ad18f7cf392e8f2f8668/pt-BR/.gitbook/assets/image%20%2829%29.png)
+![Activa o desactiva la opci&#xF3;n para reproducir en bucle](../../.gitbook/assets/image%20%2829%29.png)
 
 Quando o _bumper_ for carregado, será possível pré-visualizar logo abaixo:
 
-![](https://github.com/iciaparicio/explore-cms/tree/2d14bb61a8e92a38fe23ad18f7cf392e8f2f8668/pt-BR/.gitbook/assets/image%20%2840%29.png)
+![](../../.gitbook/assets/image%20%2840%29.png)
 
 **Bumper Accesibility Text**. Descrição do _bumper_ utilizado para acessibilidade, como alternativa se não é possível exibir o _bumper_ \(por exemplo, para pessoas com problemas de visão\).
 
@@ -97,11 +97,11 @@ As categorias permitem filtrar o conteúdo no Explore. As categorias são mostra
 
 Quando o usuário seleciona uma categoria, o conteúdo é exibido no formato vertical \(em vez de rolagem horizontal\), para que o usuário não perca nenhum conteúdo.
 
-![](https://github.com/iciaparicio/explore-cms/tree/2d14bb61a8e92a38fe23ad18f7cf392e8f2f8668/pt-BR/.gitbook/assets/categories_divices.png)
+![](../../.gitbook/assets/categories_divices.png)
 
 Em Explore CMS, selecione a categoria ou categorias que se aplicam ao cartão que você está configurando:
 
-![](https://github.com/iciaparicio/explore-cms/tree/2d14bb61a8e92a38fe23ad18f7cf392e8f2f8668/pt-BR/.gitbook/assets/categories_banner.png)
+![](../../.gitbook/assets/categories_banner.png)
 
 * **Accessories**. Acessórios: fones de ouvido, estojos, relógios.
 * **Bundles**. Pacotes: pacotes, planos, pacotes de produtos.
@@ -124,7 +124,7 @@ Consulte a seção [**Categorias**](https://app.gitbook.com/@tef-novum/s/explore
 
 ### Link
 
-![](https://github.com/iciaparicio/explore-cms/tree/2d14bb61a8e92a38fe23ad18f7cf392e8f2f8668/pt-BR/.gitbook/assets/image%20%2877%29.png)
+![](../../.gitbook/assets/image%20%2877%29.png)
 
 De maneira opcional, você pode adicionar links na parte inferior do módulo. Para isso, preencha para cada link que deseja adicionar \(máximo de 5 links\) os campos abaixo:
 
