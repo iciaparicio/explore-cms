@@ -12,7 +12,7 @@ description: >-
 
 Quando da edição de um módulo, pode ver em que layout ou layouts está:
 
-![](https://github.com/iciaparicio/explore-cms/tree/2d14bb61a8e92a38fe23ad18f7cf392e8f2f8668/pt-BR/.gitbook/assets/image%20%281%29.png)
+![](../../.gitbook/assets/image%20%281%29.png)
 
 ## Somente quero mudar um detalhe de um módulo para um layout, mas esse módulo também está sendo utilizado em outro layout. O que posso fazer?
 
@@ -58,7 +58,7 @@ Você não pode criar um novo layout, porque os layouts já estão configurados 
 
 Certamente. Você pode colocá-lo na posição que desejar dentro do layout. Contudo, tenha em conta que o título mostrado, nesse caso, será aquele definido no campo **Section Title**.
 
-![](https://github.com/iciaparicio/explore-cms/tree/2d14bb61a8e92a38fe23ad18f7cf392e8f2f8668/pt-BR/.gitbook/assets/image%20%2850%29.png)
+![](../../.gitbook/assets/image%20%2850%29.png)
 
 {% hint style="warning" %}
 Ainda, considere que, na primeira posição, sempre deve existir um módulo do tipo _Featured Content_, independente de usar mais deste tipo na composição do seu layout.
