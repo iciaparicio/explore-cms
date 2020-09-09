@@ -10,13 +10,13 @@ Este tipo de módulo serve para mostrar vários elementos com formato vertical. 
 
 Exibe-se no modo carrossel, oferece links em cada _card_ e elementos opcionais, como a etiqueta sobre a imagem ou um link para toda uma lista \(“Ver tudo”\).
 
-![](https://github.com/iciaparicio/explore-cms/tree/2d14bb61a8e92a38fe23ad18f7cf392e8f2f8668/pt-BR/.gitbook/assets/image%20%2869%29.png)
+![](../../.gitbook/assets/image%20%2869%29.png)
 
 Preencha os campos obrigatórios e decida se precisa completar quaisquer dos campos opcionais:
 
 ## Details
 
-![](https://github.com/iciaparicio/explore-cms/tree/2d14bb61a8e92a38fe23ad18f7cf392e8f2f8668/pt-BR/.gitbook/assets/image%20%2860%29.png)
+![](../../.gitbook/assets/image%20%2860%29.png)
 
 **Name**. Nome que identifica internamente o elemento. Nunca é exibido no app, mas com esse nome pode identificar o módulo ao visualizar a lista de módulos.
 
@@ -26,7 +26,7 @@ Preencha os campos obrigatórios e decida se precisa completar quaisquer dos cam
 
 ## Module building
 
-![](https://github.com/iciaparicio/explore-cms/tree/2d14bb61a8e92a38fe23ad18f7cf392e8f2f8668/pt-BR/.gitbook/assets/image%20%2853%29.png)
+![](../../.gitbook/assets/image%20%2853%29.png)
 
 **Section Title**. Título mostrado acima do módulo. Também, o título serve para identificar internamente o módulo que está criando. Com esse título, você pode identificar o módulo ao visualizar a lista de módulos.
 
@@ -36,7 +36,7 @@ Preencha os campos obrigatórios e decida se precisa completar quaisquer dos cam
 
 Os _cards_ são as seções que integram o carrossel. Para cada módulo tipo _Vertical cards_ configure pelo menos 2 _cards_ e um máximo de 6.
 
-![](https://github.com/iciaparicio/explore-cms/tree/2d14bb61a8e92a38fe23ad18f7cf392e8f2f8668/pt-BR/.gitbook/assets/vertical_cards_cms.png)
+![](../../.gitbook/assets/vertical_cards_cms.png)
 
 Os campos disponíveis para cada _card_ são:
 
@@ -46,7 +46,7 @@ Clique no link **Upload an image** 📤 e selecione a imagem diretamente de seu 
 
 Quando a imagem for carregada, será possível pré-visualizá-la logo abaixo.
 
-![](https://github.com/iciaparicio/explore-cms/tree/2d14bb61a8e92a38fe23ad18f7cf392e8f2f8668/pt-BR/.gitbook/assets/image%20%2837%29.png)
+![](../../.gitbook/assets/image%20%2837%29.png)
 
 🔅Não há extensão máxima e é **opcional**.
 
@@ -108,7 +108,7 @@ Aqui poderá encontrar uma série de exemplos para combinar campos de **Offers R
 
 **Display the ending date on the card**. Ative esta opção para informar o usuário que o conteúdo irá expirar.
 
-![](https://github.com/iciaparicio/explore-cms/tree/2d14bb61a8e92a38fe23ad18f7cf392e8f2f8668/pt-BR/.gitbook/assets/image%20%2827%29.png)
+![](../../.gitbook/assets/image%20%2827%29.png)
 
 **Como é visualizada a data de validade?**
 
@@ -116,15 +116,15 @@ Se a opção de exibir a data de validade estiver habilitada, a exibição dessa
 
 `FINALIZA HOJE hh:mm AM` ou `FINALIZA HOJE hh:mm PM` ou `FINALIZA HOJE hh:mm` \(o formato varia segundo o país\) para indicar que o _card_ expira no mesmo dia na hora indicada, pela manhã ou pela tarde, respectivamente. Por exemplo `FINALIZA HOJE 9:00AM`.
 
-![](https://github.com/iciaparicio/explore-cms/tree/2d14bb61a8e92a38fe23ad18f7cf392e8f2f8668/pt-BR/.gitbook/assets/image%20%2855%29.png)
+![](../../.gitbook/assets/image%20%2855%29.png)
 
 `AMANHÃ` indica que a data de validade é o dia seguinte.
 
-![](https://github.com/iciaparicio/explore-cms/tree/2d14bb61a8e92a38fe23ad18f7cf392e8f2f8668/pt-BR/.gitbook/assets/image%20%286%29.png)
+![](../../.gitbook/assets/image%20%286%29.png)
 
 `FINALIZA dd mm` para indicar que a diferença é de mais de dois dias. Por exemplo `FINALIZA 30 JUN​`.
 
-![](https://github.com/iciaparicio/explore-cms/tree/2d14bb61a8e92a38fe23ad18f7cf392e8f2f8668/pt-BR/.gitbook/assets/image%20%2824%29.png)
+![](../../.gitbook/assets/image%20%2824%29.png)
 
 🎯 A data de início e finalização é uma maneira de programar algumas campanhas, especialmente naquelas de caráter sazonal.
 
@@ -144,11 +144,11 @@ As categorias permitem filtrar o conteúdo no Explore. As categorias são mostra
 
 Quando o usuário seleciona uma categoria, o conteúdo é exibido no formato vertical \(em vez de rolagem horizontal\), para que o usuário não perca nenhum conteúdo.
 
-![](https://github.com/iciaparicio/explore-cms/tree/2d14bb61a8e92a38fe23ad18f7cf392e8f2f8668/pt-BR/.gitbook/assets/categories_divices.png)
+![](../../.gitbook/assets/categories_divices.png)
 
 Em Explore CMS, selecione a categoria ou categorias que se aplicam ao cartão que você está configurando:
 
-![](https://github.com/iciaparicio/explore-cms/tree/2d14bb61a8e92a38fe23ad18f7cf392e8f2f8668/pt-BR/.gitbook/assets/categories.png)
+![](../../.gitbook/assets/categories.png)
 
 * **Accessories**. Acessórios: fones de ouvido, estojos, relógios.
 * **Bundles**. Pacotes: pacotes, planos, pacotes de produtos.
@@ -173,17 +173,17 @@ Consulte a seção [**Categorias**](https://app.gitbook.com/@tef-novum/s/explore
 
 Dentro do módulo, é possível movimentar os cards para mudar a ordem em que são exibidos.
 
-![](https://github.com/iciaparicio/explore-cms/tree/2d14bb61a8e92a38fe23ad18f7cf392e8f2f8668/pt-BR/.gitbook/assets/drag-and-drop.png)
+![](../../.gitbook/assets/drag-and-drop.png)
 
 Para movimentar um _card_ arraste-o até a posição onde será exibido e solte-o.
 
-![](https://github.com/iciaparicio/explore-cms/tree/2d14bb61a8e92a38fe23ad18f7cf392e8f2f8668/pt-BR/.gitbook/assets/drag-and-drop_demo.gif)
+![](../../.gitbook/assets/drag-and-drop_demo.gif)
 
 ## Link
 
 De maneira opcional, é possível adicionar links que aparecerão na parte inferior do módulo.
 
-![](https://github.com/iciaparicio/explore-cms/tree/2d14bb61a8e92a38fe23ad18f7cf392e8f2f8668/pt-BR/.gitbook/assets/link_module.png)
+![](../../.gitbook/assets/link_module.png)
 
 Para isso, preencha para cada link que deseja adicionar \(máximo de 5 links\) os campos abaixo:
 
@@ -195,5 +195,5 @@ Para isso, preencha para cada link que deseja adicionar \(máximo de 5 links\) o
 
 🔅 É obrigatório e deve ser uma URL válida \(por exemplo: [`https://www.google.com`](https://www.google.com)\)
 
-![](https://github.com/iciaparicio/explore-cms/tree/2d14bb61a8e92a38fe23ad18f7cf392e8f2f8668/pt-BR/.gitbook/assets/vertical_cards_link.png)
+![](../../.gitbook/assets/vertical_cards_link.png)
 
