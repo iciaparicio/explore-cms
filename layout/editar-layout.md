@@ -10,7 +10,7 @@ Os layouts que atualmente estão disponíveis dependem da OB e de suas caracter�
 
 ![](https://lh6.googleusercontent.com/FdJIOgERcMtTfTcV7ehhcTKaYLbGIM4vmUoOPmxSg2VZDNA7FbPTJoaTrVQihA5_4EcQgYbGXjLsIrfNW4xX4YQ3gBA44iQOQl2MA2SNNcEtYtFfw3UN8HUXdS31GwVTzUsbOf7-)
 
-Para editar um layout existente em Explore CMS e publicá-lo, acesse o arquivo de layouts e clique em ![](../../.gitbook/assets/icono_editar.png) na fileira do layout correspondente.
+Para editar um layout existente em Explore CMS e publicá-lo, acesse o arquivo de layouts e clique em ![](../.gitbook/assets/icono_editar.png) na fileira do layout correspondente.
 
 ![](https://lh3.googleusercontent.com/t2IaTREbk-P1nHvx8nJ1SGOS423cQyTdPdvSRznGPXFFECYQFXtw9tPnHb3bd0-sARSPKaT7zExAC7_9bgmkfBc4JPQGykkLy8dmTp-Dd9gZuEz-x0SYAZ54TMKVhq0ikMiopJ73)
 
@@ -36,11 +36,11 @@ Observe que, na primeira posição, sempre deve existir um módulo do tipo [_Fea
 
 Selecione no menu suspenso o módulo que deseja adicionar.
 
-![](../../.gitbook/assets/image%20%2878%29.png)
+![](../.gitbook/assets/image%20%2878%29.png)
 
 Utilize a funcionalidade de preenchimento automático: comece digitando o nome do módulo e, de maneira automática, os módulos que coincidam com sua pesquisa serão filtrados.
 
-![](../../.gitbook/assets/autocompletar.png)
+![](../.gitbook/assets/autocompletar.png)
 
 ### Como eliminar um módulo de um layout
 
@@ -48,7 +48,7 @@ Para que um módulo não seja exibido em um layout, clique no ícone ![](https:/
 
 Clique em **DELETE** para aceitar a mensagem exibida na tela e confirmar a ação de eliminação.
 
-![](../../.gitbook/assets/image%20%2843%29.png)
+![](../.gitbook/assets/image%20%2843%29.png)
 
 {% hint style="danger" %}
 A ação que elimina um módulo de um layout não elimina o módulo do arquivo de módulos. Por isso, você pode usá-lo em outro momento se for necessário.
@@ -56,7 +56,7 @@ A ação que elimina um módulo de um layout não elimina o módulo do arquivo d
 
 Ao finalizar a edição do layout, clique no botão **DONE**.
 
-![](../../.gitbook/assets/image%20%2826%29.png)
+![](../.gitbook/assets/image%20%2826%29.png)
 
 {% hint style="info" %}
 Quando clicar em **DONE** o layout ficará editado mas ainda não será publicado.

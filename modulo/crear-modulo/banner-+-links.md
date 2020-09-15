@@ -40,7 +40,7 @@ Para cada _banner_, os campos disponíveis podem variar segundo for selecionada 
 
 **Image Upload an image** 📤. URL da imagem do _banner_. Deve ter o formato de URL próprio do CMS.
 
-Clique no link **Upload an image** 📤 _\*\*_e selecione a imagem diretamente de seu computador. Uma vez processado o upload da imagem, o URL é preenchido automaticamente no campo de texto.
+Clique no link **Upload an image** 📤 \_\*\*\_e selecione a imagem diretamente de seu computador. Uma vez processado o upload da imagem, o URL é preenchido automaticamente no campo de texto.
 
 Quando a imagem for carregada, será possível pré-visualizá-la logo abaixo.
 
