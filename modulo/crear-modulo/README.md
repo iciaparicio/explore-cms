@@ -10,7 +10,9 @@ Haz clic en el botón **CREATE MODULE**.
 
 Selecciona el tipo de módulo que vas a utilizar para tu diseño.
 
-![](https://lh3.googleusercontent.com/GDHDqVX-K1wnxNozK7yrYOjWk2VOqpJO3Ayeo5OzbGPw9sUG-6S0rhKJA7ntvRtKbejn8Lm0z9G32JzGZYKycYiP593Dyd6zc7PsptCI6FjLLBi_snn6ZdkweHI-RBiofHPawVQN)
+![](../../.gitbook/assets/typeofmodule.png)
+
+Los módulos se ven así:
 
 ![Featured Content](../../.gitbook/assets/image%20%2821%29.png)
 
@@ -20,9 +22,19 @@ Selecciona el tipo de módulo que vas a utilizar para tu diseño.
 
 ![Banner](../../.gitbook/assets/image%20%2851%29.png)
 
-Haz clic en **NEXT** para continuar. En función del tipo de módulo que has seleccionado configura los campos que correspondan.
+Además indica:
 
+**Name**. Nombre que identifica internamente al elemento. En la app no se muestra en ningún momento pero con ese nombre puedes identificar el módulo en la vista de listado de módulos.
 
+  🔅No tiene una longitud máxima y es **obligatorio**.
 
+**Section Title**. Título que se muestra encima del módulo siempre que no esté posicionado en primer lugar. Cuando va en la primera posición, no hay título de sección \(en ese caso el título de sección es siempre _Explore_\). Además, este título sirve para identificar internamente el módulo que estás creando. Con ese título puedes identificar el módulo en la vista de listado de módulos.
 
+🔅Tiene una longitud máxima de **25 caracteres** y es **obligatorio**.
+
+{% hint style="warning" %}
+Dentro de un layout, es obligatorio que un módulo de tipo _Featured Content_ esté en primera posición.
+{% endhint %}
+
+Haz clic en **CREATE** para continuar. En función del tipo de módulo que has seleccionado configura los campos que correspondan.
 
