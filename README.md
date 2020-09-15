@@ -10,7 +10,7 @@ description: >-
 
 Explore CMS \(Content Management System\) es una herramienta diseñada por el equipo de Producto de NOVUM para que las OBs y otros equipos de NOVUM puedan publicar y gestionar, de forma rápida y sencilla, contenido en Explore.
 
-## Acceso por OB: <a id="acceso-a-la-global-comms-tool"></a>
+### Acceso por OB:
 
 | OB | URL |
 | :--- | :--- |
