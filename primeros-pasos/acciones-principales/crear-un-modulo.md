@@ -14,9 +14,9 @@ Accede al menú **Explore &gt; Modules** y haz clic en **CREATE MODULE**.
 
 ### Paso 2
 
-Selecciona el tipo de módulo.
+Selecciona el tipo de módulo e indica nombre y título de sección.
 
-![](https://lh4.googleusercontent.com/GJtd8T-7HRLDD88KMgiLRubrOJSWZ2k4PjYxO_aj-vHQUxSSLp1Yv_sNthy1NTAtUsGqcfhgnqFZMWeCPMd-8E9fyNUrOHmkH1dxAQcYW098p5N1iPMAngwNV3E7FlNsD9M_H-01)
+![](../../.gitbook/assets/typeofmodule.png)
 
 ### Paso 3
 
@@ -27,6 +27,4 @@ Rellena los campos obligatorios para ese módulo y, si lo necesitas, cualquiera 
 {% page-ref page="../../modulo/crear-modulo/" %}
 
 ![](../../.gitbook/assets/create_module.gif)
-
-## 
 
