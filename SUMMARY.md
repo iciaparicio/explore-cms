@@ -24,4 +24,5 @@
 * [Test lines](test-lines.md)
 * [Deep links por categorías](deeplinks-en-explore.md)
 * [FAQ](faq.md)
+* [Crear una card](crear-una-card.md)
 

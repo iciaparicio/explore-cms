@@ -16,29 +16,37 @@ Rellena los campos obligatorios y decide si necesitas rellenar alguno de los cam
 
 ## Details
 
-![](../../.gitbook/assets/image%20%2876%29.png)
+![](../../.gitbook/assets/details_module.png)
 
-**Name**. Nombre que identifica internamente al elemento. En la app no se muestra en ningún momento pero con ese nombre puedes identificar el módulo en la vista de listado de módulos.
+**Module Type**. Indica de qué tipo es el módulo que estás configurando o editando.  
+ ℹ Campo informativo, no editable.
 
-  🔅No tiene una longitud máxima y es **obligatorio**.
+**Name**. Nombre que identifica internamente al elemento. En la app no se muestra en ningún momento pero con ese nombre puedes identificar el módulo en la vista de listado de módulos.  
+ 🔅No tiene una longitud máxima y es **obligatorio**.
+
+{% hint style="info" %}
+Este campo viene informado del paso anterior pero puedes modificarlo si lo consideras necesario.
+{% endhint %}
+
+**Layouts.** Campo informativo, no editable, que te indica en qué layouts está incluido el módulo que estás configurando o editando.  
+ℹ Campo informativo, no editable.
 
 **For more information check the guidelines**. Consulta las guías de diseño relativas al módulo que estás creando o editando. Revísalas para asegurar que estás subiendo contenido de la mejor calidad posible.
 
 ## Module building
 
-![](../../.gitbook/assets/image%20%2820%29.png)
+![](../../.gitbook/assets/module_building.png)
 
-**Section Title**. Título que se muestra encima del módulo siempre que no esté posicionado en primer lugar. Cuando va en la primera posición, no hay título de sección \(en ese caso el título de sección es siempre _Explore_\). Además, este título sirve para identificar internamente el módulo que estás creando. Con ese título puedes identificar el módulo en la vista de listado de módulos.
-
+**Section Title**. Título que se muestra encima del módulo siempre que no esté posicionado en primer lugar. Cuando va en la primera posición, no hay título de sección \(en ese caso el título de sección es siempre _Explore_\). Además, este título sirve para identificar internamente el módulo que estás creando. Con ese título puedes identificar el módulo en la vista de listado de módulos.  
 🔅Tiene una longitud máxima de **25 caracteres** y es **obligatorio**.
 
 {% hint style="warning" %}
 Dentro de un layout, es obligatorio que un módulo de tipo _Featured Content_ esté en primera posición.
 {% endhint %}
 
-## Cards
+### Cards
 
-Las _cards_ son las secciones que componen el carrusel. Para cada módulo de tipo _Featured Content_ configura un mínimo de 2 _cards_ y un máximo de 6.
+Las _cards_ son las secciones que componen el módulo.Para cada módulo de tipo _Featured Content_ configura un mínimo de 2 _cards_ y un máximo de 6.
 
 ![](../../.gitbook/assets/featured_content_cms.png)
 

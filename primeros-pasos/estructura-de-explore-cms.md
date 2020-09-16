@@ -10,6 +10,8 @@ description: >-
 
 Las **cards** son las unidades mínimas de contenido y necesitan estar dentro de un módulo para que las pueda ver el usuario.
 
+Configura cada card dentro de un módulo y asóciala a los módulos que necesites.
+
 ## Módulo
 
 Los **módulos** son la estructura básica que compone Explore y está compuesto de cards. Configura cada módulo para definir las distintas ofertas o productos que quieres mostrar en Explore.
