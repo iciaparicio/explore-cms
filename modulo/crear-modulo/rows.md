@@ -118,7 +118,7 @@ As categorias permitem filtrar o conteúdo no Explore. As categorias são mostra
 
 Quando o usuário seleciona uma categoria, o conteúdo é exibido no formato vertical \(em vez de rolagem horizontal\), para que o usuário não perca nenhum conteúdo.
 
-![](../../.gitbook/assets/categories_divices.png)
+![](../../.gitbook/assets/categories_devices-1-.png)
 
 Em Explore CMS, selecione a categoria ou categorias que se aplicam ao cartão que você está configurando:
 
