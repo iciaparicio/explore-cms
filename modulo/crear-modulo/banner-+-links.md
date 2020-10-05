@@ -97,7 +97,7 @@ Las categorías te permiten filtrar el contendido en Explore. Las categorías se
 
 Cuando el usuario selecciona una categoría el contenido se muestra ordenado en formato vertical \(en lugar de scroll horizontal\), para que el usuario no se pierda ningún contenido.
 
-![](../../.gitbook/assets/categories_divices.png)
+![](../../.gitbook/assets/categories_devices-1-.png)
 
 En Explore CMS selecciona la categoría o las categorías que aplican a la card que estás configurando:
 

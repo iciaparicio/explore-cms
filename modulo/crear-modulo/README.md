@@ -14,13 +14,7 @@ Selecciona el tipo de módulo que vas a utilizar para tu diseño.
 
 Los módulos se ven así:
 
-![Featured Content](../../.gitbook/assets/image%20%2821%29.png)
-
-![Vertical Cards](../../.gitbook/assets/image%20%2879%29.png)
-
-![Rows](../../.gitbook/assets/image%20%2866%29.png)
-
-![Banner](../../.gitbook/assets/image%20%2851%29.png)
+![1. Featured Content \| 2.Vertical Cards \| 3. Rows \| 4. Banner + Link ](../../.gitbook/assets/tipos_de_modulos.png)
 
 Para el módulo que has seleccionado indica:
 
@@ -42,7 +36,7 @@ Si seleccionas un módulo de tipo **Banner + Links**, indica también:
 
 Cuando el usuario selecciona una categoría el contenido se muestra ordenado en formato vertical \(en lugar de scroll horizontal\), para que el usuario no se pierda ningún contenido.
 
-![](../../.gitbook/assets/categories_divices.png)
+![](../../.gitbook/assets/categories_devices-1-.png)
 
 
 
