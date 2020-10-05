@@ -164,7 +164,7 @@ Categories allow you to filter content in Explore. The categories are shown at t
 
 When the user selects a category, the content is shown in a vertical format \(as opposed to having to scroll horizontally\), so that the user doesn't miss any content.
 
-![](../../.gitbook/assets/categories_divices.png)
+![](../../.gitbook/assets/categories_devices-1-.png)
 
 In Explore CMS, select the category or categories that apply to the card that you are configuring:
 
