@@ -20,7 +20,7 @@ Los módulos se ven así:
 Los campos que se muestran varían en función del tipo de módulo que selecciones.
 {% endhint %}
 
-Si seleccionas un módulo de tipo **Featured Content**, **Vertical Cards** o **Rows** indica:
+### Módulo de tipo **Featured Content**, **Vertical Cards** o **Rows**
 
 **Name**. Nombre que identifica internamente al elemento. En la app no se muestra en ningún momento pero con ese nombre puedes identificar el módulo en la vista de listado de módulos. 🔅No tiene una longitud máxima y es **obligatorio**.
 
@@ -31,7 +31,7 @@ Si seleccionas un módulo de tipo **Featured Content**, **Vertical Cards** o **R
 Dentro de un layout, es obligatorio que un módulo de tipo _Featured Content_ esté en primera posición.
 {% endhint %}
 
-Si seleccionas un módulo de tipo  **Banner + Links** indica:
+### Módulo de tipo  **Banner + Links**
 
 **Name**. Nombre que identifica internamente al elemento. En la app no se muestra en ningún momento pero con ese nombre puedes identificar el módulo en la vista de listado de módulos. 🔅No tiene una longitud máxima y es **obligatorio**.
 
@@ -83,6 +83,10 @@ Selecciona la categoría o las categorías que aplican a la card que estás conf
 * **Plans**. Planes: Tarifas, actualizaciones, planes de precios.
 * **Services**. Servicios: servicios de valor añadido \(nuevas funcionalidades\), apps, servicios de TEF. 
 * **TV**. Televisión: planes de televisión, contenido destacado.
+
+{% hint style="warning" %}
+Las categorías disponibles y los nombres de las categorías varían en función de la OB.
+{% endhint %}
 
 Haz clic en **CREATE** para continuar. En función del tipo de módulo que has seleccionado configura los campos que correspondan.
 
