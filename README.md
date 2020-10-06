@@ -10,11 +10,5 @@ description: >-
 
 Explore CMS \(Content Management System\) es una herramienta diseñada por el equipo de Producto de NOVUM para que las OBs y otros equipos de NOVUM puedan publicar y gestionar, de forma rápida y sencilla, contenido en Explore.
 
-### Acceso por OB:
-
-| OB | URL |
-| :--- | :--- |
-| ​​🇪🇸 ES | ​[https://commstoolcms-es.mytelco.io/](https://commstoolcms-es.mytelco.io/)​ |
-| ​​🇬🇧 UK | ​[https://commstoolcms-uk.mytelco.io/](https://commstoolcms-uk.mytelco.io/)​ |
-| ​​🇧🇷 BR | ​[https://commstoolcms-b](https://commstoolcms-br.mytelco.io/)​[.mytelco.io/](https://commstoolcms-br.mytelco.io/)​ |
+[Acceso al CMS](https://commstoolcms-es.mytelco.io/​)
 
