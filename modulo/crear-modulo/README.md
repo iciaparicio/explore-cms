@@ -75,6 +75,10 @@ Selecciona la categoría o las categorías que aplican a la card que estás conf
 
 ![](../../.gitbook/assets/categories_banner.png)
 
+{% hint style="warning" %}
+Las categorías disponibles y los nombres de las categorías varían en función de la OB.
+{% endhint %}
+
 * **Accessories**. Accesorios: auriculares, fundas, relojes.
 * **Bundles**. Paquetes: packs, planes, paquetes de productos.
 * **Devices**. Dispositivos: smartphones, tablets.
@@ -83,10 +87,6 @@ Selecciona la categoría o las categorías que aplican a la card que estás conf
 * **Plans**. Planes: Tarifas, actualizaciones, planes de precios.
 * **Services**. Servicios: servicios de valor añadido \(nuevas funcionalidades\), apps, servicios de TEF. 
 * **TV**. Televisión: planes de televisión, contenido destacado.
-
-{% hint style="warning" %}
-Las categorías disponibles y los nombres de las categorías varían en función de la OB.
-{% endhint %}
 
 Haz clic en **CREATE** para continuar. En función del tipo de módulo que has seleccionado configura los campos que correspondan.
 
