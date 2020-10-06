@@ -8,7 +8,7 @@ Este tipo de módulo está muy orientado a presentar diferentes tarifas a los us
 
 Tiene un formato por filas \(_rows_\) donde en cada una dispone de varios campos opcionales como una pequeña etiqueta que se comporta como un título para esa fila, un breve texto y su enlace correspondiente.
 
-![](../../.gitbook/assets/image%20%2864%29.png)
+![](../../.gitbook/assets/rows_module.png)
 
 Rellena los campos obligatorios y decide si necesitas rellenar alguno de los campos opcionales:
 

@@ -10,7 +10,7 @@ Es un módulo ideal para resaltar contenido de máximo interés para el usuario 
 
 Los distintos contenidos configurados pasan a modo de carrusel horizontal para que el usuario pueda verlos cómodamente.
 
-![](../../.gitbook/assets/image%20%288%29.png)
+![](../../.gitbook/assets/featured_content_module.png)
 
 Rellena los campos obligatorios y decide si necesitas rellenar alguno de los campos opcionales:
 

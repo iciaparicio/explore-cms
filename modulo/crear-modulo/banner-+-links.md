@@ -9,7 +9,7 @@ description: >-
 
 Los módulos de tipo _Banner_ contienen simplemente una imagen o un _bumper_ con un link.
 
-![](../../.gitbook/assets/image%20%2863%29.png)
+![](../../.gitbook/assets/banner_links_module.png)
 
 Rellena los campos obligatorios y decide si necesitas rellenar alguno de los campos opcionales:
 

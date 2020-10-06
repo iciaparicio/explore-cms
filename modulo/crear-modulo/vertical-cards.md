@@ -10,7 +10,7 @@ Este tipo de módulo sirve para mostrar varios elementos en formato vertical. Es
 
 Se muestra a modo carrusel ofreciendo enlaces en cada _card_ y elementos opcionales como la etiqueta sobre la imagen o un enlace a toda una lista \(un “Ver todo”\).
 
-![](../../.gitbook/assets/image%20%2869%29.png)
+![](../../.gitbook/assets/vertical_cards_module.png)
 
 Rellena los campos obligatorios y decide si necesitas rellenar alguno de los campos opcionales:
 
