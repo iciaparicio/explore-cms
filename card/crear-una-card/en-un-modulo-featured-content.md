@@ -1,8 +1,23 @@
 # En un módulo Featured Content
 
-Las _cards_ son las secciones que componen el módulo.Para cada módulo de tipo _Featured Content_ configura un mínimo de 2 _cards_ y un máximo de 6.
+Para cada módulo de tipo _Featured Content_ configura un mínimo de 2 _cards_ y un máximo de 6.
 
-![](../../.gitbook/assets/featured_content_cms.png)
+### Details
+
+![](../../.gitbook/assets/details_featured_content.png)
+
+**Card 1 Pre-title**. Título que aparece inmediatamente debajo de la imagen del carrusel.   
+🔅Tiene una longitud máxima de **44 caracteres** \(recomendado menos de 24\) y es **obligatorio**.
+
+**Card 1 Title**. Título que aparece debajo del **Pre-title** y que identifica a la _card_ internamente.  
+🔅Tiene una longitud máxima de **70 caracteres** \(recomendado menos de 35 para no ocupar más de una línea\) y es **obligatorio**.
+
+**Segments**. Segmento o segmentos en los que está incluida la card.   
+ℹ Campo informativo, no editable.
+
+### Card building
+
+![](../../.gitbook/assets/card_building_featured_content.png)
 
 Para cada _card_ los campos disponibles varían en función de que selecciones una imagen o un _bumper_:
 
@@ -56,36 +71,22 @@ Cuando el _bump_e_r_ se haya subido se previsualiza justo debajo:
 {% endtab %}
 {% endtabs %}
 
-**Card 1 Pre-title**. Título que aparece inmediatamente debajo de la imagen del carrusel. 
-
-🔅Tiene una longitud máxima de **44 caracteres** \(recomendado menos de 24\) y es **obligatorio**.
-
-**Card 1 Title**. Título que aparece debajo del **Pre-title** y que identifica a la _card_ internamente.
-
-🔅Tiene una longitud máxima de **70 caracteres** \(recomendado menos de 35 para no ocupar más de una línea\) y es **obligatorio**.
-
-**Card 1 Tracking Name**. Nombre que no ven los usuarios pero sí se ve en Google Analytics. Sirve para identificar el producto internamente de manera más fácil. 
-
+**Card 1 Tracking Name**. Nombre que no ven los usuarios pero sí se ve en Google Analytics. Sirve para identificar el producto internamente de manera más fácil.   
 🔅Es **opcional**.
 
-**Card 1 Description**. Pequeña descripción de la _card_. 
-
+**Card 1 Description**. Pequeña descripción de la _card_.   
 🔅Tiene una longitud máxima de **132 caracteres** \(recomendado menos de 125\) y es **obligatorio**.
 
-**Card 1 Tag**. Texto corto que se sitúa por encima de la imagen de la _card_.
-
+**Card 1 Tag**. Texto corto que se sitúa por encima de la imagen de la _card_.  
 🔅Tiene una longitud máxima de **18 caracteres** \(recomendado menos de 10\) y es **opcional**.
 
-**Card 1 Action Url**. URL de la _card_, es decir, URL a la que se accede al hacer clic sobre la _card_. 
-
+**Card 1 Action Url**. URL de la _card_, es decir, URL a la que se accede al hacer clic sobre la _card_.   
 🔅Es **obligatoria** y tiene que ser una URL válida \(ejemplo: [https://www.google.com](https://www.google.com)\)
 
-**Card 1 Starting date and time**. Fecha y hora en la que quieres que la _card_ empiece a mostrarse a los usuarios. 
-
+**Card 1 Starting date and time**. Fecha y hora en la que quieres que la _card_ empiece a mostrarse a los usuarios.   
 🔅Es opcional.
 
-**Card 1 Ending date and time**. Fecha y hora en la que quieres que la _card_ termine de mostrarse a los usuarios.
-
+**Card 1 Ending date and time**. Fecha y hora en la que quieres que la _card_ termine de mostrarse a los usuarios.  
 🔅Es opcional.
 
 **Display the ending date on the card**. Activa esta opción para informar al usuario que el contenido va a caducar. 
@@ -130,26 +131,32 @@ Cuando el usuario selecciona una categoría el contenido se muestra ordenado en 
 
 En Explore CMS selecciona la categoría o las categorías que aplican a la card que estás configurando:
 
-![](../../.gitbook/assets/categories.png)
+![](../../.gitbook/assets/categories_banner-1-.png)
 
-* **Accessories**. Accesorios: auriculares, fundas, relojes.
-* **Bundles**. Paquetes: packs, planes, paquetes de productos.
-* **Devices**. Dispositivos: smartphones, tablets.
-* **Loyalty**. Fidelización: membresía, contenido de programas de loyalty/fidelización \(Valoriza, Priority, Club Movistar…\)
-* **Promos**. Promociones: Contenido promocional que pueda encajar y que es posible que incluso pueda convivir con otras categorías.
-* **Plans**. Planes: Tarifas, actualizaciones, planes de precios.
-* **Services**. Servicios: servicios de valor añadido \(nuevas funcionalidades\), apps, servicios de TEF. 
-* **TV**. Televisión: planes de televisión, contenido destacado.
-
-{% hint style="info" %}
-La categoría **All**, que es la primera que se visualiza, no es una categoría como tal sino que es la forma que tiene el usuario de ver todo el contenido.
-
-Por defecto, cuando un usuario abre Explore, ve todo el contenido, todas las cards configuradas, y por tanto la categoría seleccionada es siempre **All**. 
+{% hint style="warning" %}
+Las categorías disponibles y los nombres de las categorías varían en función de la OB.
 {% endhint %}
 
-🎯 **Buenas prácticas**: No es recomendable que un contenido tenga asignada más de una categoría, aunque Explore CMS no limite este comportamiento. A nivel de medición de datos  
+* **Fusión**. Paquetes: packs, planes, paquetes de productos.
+* **Móviles**. Dispositivos: smartphones, tablets.
+* **Likes**. Fidelización: membresía, contenido de programas de loyalty/fidelización \(Valoriza, Priority, Club Movistar…\)
+* **TV**. Televisión: planes de televisión, contenido destacado.
+* **Ofertas**. Promociones: Contenido promocional que pueda encajar y que es posible que incluso pueda convivir con otras categorías.
+* **Servicios**. Servicios: servicios de valor añadido \(nuevas funcionalidades\), apps, servicios de TEF. 
 
-#### ¿Qué debo tener en cuenta cuando uso las categorías?
+{% hint style="info" %}
+\*\*\*\*🙋 **Ten en cuenta que..**.
 
-¡Consulta la sección [**Categorías**](https://app.gitbook.com/@tef-novum/s/explore-cms/~/drafts/-LyYX2WN5Qc794RVRWmG/faq#categorias) ****del [FAQ](../../faq.md) para resolver todas tus dudas!
+Por defecto, cuando un usuario abre Explore, ve todo el contenido, todas las cards configuradas, y por tanto la categoría seleccionada es siempre **All**.
+
+La categoría **All**, que es la primera que se visualiza, no es una categoría como tal sino que es la forma que tiene el usuario de ver todo el contenido.
+{% endhint %}
+
+🎯 **Buenas prácticas**: No es recomendable que un contenido tenga asignada más de una categoría, aunque Explore CMS no limite este comportamiento. A nivel de medición de datos es más sencillo imputar acciones cuando una card está asociada a una única categoría. 
+
+\*\*\*\*🤔 **¿Qué debo tener en cuenta cuando uso las categorías?**
+
+¡Consulta la sección [**Categorías**](https://app.gitbook.com/@tef-novum/s/explore-cms/~/drafts/-LyYX2WN5Qc794RVRWmG/faq#categorias) del [FAQ](../../faq.md) para resolver todas tus dudas!
+
+#### 
 
