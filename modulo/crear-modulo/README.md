@@ -2,7 +2,7 @@
 description: Todos los pasos detallados de cómo crear un módulo en Explore CMS.
 ---
 
-# Crear un módulo
+# Crear módulo
 
 Haz clic en el botón **CREATE MODULE**.
 
@@ -73,20 +73,18 @@ Cuando el usuario selecciona una categoría el contenido se muestra ordenado en 
 
 Selecciona la categoría o las categorías que aplican a la card que estás configurando:
 
-![](../../.gitbook/assets/categories_banner.png)
+![](../../.gitbook/assets/categories_banner-1-.png)
 
 {% hint style="warning" %}
 Las categorías disponibles y los nombres de las categorías varían en función de la OB.
 {% endhint %}
 
-* **Accessories**. Accesorios: auriculares, fundas, relojes.
-* **Bundles**. Paquetes: packs, planes, paquetes de productos.
-* **Devices**. Dispositivos: smartphones, tablets.
-* **Loyalty**. Fidelización: membresía, contenido de programas de loyalty/fidelización \(Valoriza, Priority, Club Movistar…\)
-* **Promos**. Promociones: Contenido promocional que pueda encajar y que es posible que incluso pueda convivir con otras categorías.
-* **Plans**. Planes: Tarifas, actualizaciones, planes de precios.
-* **Services**. Servicios: servicios de valor añadido \(nuevas funcionalidades\), apps, servicios de TEF. 
+* **Fusión**. Paquetes: packs, planes, paquetes de productos.
+* **Móviles**. Dispositivos: smartphones, tablets.
+* **Likes**. Fidelización: membresía, contenido de programas de loyalty/fidelización \(Valoriza, Priority, Club Movistar…\)
 * **TV**. Televisión: planes de televisión, contenido destacado.
+* **Ofertas**. Promociones: Contenido promocional que pueda encajar y que es posible que incluso pueda convivir con otras categorías.
+* **Servicios**. Servicios: servicios de valor añadido \(nuevas funcionalidades\), apps, servicios de TEF. 
 
 Haz clic en **CREATE** para continuar. En función del tipo de módulo que has seleccionado configura los campos que correspondan.
 

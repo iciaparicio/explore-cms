@@ -2,7 +2,7 @@
 description: Las cards se crean siempre desde un módulo.
 ---
 
-# Crear una card
+# Crear card
 
 Las cards son el elemento mínimo de contenido de Explore. 
 
@@ -15,5 +15,5 @@ Ten en cuenta que:
 
 Para crear una card necesitas, previamente, crear un módulo: haz clic en el botón **CREATE MODULE**.
 
-Sigue los pasos de creación de un módulo de la sección Crear módulo
+Sigue los pasos de creación de un módulo de la sección [Crear un módulo](../modulo/crear-modulo/)
 
