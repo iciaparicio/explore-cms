@@ -79,12 +79,10 @@ De forma opcional puedes añadir enlaces que aparecerán en la parte inferior de
 
 Para hacerlo rellena, para cada enlace que quieras añadir \(hasta un máximo de 5 enlaces\), los siguientes campos:
 
-**Name**. Nombre del enlace \(ejemplo `Beneficios`\).
-
+**Name**. Nombre del enlace \(ejemplo `Beneficios`\).  
 🔅 Tiene una longitud máxima de **38 caracteres** y es **obligatorio**.
 
-**Action URL.** Enlace ****que se abre al hacer clic sobre el **Name**, es decir, sobre el nombre del enlace.
-
+**Action URL.** Enlace ****que se abre al hacer clic sobre el **Name**, es decir, sobre el nombre del enlace.  
 🔅 Es obligatorio y tiene que ser una URL válida \(ejemplo: [`https://www.google.com`](https://www.google.com)\)
 
 ![](../../.gitbook/assets/link_module_app.png)
