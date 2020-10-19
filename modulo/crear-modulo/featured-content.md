@@ -71,16 +71,6 @@ Ahora la sección **Module building** contiene la card que has seleccionado en e
 
 ![](../../.gitbook/assets/reuse_card_add.png)
 
-### Cambiar el orden de las _cards_
-
-Dentro del módulo puedes mover las cards para cambiar el orden en el que se muestran. 
-
-![](../../.gitbook/assets/drag-and-drop.png)
-
-Para mover una _card_ arrástrala a la posición en la que quieres que se muestre y suéltala.
-
-![](../../.gitbook/assets/drag-and-drop_demo.gif)
-
 ## Link
 
 De forma opcional puedes añadir enlaces que aparecerán en la parte inferior del módulo.
@@ -98,4 +88,14 @@ Para hacerlo rellena, para cada enlace que quieras añadir \(hasta un máximo de
 🔅 Es obligatorio y tiene que ser una URL válida \(ejemplo: [`https://www.google.com`](https://www.google.com)\)
 
 ![](../../.gitbook/assets/link_featured_content.png)
+
+### Cambiar el orden de las _cards_
+
+Dentro del módulo puedes mover las cards para cambiar el orden en el que se muestran. 
+
+![](../../.gitbook/assets/drag-and-drop.png)
+
+Para mover una _card_ arrástrala a la posición en la que quieres que se muestre y suéltala.
+
+![](../../.gitbook/assets/drag-and-drop_demo.gif)
 
