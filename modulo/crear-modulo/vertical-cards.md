@@ -19,16 +19,16 @@ Rellena los campos obligatorios y decide si necesitas rellenar alguno de los cam
 ![](../../.gitbook/assets/details_module-1-.png)
 
 **Module Type**. Indica de qué tipo es el módulo que estás configurando o editando.  
- ℹ Campo informativo, no editable.
+ℹ Campo informativo, no editable.
 
 **Name**. Nombre que identifica internamente al elemento. En la app no se muestra en ningún momento pero con ese nombre puedes identificar el módulo en la vista de listado de módulos.  
- 🔅No tiene una longitud máxima y es **obligatorio**.
+🔅No tiene una longitud máxima y es **obligatorio**.
 
 {% hint style="info" %}
 Este campo viene informado del paso anterior pero puedes modificarlo si lo consideras necesario.
 {% endhint %}
 
-**Layouts.** Campo informativo, no editable, que te indica en qué layouts está incluido el módulo que estás configurando o editando.   
+**Layouts.** Campo informativo, no editable, que te indica en qué layouts está incluido el módulo que estás configurando o editando.  
 ℹ Campo informativo, no editable.
 
 **For more information check the guidelines**. Consulta las guías de diseño relativas al módulo que estás creando o editando. Revísalas para asegurar que estás subiendo contenido de la mejor calidad posible.
@@ -57,7 +57,7 @@ Ten en cuenta que los siguientes pasos varían en función de la opción que hay
 
 #### Si has seleccionado la opción **New card**
 
-Crea una nueva card siguiendo los siguientes pasos 👇 
+Crea una nueva card siguiendo los siguientes pasos 👇
 
 {% page-ref page="../../card/crear-una-card.md" %}
 
@@ -79,7 +79,7 @@ Para hacerlo rellena, para cada enlace que quieras añadir \(hasta un máximo de
 
 🔅 Tiene una longitud máxima de **38 caracteres** y es **obligatorio**.
 
-**Action URL.** Enlace ****que se abre al hacer clic sobre el **Name**, es decir, sobre el nombre del enlace.
+**Action URL.** Enlace **\*\*que se abre al hacer clic sobre el** Name\*\*, es decir, sobre el nombre del enlace.
 
 🔅 Es obligatorio y tiene que ser una URL válida \(ejemplo: [`https://www.google.com`](https://www.google.com)\)
 
@@ -87,7 +87,7 @@ Para hacerlo rellena, para cada enlace que quieras añadir \(hasta un máximo de
 
 ### Cambiar el orden de las _cards_
 
-Dentro del módulo puedes mover las cards para cambiar el orden en el que se muestran. 
+Dentro del módulo puedes mover las cards para cambiar el orden en el que se muestran.
 
 ![](../../.gitbook/assets/drag-and-drop.png)
 
