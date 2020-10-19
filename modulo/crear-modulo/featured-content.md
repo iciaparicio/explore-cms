@@ -16,7 +16,7 @@ Rellena los campos obligatorios y decide si necesitas rellenar alguno de los cam
 
 ## Details
 
-![](../../.gitbook/assets/details_module.png)
+![](../../.gitbook/assets/details_module-1-.png)
 
 **Module Type**. Indica de qué tipo es el módulo que estás configurando o editando.  
  ℹ Campo informativo, no editable.
@@ -28,7 +28,7 @@ Rellena los campos obligatorios y decide si necesitas rellenar alguno de los cam
 Este campo viene informado del paso anterior pero puedes modificarlo si lo consideras necesario.
 {% endhint %}
 
-**Layouts.** Campo informativo, no editable, que te indica en qué layouts está incluido el módulo que estás configurando o editando.  
+**Layouts.** Campo informativo, no editable, que te indica en qué layouts está incluido el módulo que estás configurando o editando.   
 ℹ Campo informativo, no editable.
 
 **For more information check the guidelines**. Consulta las guías de diseño relativas al módulo que estás creando o editando. Revísalas para asegurar que estás subiendo contenido de la mejor calidad posible.
@@ -45,6 +45,33 @@ Dentro de un layout, es obligatorio que un módulo de tipo _Featured Content_ es
 {% endhint %}
 
 ### Cards
+
+Desde esta sección puedes crear una card nueva o puedes usar una card que ya esté creada previamente. En ambos casos haz clic en **+ ADD CARD**.
+
+![](../../.gitbook/assets/type_of_card.png)
+
+En la pantalla **Type of card** selecciona una de las opciones:
+
+* **New card**. Selecciona esta opción para crear una nueva card. 
+* **Reuse card**. Selecciona una card de las existentes en el desplegable.  Para agilizar tu selección, usa el buscador. Las cards mostradas se van filtrando en función de lo que escribas en el buscador.
+
+Haz clic en **NEXT** para continuar.
+
+Ten en cuenta que los siguientes pasos varían en función de la opción que hayas seleccionado en la ventana Type of card:
+
+#### Si has seleccionado la opción **New card**
+
+Crea una nueva card siguiendo los siguientes pasos 👇 
+
+{% page-ref page="../../card/crear-una-card.md" %}
+
+#### Si has seleccionado la opción Reuse card
+
+Ahora la sección **Module building** contiene la card que has seleccionado en el desplegable **Reuse Card** del paso anterior.
+
+![](../../.gitbook/assets/reuse_card_add.png)
+
+
 
 Las _cards_ son las secciones que componen el módulo.Para cada módulo de tipo _Featured Content_ configura un mínimo de 2 _cards_ y un máximo de 6.
 
