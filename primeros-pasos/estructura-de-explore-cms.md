@@ -10,7 +10,7 @@ description: >-
 
 Las **cards** son las unidades mínimas de contenido y necesitan estar dentro de un módulo para que las pueda ver el usuario.
 
-Configura cada card dentro de un módulo y asóciala a los módulos que necesites.
+Configura cada card dentro de un módulo y reutiliza las que tienes disponibles en los módulos que necesites.
 
 ## Módulo
 

@@ -2,7 +2,7 @@
 description: Conoce al detalle cómo editar layouts para los usuarios.
 ---
 
-# Editar layout
+# Editar un layout
 
 Recuerda que un layout es una unidad de contenido formada por varios módulos. La composición completa de módulos es lo que el usuario ve en la aplicación. Este layout está basado en los segmentos o combinación de segmentos de usuarios a los que va dirigido el contenido \(prepago, contrato, sistema operativo\).
 

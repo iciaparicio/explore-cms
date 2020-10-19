@@ -2,7 +2,7 @@
 description: Todos los pasos detallados de cómo crear un módulo en Explore CMS.
 ---
 
-# Crear módulo
+# Crear un módulo
 
 Haz clic en el botón **CREATE MODULE**.
 

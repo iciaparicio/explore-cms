@@ -4,7 +4,7 @@ description: >-
   caducidad, actualiza una imagen, adapta un texto...
 ---
 
-# Editar módulo
+# Editar un módulo
 
 Para editar un módulo ya existente en Explore CMS y guardar una versión actualizada del módulo, accede al repositorio de módulos y haz clic en ![](../.gitbook/assets/icono_editar.png) en la fila del módulo correspondiente.
 
