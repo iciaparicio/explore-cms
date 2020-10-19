@@ -35,12 +35,8 @@ Este campo viene informado del paso anterior pero puedes modificarlo si lo consi
 
 ![](../../.gitbook/assets/module_building.png)
 
-**Section Title**. Título que se muestra encima del módulo siempre que no esté posicionado en primer lugar. Cuando va en la primera posición, no hay título de sección \(en ese caso el título de sección es siempre _Explore_\). Además, este título sirve para identificar internamente el módulo que estás creando. Con ese título puedes identificar el módulo en la vista de listado de módulos.  
+**Section Title**. Título que se muestra encima del módulo. Además, este título sirve para identificar internamente el módulo que estás creando. Con ese título puedes identificar el módulo en la vista de listado de módulos.  
 🔅Tiene una longitud máxima de **25 caracteres** y es **obligatorio**.
-
-{% hint style="warning" %}
-Dentro de un layout, es obligatorio que un módulo de tipo _Featured Content_ esté en primera posición.
-{% endhint %}
 
 ### Cards
 
