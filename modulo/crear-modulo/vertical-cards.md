@@ -59,7 +59,7 @@ Ten en cuenta que los siguientes pasos varían en función de la opción que hay
 
 Crea una nueva card siguiendo los siguientes pasos 👇
 
-{% page-ref page="../../card/crear-una-card.md" %}
+{% page-ref page="../../card/crear-una-card/" %}
 
 #### Si has seleccionado la opción Reuse card
 

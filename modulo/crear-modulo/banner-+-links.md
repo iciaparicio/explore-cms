@@ -5,13 +5,13 @@ description: >-
   ofrecerles.
 ---
 
-# Banner + links
+# Banner + Links
 
 Los módulos de tipo _Banner_ contienen simplemente una imagen o un _bumper_ con uno o más enlaces \(o _links_\).
 
 ![](../../.gitbook/assets/banner_links_module.png)
 
-Cuando creas un módulo de tipo **Banner + Link** no tienes la opción de crear cards. Desde la pantalla de selección de tipo de módulo indicas ya los datos necesarios para crear el módulo con el banner y un enlace. 
+Cuando creas un módulo de tipo **Banner + Links** no tienes la opción de crear cards. Desde la pantalla de selección de tipo de módulo indicas ya los datos necesarios para crear el módulo con el banner y un enlace. 
 
 ![Datos necesarios para crear un modulo de tipo Banner + Links](../../.gitbook/assets/banner_type.png)
 

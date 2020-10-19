@@ -1,31 +1,8 @@
----
-description: Las cards se crean siempre desde un módulo.
----
-
-# Crear card
-
-Las cards son el elemento mínimo de contenido de Explore. 
-
-{% hint style="warning" %}
-Ten en cuenta que:
-
-* Las cards se crean dentro de un módulo y por tanto necesitas conocer cómo se [crea un módulo](../modulo/crear-modulo/) antes de crear una card.
-* Pese a ser el elemento mínimo de contenido, las cards necesitan estar siempre en un módulo \(o en varios\) para que el usuario pueda verlas. 
-{% endhint %}
-
-Para crear una card necesitas, previamente, crear un módulo: haz clic en el botón **CREATE MODULE**.
-
-Indica el tipo de módulo y rellena los campos necesarios en función del tipo de módulo que selecciones. 
-
-Tienes todos los campos descritos en la sección de crear un módulo 👇 
-
-{% page-ref page="../modulo/crear-modulo/" %}
-
-
+# En un módulo Featured Content
 
 Las _cards_ son las secciones que componen el módulo.Para cada módulo de tipo _Featured Content_ configura un mínimo de 2 _cards_ y un máximo de 6.
 
-![](../.gitbook/assets/featured_content_cms.png)
+![](../../.gitbook/assets/featured_content_cms.png)
 
 Para cada _card_ los campos disponibles varían en función de que selecciones una imagen o un _bumper_:
 
@@ -38,7 +15,7 @@ Un _bumper_ es un vídeo corto o animación. Es un formato por lo general están
 
 {% tabs %}
 {% tab title="Image" %}
-![](../.gitbook/assets/image%20%2812%29.png)
+![](../../.gitbook/assets/image%20%2812%29.png)
 
 **Image Upload an image** 📤. URL de la imagen de la _card_. Tiene que tener el formato de URL propio del CMS.
 
@@ -56,7 +33,7 @@ Cuando la imagen se haya subido se previsualiza justo debajo.
 {% endtab %}
 
 {% tab title="Bumper" %}
-![](../.gitbook/assets/image%20%2823%29.png)
+![](../../.gitbook/assets/image%20%2823%29.png)
 
 **Bumper Upload a bumper** 📤. Se autorrellena con el nombre del _bumper_.
 
@@ -67,7 +44,7 @@ Para subir un bumper tienes dos opciones:
 
 Activa la opción **Play in loop** para que el _bumper_ se reproduzca en bucle en Explore. Con la opción desactivada se reproduce cada vez que el _bumper_ entre en pantalla pero se para cuando termina la reproducción.
 
-![Activa o desactiva la opci&#xF3;n para reproducir en bucle](../.gitbook/assets/image%20%2829%29.png)
+![Activa o desactiva la opci&#xF3;n para reproducir en bucle](../../.gitbook/assets/image%20%2829%29.png)
 
 Cuando el _bump_e_r_ se haya subido se previsualiza justo debajo:
 
@@ -113,7 +90,7 @@ Cuando el _bump_e_r_ se haya subido se previsualiza justo debajo:
 
 **Display the ending date on the card**. Activa esta opción para informar al usuario que el contenido va a caducar. 
 
-![](../.gitbook/assets/image%20%2827%29.png)
+![](../../.gitbook/assets/image%20%2827%29.png)
 
 **¿Cómo se visualiza la fecha de caducidad?**
 
@@ -121,15 +98,15 @@ Si has habilitado la opción de mostrar la fecha de caducidad, cómo se muestre 
 
 `TERMINA HOY hh:mm AM` o `TERMINA HOY hh:mm PM` o `TERMINA HOY hh:mm` \(el formato varía en función del país\) para indicar que la _card_ caduca en el mismo día a la hora indicada, por la mañana o por la tarde, respectivamente. Por ejemplo `TERMINA HOY 9:00AM`.
 
-![](../.gitbook/assets/image%20%2865%29.png)
+![](../../.gitbook/assets/image%20%2865%29.png)
 
 `TERMINA MAÑANA` para indicar que la fecha de caducidad es al día siguiente. 
 
-![](../.gitbook/assets/image%20%286%29.png)
+![](../../.gitbook/assets/image%20%286%29.png)
 
 `TERMINA dd mm` para indicar que la diferencia es de más de dos días. Por ejemplo `TERMINA 30 JUN`.
 
-![](../.gitbook/assets/image%20%2824%29.png)
+![](../../.gitbook/assets/image%20%2824%29.png)
 
 🎯 La fecha de comienzo y fin son una manera de programar algunas campañas, especialmente aquellas de carácter estacional.
 
@@ -149,11 +126,11 @@ Las categorías te permiten filtrar el contendido en Explore. Las categorías se
 
 Cuando el usuario selecciona una categoría el contenido se muestra ordenado en formato vertical \(en lugar de scroll horizontal\), para que el usuario no se pierda ningún contenido.
 
-![](../.gitbook/assets/categories_devices-1-.png)
+![](../../.gitbook/assets/categories_devices-1-.png)
 
 En Explore CMS selecciona la categoría o las categorías que aplican a la card que estás configurando:
 
-![](../.gitbook/assets/categories.png)
+![](../../.gitbook/assets/categories.png)
 
 * **Accessories**. Accesorios: auriculares, fundas, relojes.
 * **Bundles**. Paquetes: packs, planes, paquetes de productos.
@@ -174,5 +151,5 @@ Por defecto, cuando un usuario abre Explore, ve todo el contenido, todas las car
 
 #### ¿Qué debo tener en cuenta cuando uso las categorías?
 
-¡Consulta la sección [**Categorías**](https://app.gitbook.com/@tef-novum/s/explore-cms/~/drafts/-LyYX2WN5Qc794RVRWmG/faq#categorias) ****del [FAQ](../faq.md) para resolver todas tus dudas!
+¡Consulta la sección [**Categorías**](https://app.gitbook.com/@tef-novum/s/explore-cms/~/drafts/-LyYX2WN5Qc794RVRWmG/faq#categorias) ****del [FAQ](../../faq.md) para resolver todas tus dudas!
 

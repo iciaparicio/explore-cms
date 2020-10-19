@@ -14,7 +14,7 @@
     * [Featured Content](modulo/crear-modulo/featured-content.md)
     * [Vertical Cards](modulo/crear-modulo/vertical-cards.md)
     * [Rows](modulo/crear-modulo/rows.md)
-    * [Banner + links](modulo/crear-modulo/banner-+-links.md)
+    * [Banner + Links](modulo/crear-modulo/banner-+-links.md)
   * [Editar módulo](modulo/editar-modulo.md)
   * [Repositorio de módulos](modulo/repositorio-de-modulos.md)
 * [Layout](layout/README.md)
@@ -25,5 +25,8 @@
 * [Deep links por categorías](deeplinks-en-explore.md)
 * [FAQ](faq.md)
 * [Card](card/README.md)
-  * [Crear card](card/crear-una-card.md)
+  * [Crear card](card/crear-una-card/README.md)
+    * [En un módulo Featured Content](card/crear-una-card/en-un-modulo-featured-content.md)
+    * [En un módulo Vertical Cards](card/crear-una-card/en-un-modulo-vertical-cards.md)
+    * [En un módulo Rows](card/crear-una-card/en-un-modulo-rows.md)
 
