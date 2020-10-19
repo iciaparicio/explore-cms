@@ -15,11 +15,11 @@ Ten en cuenta que:
 
 Para crear una card necesitas, previamente, crear un módulo: haz clic en el botón **CREATE MODULE**.
 
-Sigue los pasos de creación de un módulo de la sección [Crear un módulo](../modulo/crear-modulo/)
+Indica el tipo de módulo y rellena los campos necesarios en función del tipo de módulo que selecciones. 
 
+Tienes todos los campos descritos en la sección de crear un módulo 👇 
 
-
-
+{% page-ref page="../modulo/crear-modulo/" %}
 
 
 
