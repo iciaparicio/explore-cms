@@ -87,7 +87,7 @@ Para hacerlo rellena, para cada enlace que quieras añadir \(hasta un máximo de
 
 🔅 Es obligatorio y tiene que ser una URL válida \(ejemplo: [`https://www.google.com`](https://www.google.com)\)
 
-![](../../.gitbook/assets/link_featured_content.png)
+![](../../.gitbook/assets/link_module_app.png)
 
 ### Cambiar el orden de las _cards_
 
