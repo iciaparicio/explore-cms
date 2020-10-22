@@ -1,6 +1,6 @@
 # En un módulo Featured Content
 
-Para cada módulo de tipo _Featured Content_ configura un mínimo de 2 _cards_ y un máximo de 6.
+Para que un módulo de tipo _Featured Content_ se visualice en la app tiene que tener un mínimo de de 2 _cards_ y un máximo de 6.
 
 ### Details
 
