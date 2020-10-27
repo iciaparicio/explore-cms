@@ -145,7 +145,7 @@ Las categorías disponibles y los nombres de las categorías varían en función
 * **Servicios**. Servicios: servicios de valor añadido \(nuevas funcionalidades\), apps, servicios de TEF. 
 
 {% hint style="info" %}
-\*\*\*\*🙋 **Ten en cuenta que..**.
+🙋 **Ten en cuenta que...**
 
 Por defecto, cuando un usuario abre Explore, ve todo el contenido, todas las cards configuradas, y por tanto la categoría seleccionada es siempre **All**.
 
@@ -154,9 +154,6 @@ La categoría **All**, que es la primera que se visualiza, no es una categoría 
 
 🎯 **Buenas prácticas**: No es recomendable que un contenido tenga asignada más de una categoría, aunque Explore CMS no limite este comportamiento. A nivel de medición de datos es más sencillo imputar acciones cuando una card está asociada a una única categoría. 
 
-\*\*\*\*🤔 **¿Qué debo tener en cuenta cuando uso las categorías?**
+🤔 **¿Qué debo tener en cuenta cuando uso las categorías?**
 
 ¡Consulta la sección [**Categorías**](https://app.gitbook.com/@tef-novum/s/explore-cms/~/drafts/-LyYX2WN5Qc794RVRWmG/faq#categorias) del [FAQ](../../faq.md) para resolver todas tus dudas!
-
-#### 
-
