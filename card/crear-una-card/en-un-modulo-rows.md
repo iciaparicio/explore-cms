@@ -13,7 +13,7 @@ Configura un mínimo de 2 filas y un máximo de 3. Para cada fila los campos dis
 🔅Tiene una longitud máxima de **25 caracteres** \(recomendado menos de 23\) y es **obligatorio**.
 
 **Segments**. Segmento o segmentos en los que está incluida la card.  
-ℹ Campo informativo, no editable.
+ ℹ Campo informativo, no editable.
 
 ### Card building
 

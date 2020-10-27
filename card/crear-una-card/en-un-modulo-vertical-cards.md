@@ -10,7 +10,7 @@ Para cada _card_ los campos disponibles son:
 🔅Tiene una longitud máxima de **15 caracteres** y es **obligatorio**.
 
 **Segments**. Segmento o segmentos en los que está incluida la card.  
-ℹ Campo informativo, no editable.
+ ℹ Campo informativo, no editable.
 
 ### Card building
 
