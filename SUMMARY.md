@@ -14,6 +14,7 @@
     * [En un módulo Featured Content](card/crear-una-card/en-un-modulo-featured-content.md)
     * [En un módulo Vertical Cards](card/crear-una-card/en-un-modulo-vertical-cards.md)
     * [En un módulo Rows](card/crear-una-card/en-un-modulo-rows.md)
+  * [Editar card](card/editar-card.md)
 * [Módulo](modulo/README.md)
   * [Crear módulo](modulo/crear-modulo/README.md)
     * [Featured Content](modulo/crear-modulo/featured-content.md)
