@@ -6,7 +6,7 @@ Para cada _card_ los campos disponibles son:
 
 ![](../../.gitbook/assets/vertical_cards_card_details.png)
 
-**Card 1 Title**. Título de la card que aparece bajo la imagen. Además, identifica internamente a la card \(ejemplo: `iPhone X`\).  
+**Card Title**. Título de la card que aparece bajo la imagen. Además, identifica internamente a la card \(ejemplo: `iPhone X`\).  
 🔅Tiene una longitud máxima de **15 caracteres** y es **obligatorio**.
 
 **Segments**. Segmento o segmentos en los que está incluida la card.  
@@ -69,10 +69,10 @@ Aquí tienes un conjunto de ejemplos de combinaciones de campos de **Offers Row*
 🔅Es **obligatoria** y tiene que ser una URL válida \(ejemplo: [`https://www.google.com`](https://www.google.com)\)
 
 **Card start time**. Fecha y hora en la que quieres que la _card_ empiece a mostrarse a los usuarios.  
-🔅Es opcional.
+🔅Es **opcional**.
 
 **Card end time**. Fecha y hora en la que quieres que la _card_ termine de mostrarse a los usuarios.  
-🔅Es opcional.
+🔅Es **opcional**.
 
 **Display the ending date on the card**. Activa esta opción para informar al usuario que el contenido va a caducar.
 
@@ -96,8 +96,7 @@ Si has habilitado la opción de mostrar la fecha de caducidad, cómo se muestre 
 
 🎯 La fecha de comienzo y fin son una manera de programar algunas campañas, especialmente aquellas de carácter estacional.
 
-**Card Micro-segments**. Etiquetas que puedes añadir, siempre separadas por comas, para hacer una segmentación de los usuarios que van a ver el contenido que estás creando.
-
+**Card Micro-segments**. Etiquetas que puedes añadir, siempre separadas por comas, para hacer una segmentación de los usuarios que van a ver el contenido que estás creando.  
 🔅Es **opcional**.
 
 {% hint style="warning" %}
@@ -106,7 +105,7 @@ Recuerda que tienes que configurar un mínimo de 2 _cards_ y un máximo de 6.
 Los campos para todas las cards son los mismos.
 {% endhint %}
 
-**Card categories \(mandatory\)**
+**Card categories**
 
 Las categorías te permiten filtrar el contendido en Explore. Las categorías se muestran en la parte superior, a modo de carrusel horizontal, de modo que el usuario puede navegar por las categorías y seleccionar la que quiera ver.
 
@@ -117,6 +116,8 @@ Cuando el usuario selecciona una categoría el contenido se muestra ordenado en 
 En Explore CMS selecciona la categoría o las categorías que aplican a la card que estás configurando:
 
 ![](../../.gitbook/assets/categories_banner-1-.png)
+
+🔅Es **obligatorio** indicar al menos una categoría.
 
 {% hint style="warning" %}
 Las categorías disponibles y los nombres de las categorías varían en función de la OB.

@@ -122,8 +122,7 @@ Los campos para todas las cards son los mismos.
 
 **Card categories**
 
-Las categorías te permiten filtrar el contendido en Explore. Las categorías se muestran en la parte superior, a modo de carrusel horizontal, de modo que el usuario puede navegar por las categorías y seleccionar la que quiera ver.  
-🔅Es **obligatorio**.
+Las categorías te permiten filtrar el contendido en Explore. Las categorías se muestran en la parte superior, a modo de carrusel horizontal, de modo que el usuario puede navegar por las categorías y seleccionar la que quiera ver.
 
 Cuando el usuario selecciona una categoría el contenido se muestra ordenado en formato vertical \(en lugar de scroll horizontal\), para que el usuario no se pierda ningún contenido.
 
@@ -132,6 +131,8 @@ Cuando el usuario selecciona una categoría el contenido se muestra ordenado en 
 En Explore CMS selecciona la categoría o las categorías que aplican a la card que estás configurando:
 
 ![](../../.gitbook/assets/categories_banner-1-.png)
+
+🔅Es **obligatorio** indicar al menos una categoría.
 
 {% hint style="warning" %}
 Las categorías disponibles y los nombres de las categorías varían en función de la OB.

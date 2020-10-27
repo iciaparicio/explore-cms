@@ -2,9 +2,24 @@
 
 Configura un mínimo de 2 filas y un máximo de 3. Para cada fila los campos disponibles son:
 
-![](../../.gitbook/assets/image%20%2844%29.png)
+### Details
 
-**Row 1 Image URL - Upload an image** 📤 . URL de la imagen de la fila. Tiene que tener el formato de URL propio del CMS.
+![](../../.gitbook/assets/row_cards_details.png)
+
+**Card Pre-tiltle**. Pequeño texto destacado previo al título \(ejemplo `30 DÍAS GRATIS`\).  
+🔅 Tiene una longitud máxima de **27 caracteres** \(recomendado menos de 24\) y es **opcional**.
+
+**Card Title**. Título de la oferta/plan que aparece al lado de la imagen \(ejemplo: `Plan BIG 20 Gigas`\).  
+🔅Tiene una longitud máxima de **25 caracteres** \(recomendado menos de 23\) y es **obligatorio**.
+
+**Segments**. Segmento o segmentos en los que está incluida la card.  
+ℹ Campo informativo, no editable.
+
+### Card building
+
+![](../../.gitbook/assets/row_cards.png)
+
+**Image URL - Upload an image** 📤 . URL de la imagen de la fila. Tiene que tener el formato de URL propio del CMS.
 
 Haz clic en el enlace **Upload an image** 📤 y selecciona la imagen directamente desde de tu ordenador. Una vez procesada la subida de la imagen, la URL se autocompleta en el campo de texto.
 
@@ -14,44 +29,28 @@ Cuando la imagen se haya subido se previsualiza justo debajo.
 
 🔅 No tiene una longitud máxima y es **obligatorio**.
 
-**Row 1 Image Accesibility Text**. Descripción de la imagen que se usa para la accesibilidad como alternativa si la imagen no se puede mostrar \(por ejemplo, para personas con problemas de visión\).
-
+**Image Accessibility Text**. Descripción de la imagen que se usa para la accesibilidad como alternativa si la imagen no se puede mostrar \(por ejemplo, para personas con problemas de visión\).  
 🔅 No tiene una longitud máxima y es **opcional**.
 
-**Row 1 Pre-title**. Pequeño texto destacado previo al título \(ejemplo `30 DÍAS GRATIS`\).
-
-🔅 Tiene una longitud máxima de **27 caracteres** \(recomendado menos de 24\) y es **opcional**.
-
-**Row 1 Title**. Título de la oferta/plan que aparece al lado de la imagen \(ejemplo: `Plan BIG 20 Gigas`\).
-
-🔅Tiene una longitud máxima de **25 caracteres** \(recomendado menos de 23\) y es **obligatorio**.
-
-**Card 1 Tracking Name**. Nombre que no ven los usuarios pero sí se ve en Google Analytics. Sirve para identificar el producto internamente de manera más fácil.
-
+**Card Tracking Name**. Nombre que no ven los usuarios pero sí se ve en Google Analytics. Sirve para identificar el producto internamente de manera más fácil.  
 🔅Es **opcional**.
 
-**Row 1 Description**. Breve descripción del producto presentado. La descripción se muestra debajo del título.
-
+**Card Description**. Breve descripción del producto presentado. La descripción se muestra debajo del título.  
 🔅Tiene una longitud máxima de **34 caracteres** \(recomendado menos de 32\) y es **obligatorio**.
 
-**Row 1 Price**. Precio que se muestra debajo de la descripción, junto a la imagen. No olvides indicar siempre un precio válido \(ejemplo `$123`\)
+**Card Price**. Precio que se muestra debajo de la descripción, junto a la imagen. No olvides indicar siempre un precio válido \(ejemplo `$123`\)  
+🔅No tiene una longitud máxima y es **obligatorio**.
 
-No tiene una longitud máxima y es **obligatorio**.
+**Price Information**. Texto para aportar información adicional acerca del precio. Se muestra junto al precio, con un estilo más discreto y precedido de `/` \(ejemplo `al mes`\).  
+🔅Tiene una longitud máxima de **12 caracteres** \(estos caracteres incluyen también el **Card Price**\) y es **opcional**.
 
-**Row 1 Price Information**. Texto para aportar información adicional acerca del precio. Se muestra junto al precio, con un estilo más discreto y precedido de `/` \(ejemplo `al mes`\).
-
-🔅Tiene una longitud máxima de **12 caracteres** \(estos caracteres incluyen también el **Row 1 Price**\) y es **opcional**.
-
-**Row 1 Action URL**. URL de la fila, es decir, URL a la que se accede al hacer clic sobre la fila.
-
+**Card Action URL**. URL de la fila, es decir, URL a la que se accede al hacer clic sobre la fila.  
 🔅Es **obligatoria** y tiene que ser una URL válida \(ejemplo: [`https://www.google.com`](https://www.google.com)\)
 
-**Card 1 Starting date and time**. Fecha y hora en la que quieres que la fila empiece a mostrarse a los usuarios.
-
+**Card start time**. Fecha y hora en la que quieres que el contenido empiece a mostrarse a los usuarios.  
 🔅Es opcional.
 
-**Card 1 Ending date and time**. Fecha y hora en la que quieres que la fila \_\_termine de mostrarse a los usuarios.
-
+**Card end time**. Fecha y hora en la que quieres que el contenido termine de mostrarse a los usuarios.  
 🔅Es opcional.
 
 **Display the ending date on the card**. Activa esta opción para informar al usuario que el contenido va a caducar.
@@ -76,15 +75,10 @@ Si has habilitado la opción de mostrar la fecha de caducidad, cómo se muestre 
 
 🎯 La fecha de comienzo y fin son una manera de programar algunas campañas, especialmente aquellas de carácter estacional.
 
-**Card 1 Micro-segments**. Etiquetas que puedes añadir, siempre separadas por comas, para hacer una segmentación de los usuarios que van a ver el contenido que estás creando.
-
+**Card Micro-segments**. Etiquetas que puedes añadir, siempre separadas por comas, para hacer una segmentación de los usuarios que van a ver el contenido que estás creando.  
 🔅Es **opcional**.
 
-**Card 1 categories \(mandatory\)**
-
-Las categorías te permiten filtrar el contendido en Explore. Las categorías se muestran en la parte superior, a modo de carrusel horizontal, de modo que el usuario puede navegar por las categorías y seleccionar la que quiera ver.
-
-**Card 1 categories \(mandatory\)**
+**Card 1 categories**
 
 Las categorías te permiten filtrar el contendido en Explore. Las categorías se muestran en la parte superior, a modo de carrusel horizontal, de modo que el usuario puede navegar por las categorías y seleccionar la que quiera ver.
 
@@ -95,6 +89,8 @@ Cuando el usuario selecciona una categoría el contenido se muestra ordenado en 
 En Explore CMS selecciona la categoría o las categorías que aplican a la card que estás configurando:
 
 ![](../../.gitbook/assets/categories_banner-1-.png)
+
+🔅Es **obligatorio** indicar al menos una categoría.
 
 {% hint style="warning" %}
 Las categorías disponibles y los nombres de las categorías varían en función de la OB.
