@@ -6,14 +6,14 @@ Para que un módulo de tipo _Featured Content_ se visualice en la app tiene que 
 
 ![](../../.gitbook/assets/details_featured_content.png)
 
-**Card 1 Pre-title**. Título que aparece inmediatamente debajo de la imagen del carrusel.  
+**Card Pre-title**. Título que aparece inmediatamente debajo de la imagen del carrusel.  
 🔅Tiene una longitud máxima de **44 caracteres** \(recomendado menos de 24\) y es **obligatorio**.
 
-**Card 1 Title**. Título que aparece debajo del **Pre-title** y que identifica a la _card_ internamente.  
+**Card Title**. Título que aparece debajo del **Pre-title** y que identifica a la _card_ internamente.  
 🔅Tiene una longitud máxima de **70 caracteres** \(recomendado menos de 35 para no ocupar más de una línea\) y es **obligatorio**.
 
 **Segments**. Segmento o segmentos en los que está incluida la card.  
-ℹ Campo informativo, no editable.
+ ℹ Campo informativo, no editable.
 
 ### Card building
 
