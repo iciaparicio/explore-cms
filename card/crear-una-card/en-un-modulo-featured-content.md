@@ -2,7 +2,7 @@
 
 Para que un módulo de tipo _Featured Content_ se visualice en la app tiene que tener un mínimo de de 2 _cards_ y un máximo de 6.
 
-## Details
+### Details
 
 ![](../../.gitbook/assets/details_featured_content.png)
 
@@ -15,7 +15,7 @@ Para que un módulo de tipo _Featured Content_ se visualice en la app tiene que 
 **Segments**. Segmento o segmentos en los que está incluida la card.  
 ℹ Campo informativo, no editable.
 
-## Card building
+### Card building
 
 ![](../../.gitbook/assets/card_building_featured_content.png)
 

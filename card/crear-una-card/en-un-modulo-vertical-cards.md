@@ -4,6 +4,8 @@ Para cada _card_ los campos disponibles son:
 
 ### Details
 
+![](../../.gitbook/assets/vertical_cards_card_details.png)
+
 **Card 1 Title**. Título de la card que aparece bajo la imagen. Además, identifica internamente a la card \(ejemplo: `iPhone X`\).  
 🔅Tiene una longitud máxima de **15 caracteres** y es **obligatorio**.
 
@@ -11,6 +13,8 @@ Para cada _card_ los campos disponibles son:
 ℹ Campo informativo, no editable.
 
 ### Card building
+
+![](../../.gitbook/assets/vertical_cards_card.png)
 
 **Image - Upload an image** 📤 . URL de la imagen de la _card_. Tiene que tener el formato de URL propio del CMS.
 
