@@ -2,13 +2,13 @@
 
 Para cada _card_ los campos disponibles son:
 
-**Card 1Image - Upload an image** 📤 . URL de la imagen de la _card_. Tiene que tener el formato de URL propio del CMS.
+**Card 1 Image - Upload an image** 📤 . URL de la imagen de la _card_. Tiene que tener el formato de URL propio del CMS.
 
 Haz clic en el enlace **Upload an image** 📤 y selecciona la imagen directamente desde de tu ordenador. Una vez procesada la subida de la imagen, la URL se autocompleta en el campo de texto.
 
 Cuando la imagen se haya subido se previsualiza justo debajo.
 
-![](../../.gitbook/assets/image%20%2837%28.png)
+![](../../.gitbook/assets/image%20%2837%29.png)
 
 🔅No tiene una longitud máxima y es **opcional**.
 
