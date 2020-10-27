@@ -2,20 +2,20 @@
 
 Para que un módulo de tipo _Featured Content_ se visualice en la app tiene que tener un mínimo de de 2 _cards_ y un máximo de 6.
 
-### Details
+## Details
 
 ![](../../.gitbook/assets/details_featured_content.png)
 
-**Card 1 Pre-title**. Título que aparece inmediatamente debajo de la imagen del carrusel.   
+**Card 1 Pre-title**. Título que aparece inmediatamente debajo de la imagen del carrusel.  
 🔅Tiene una longitud máxima de **44 caracteres** \(recomendado menos de 24\) y es **obligatorio**.
 
 **Card 1 Title**. Título que aparece debajo del **Pre-title** y que identifica a la _card_ internamente.  
 🔅Tiene una longitud máxima de **70 caracteres** \(recomendado menos de 35 para no ocupar más de una línea\) y es **obligatorio**.
 
-**Segments**. Segmento o segmentos en los que está incluida la card.   
+**Segments**. Segmento o segmentos en los que está incluida la card.  
 ℹ Campo informativo, no editable.
 
-### Card building
+## Card building
 
 ![](../../.gitbook/assets/card_building_featured_content.png)
 
@@ -24,9 +24,9 @@ Para cada _card_ los campos disponibles varían en función de que selecciones u
 * **Image**. Muestra una imagen estática.
 * **Bumper**. Muestra un vídeo corto o animación.
 
-\*\*\*\*💡 __**¿Sabías que?**
+\*\*\*\*💡 \_\_**¿Sabías que?**
 
-Un _bumper_ es un vídeo corto o animación. Es un formato por lo general estándar con una duración media de 6 segundos aproximadamente y suele usarse con fines comerciales. 
+Un _bumper_ es un vídeo corto o animación. Es un formato por lo general estándar con una duración media de 6 segundos aproximadamente y suele usarse con fines comerciales.
 
 {% tabs %}
 {% tab title="Image" %}
@@ -34,7 +34,7 @@ Un _bumper_ es un vídeo corto o animación. Es un formato por lo general están
 
 **Image Upload an image** 📤. URL de la imagen de la _card_. Tiene que tener el formato de URL propio del CMS.
 
-Haz clic en el enlace **Upload an image** 📤 ****y selecciona la imagen directamente desde de tu ordenador. Una vez procesada la subida de la imagen, la URL se autocompleta en el campo de texto.
+Haz clic en el enlace **Upload an image** 📤 _\*\*_y selecciona la imagen directamente desde de tu ordenador. Una vez procesada la subida de la imagen, la URL se autocompleta en el campo de texto.
 
 Cuando la imagen se haya subido se previsualiza justo debajo.
 
@@ -52,7 +52,7 @@ Cuando la imagen se haya subido se previsualiza justo debajo.
 
 **Bumper Upload a bumper** 📤. Se autorrellena con el nombre del _bumper_.
 
-Para subir un bumper tienes dos opciones: 
+Para subir un bumper tienes dos opciones:
 
 1. Haz clic en el enlace **Upload a bumper** 📤 y sube un _bumper_ desde tu ordenador.
 2. Despliega la lista de los _bumpers_ y selecciona uno de los que ya haya subidos.
@@ -61,7 +61,7 @@ Activa la opción **Play in loop** para que el _bumper_ se reproduzca en bucle e
 
 ![Activa o desactiva la opci&#xF3;n para reproducir en bucle](../../.gitbook/assets/image%20%2829%29.png)
 
-Cuando el _bump_e_r_ se haya subido se previsualiza justo debajo:
+Cuando el _bump\_e\_r_ se haya subido se previsualiza justo debajo:
 
 ![](https://lh3.googleusercontent.com/3IXi0mLJsZm9bEzL8Tv-0-lZoNL-TfIve9tuIW_3fQCsNTzYPF7HhKdPi_Vl5RV-TiRr7AF3LgeRpOP-IYXqNsxsMQqz2eZ-_T-zseUG3oWU7N7coCU5szug3M2kTo65W4LYDuT_)
 
@@ -71,25 +71,25 @@ Cuando el _bump_e_r_ se haya subido se previsualiza justo debajo:
 {% endtab %}
 {% endtabs %}
 
-**Card 1 Tracking Name**. Nombre que no ven los usuarios pero sí se ve en Google Analytics. Sirve para identificar el producto internamente de manera más fácil.   
+**Card 1 Tracking Name**. Nombre que no ven los usuarios pero sí se ve en Google Analytics. Sirve para identificar el producto internamente de manera más fácil.  
 🔅Es **opcional**.
 
-**Card 1 Description**. Pequeña descripción de la _card_.   
+**Card 1 Description**. Pequeña descripción de la _card_.  
 🔅Tiene una longitud máxima de **132 caracteres** \(recomendado menos de 125\) y es **obligatorio**.
 
 **Card 1 Tag**. Texto corto que se sitúa por encima de la imagen de la _card_.  
 🔅Tiene una longitud máxima de **18 caracteres** \(recomendado menos de 10\) y es **opcional**.
 
-**Card 1 Action Url**. URL de la _card_, es decir, URL a la que se accede al hacer clic sobre la _card_.   
+**Card 1 Action Url**. URL de la _card_, es decir, URL a la que se accede al hacer clic sobre la _card_.  
 🔅Es **obligatoria** y tiene que ser una URL válida \(ejemplo: [https://www.google.com](https://www.google.com)\)
 
-**Card 1 Starting date and time**. Fecha y hora en la que quieres que la _card_ empiece a mostrarse a los usuarios.   
+**Card 1 Starting date and time**. Fecha y hora en la que quieres que la _card_ empiece a mostrarse a los usuarios.  
 🔅Es opcional.
 
 **Card 1 Ending date and time**. Fecha y hora en la que quieres que la _card_ termine de mostrarse a los usuarios.  
 🔅Es opcional.
 
-**Display the ending date on the card**. Activa esta opción para informar al usuario que el contenido va a caducar. 
+**Display the ending date on the card**. Activa esta opción para informar al usuario que el contenido va a caducar.
 
 ![](../../.gitbook/assets/image%20%2827%29.png)
 
@@ -101,7 +101,7 @@ Si has habilitado la opción de mostrar la fecha de caducidad, cómo se muestre 
 
 ![](../../.gitbook/assets/image%20%2865%29.png)
 
-`TERMINA MAÑANA` para indicar que la fecha de caducidad es al día siguiente. 
+`TERMINA MAÑANA` para indicar que la fecha de caducidad es al día siguiente.
 
 ![](../../.gitbook/assets/image%20%286%29.png)
 
@@ -152,8 +152,9 @@ Por defecto, cuando un usuario abre Explore, ve todo el contenido, todas las car
 La categoría **All**, que es la primera que se visualiza, no es una categoría como tal sino que es la forma que tiene el usuario de ver todo el contenido.
 {% endhint %}
 
-🎯 **Buenas prácticas**: No es recomendable que un contenido tenga asignada más de una categoría, aunque Explore CMS no limite este comportamiento. A nivel de medición de datos es más sencillo imputar acciones cuando una card está asociada a una única categoría. 
+🎯 **Buenas prácticas**: No es recomendable que un contenido tenga asignada más de una categoría, aunque Explore CMS no limite este comportamiento. A nivel de medición de datos es más sencillo imputar acciones cuando una card está asociada a una única categoría.
 
 🤔 **¿Qué debo tener en cuenta cuando uso las categorías?**
 
 ¡Consulta la sección [**Categorías**](https://app.gitbook.com/@tef-novum/s/explore-cms/~/drafts/-LyYX2WN5Qc794RVRWmG/faq#categorias) del [FAQ](../../faq.md) para resolver todas tus dudas!
+
