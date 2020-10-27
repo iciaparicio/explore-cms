@@ -24,7 +24,7 @@ Para cada _card_ los campos disponibles varían en función de que selecciones u
 * **Image**. Muestra una imagen estática.
 * **Bumper**. Muestra un vídeo corto o animación.
 
-\*\*\*\*💡 \_\_**¿Sabías que?**
+💡 **¿Sabías que?**
 
 Un _bumper_ es un vídeo corto o animación. Es un formato por lo general estándar con una duración media de 6 segundos aproximadamente y suele usarse con fines comerciales.
 
@@ -71,22 +71,22 @@ Cuando el _bump\_e\_r_ se haya subido se previsualiza justo debajo:
 {% endtab %}
 {% endtabs %}
 
-**Card 1 Tracking Name**. Nombre que no ven los usuarios pero sí se ve en Google Analytics. Sirve para identificar el producto internamente de manera más fácil.  
+**Card Tracking Name**. Nombre que no ven los usuarios pero sí se ve en Google Analytics. Sirve para identificar el producto internamente de manera más fácil.  
 🔅Es **opcional**.
 
-**Card 1 Description**. Pequeña descripción de la _card_.  
+**Card Description**. Pequeña descripción de la _card_.  
 🔅Tiene una longitud máxima de **132 caracteres** \(recomendado menos de 125\) y es **obligatorio**.
 
-**Card 1 Tag**. Texto corto que se sitúa por encima de la imagen de la _card_.  
+**Card Tag**. Texto corto que se sitúa por encima de la imagen de la _card_.  
 🔅Tiene una longitud máxima de **18 caracteres** \(recomendado menos de 10\) y es **opcional**.
 
-**Card 1 Action Url**. URL de la _card_, es decir, URL a la que se accede al hacer clic sobre la _card_.  
+**Card Action Url**. URL de la _card_, es decir, URL a la que se accede al hacer clic sobre la _card_.  
 🔅Es **obligatoria** y tiene que ser una URL válida \(ejemplo: [https://www.google.com](https://www.google.com)\)
 
-**Card 1 Starting date and time**. Fecha y hora en la que quieres que la _card_ empiece a mostrarse a los usuarios.  
+**Card start time**. Fecha y hora en la que quieres que la _card_ empiece a mostrarse a los usuarios.  
 🔅Es opcional.
 
-**Card 1 Ending date and time**. Fecha y hora en la que quieres que la _card_ termine de mostrarse a los usuarios.  
+**Card end time**. Fecha y hora en la que quieres que la _card_ termine de mostrarse a los usuarios.  
 🔅Es opcional.
 
 **Display the ending date on the card**. Activa esta opción para informar al usuario que el contenido va a caducar.
@@ -111,8 +111,7 @@ Si has habilitado la opción de mostrar la fecha de caducidad, cómo se muestre 
 
 🎯 La fecha de comienzo y fin son una manera de programar algunas campañas, especialmente aquellas de carácter estacional.
 
-**Card 1 Micro-segments**. Etiquetas que puedes añadir, siempre separadas por comas, para hacer una segmentación de los usuarios que van a ver el contenido que estás creando.
-
+**Card Micro-segments**. Etiquetas que puedes añadir, siempre separadas por comas, para hacer una segmentación de los usuarios que van a ver el contenido que estás creando.  
 🔅Es **opcional**.
 
 {% hint style="warning" %}
@@ -121,9 +120,10 @@ Recuerda que tienes que configurar un mínimo de 2 _cards_ y un máximo de 6.
 Los campos para todas las cards son los mismos.
 {% endhint %}
 
-**Card 1 categories \(mandatory\)**
+**Card categories**
 
-Las categorías te permiten filtrar el contendido en Explore. Las categorías se muestran en la parte superior, a modo de carrusel horizontal, de modo que el usuario puede navegar por las categorías y seleccionar la que quiera ver.
+Las categorías te permiten filtrar el contendido en Explore. Las categorías se muestran en la parte superior, a modo de carrusel horizontal, de modo que el usuario puede navegar por las categorías y seleccionar la que quiera ver.  
+🔅Es **obligatorio**.
 
 Cuando el usuario selecciona una categoría el contenido se muestra ordenado en formato vertical \(en lugar de scroll horizontal\), para que el usuario no se pierda ningún contenido.
 
