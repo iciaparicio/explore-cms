@@ -5,6 +5,8 @@
   * [Acceso](primeros-pasos/acceso.md)
   * [Estructura de Explore CMS](primeros-pasos/estructura-de-explore-cms.md)
   * [Acciones principales](primeros-pasos/acciones-principales/README.md)
+    * [Crear una card](primeros-pasos/acciones-principales/crear-una-card.md)
+    * [Reusar una card](primeros-pasos/acciones-principales/reusar-una-card.md)
     * [Crear un módulo](primeros-pasos/acciones-principales/crear-un-modulo.md)
     * [Editar un módulo](primeros-pasos/acciones-principales/editar-un-modulo.md)
     * [Editar un layout](primeros-pasos/acciones-principales/editar-un-layout.md)

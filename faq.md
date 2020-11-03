@@ -70,7 +70,11 @@ Ponte directamente en contacto con tu equipo de NOVUM. Ellos gestionarán tu acc
 
 ## Quiero usar la misma card en módulos distintos, ¿cómo lo hago?
 
-Si ya tienes la card creada entonces lo que tienes que hacer es reutilizar la card. 
+Si ya tienes la card creada entonces lo que tienes que hacer es reutilizar la card. Dentro de cada tipo de módulo, al añadir una card, selecciona la opción **Reuse** card e indica, en el desplegable, qué card quieres volver a usar.
+
+## ¿Dónde puedo consultar las cards que tengo disponibles?
+
+Actualmente el CMS no dispone de un listado de cards disponibles pero las tienes todas en el desplegable **Select a card** siempre que selecciones la opción de reutilizar una card.
 
 ## Categorías
 
