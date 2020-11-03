@@ -68,6 +68,10 @@ Ten en cuenta que en primera posición siempre tiene que ir un módulo de tipo _
 
 Ponte directamente en contacto con tu equipo de NOVUM. Ellos gestionarán tu acceso.
 
+## Quiero usar la misma card en módulos distintos, ¿cómo lo hago?
+
+Si ya tienes la card creada entonces lo que tienes que hacer es reutilizar la card. 
+
 ## Categorías
 
 Desde esta sección puedes resolver todas tus dudas referentes a la configuración de categorías y que te ayudarán a configurarlas de forma óptima:

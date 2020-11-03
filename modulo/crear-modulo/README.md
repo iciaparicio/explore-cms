@@ -22,10 +22,11 @@ Los campos que se muestran varían en función del tipo de módulo que seleccion
 
 ### Módulo de tipo **Featured Content**, **Vertical Cards** o **Rows**
 
-**Name**. Nombre que identifica internamente al elemento. En la app no se muestra en ningún momento pero con ese nombre puedes identificar el módulo en la vista de listado de módulos. 🔅No tiene una longitud máxima y es **obligatorio**.
+**Name**. Nombre que identifica internamente al elemento. En la app no se muestra en ningún momento pero con ese nombre puedes identificar el módulo en la vista de listado de módulos.  
+🔅No tiene una longitud máxima y es **obligatorio**.
 
 **Section Title**. Título que se muestra encima del módulo siempre que no esté posicionado en primer lugar. Cuando va en la primera posición, no hay título de sección \(en ese caso el título de sección es siempre _Explore_\). Además, este título sirve para identificar internamente el módulo que estás creando. Con ese título puedes identificar el módulo en la vista de listado de módulos.  
-****🔅Tiene una longitud máxima de **25 caracteres** y es **obligatorio**.
+🔅Tiene una longitud máxima de **25 caracteres** y es **obligatorio**.
 
 {% hint style="warning" %}
 Dentro de un layout, es obligatorio que un módulo de tipo _Featured Content_ esté en primera posición.
@@ -33,7 +34,8 @@ Dentro de un layout, es obligatorio que un módulo de tipo _Featured Content_ es
 
 ### Módulo de tipo  **Banner + Links**
 
-**Name**. Nombre que identifica internamente al elemento. En la app no se muestra en ningún momento pero con ese nombre puedes identificar el módulo en la vista de listado de módulos. 🔅No tiene una longitud máxima y es **obligatorio**.
+**Name**. Nombre que identifica internamente al elemento. En la app no se muestra en ningún momento pero con ese nombre puedes identificar el módulo en la vista de listado de módulos.  
+🔅No tiene una longitud máxima y es **obligatorio**.
 
 Para cada _banner_ los campos disponibles varían en función de que selecciones una imagen o un _bumper_:
 
