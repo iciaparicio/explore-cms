@@ -32,8 +32,11 @@ Cuando la imagen se haya subido se previsualiza justo debajo.
 **Image Accessibility Text**. Descripción de la imagen que se usa para la accesibilidad como alternativa si la imagen no se puede mostrar \(por ejemplo, para personas con problemas de visión\).  
 🔅 No tiene una longitud máxima y es **opcional**.
 
-**Card Tracking Name**. Nombre que no ven los usuarios pero sí se ve en Google Analytics. Sirve para identificar el producto internamente de manera más fácil.  
-🔅Es **opcional**.
+**Tracking Tag**. Representa la categoría de productos. Aunque el usuario no ve este nombre tal cual, sí que se usa para formar el nombre final que se ve en Google Analytics. Sirve para identificar el producto internamente de manera más fácil.    
+🔅Es obligatorio. 
+
+**Tracking Name Description**. Representa el nombre del producto. Aunque el usuario no ve este nombre tal cual sí se usa para formar el nombre final que se ve en Google Analytics.    
+🔅Es obligatorio. 
 
 **Card Description**. Breve descripción del producto presentado. La descripción se muestra debajo del título.  
 🔅Tiene una longitud máxima de **34 caracteres** \(recomendado menos de 32\) y es **obligatorio**.
