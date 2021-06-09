@@ -133,7 +133,7 @@ Cuando el usuario selecciona una categoría el contenido se muestra filtrado, pa
 
 En Explore CMS selecciona la categoría o las categorías que aplican a la card que estás configurando:
 
-![](../../.gitbook/assets/categories_banner-1-.png)
+![](../../.gitbook/assets/categories%20%281%29.png)
 
 🔅Es **obligatorio** indicar al menos una categoría.
 
