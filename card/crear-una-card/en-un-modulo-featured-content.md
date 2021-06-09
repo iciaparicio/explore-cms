@@ -138,8 +138,14 @@ En Explore CMS selecciona la categoría o las categorías que aplican a la card 
 🔅Es **obligatorio** indicar al menos una categoría.
 
 {% hint style="warning" %}
-Las categorías disponibles y los nombres de las categorías varían en función de la OB.
+El nombre de la categoría **Destacados** varía en función de la OB.
 {% endhint %}
+
+* **Destacados.** Las cards que tengan esta categoría asignada son las que se muestran en la Home de Explore cuando el usuario aterriza por primera vez, sin seleccionar ninguna categoría.
+
+  Si la card no tiene selecciona esta categoría entonces no se muestra al inicio y se mostrará solo cuando el usuario seleccione la categoría que tenga asignada.
+
+  🤓 Recuerda que puedes asignar más de una categoría por card.
 
 * **Fusión**. Paquetes: packs, planes, paquetes de productos.
 * **Móviles**. Dispositivos: smartphones, tablets.
@@ -151,12 +157,16 @@ Las categorías disponibles y los nombres de las categorías varían en función
 {% hint style="info" %}
 🙋 **Ten en cuenta que...**
 
-Por defecto, cuando un usuario abre Explore, ve todo el contenido, todas las cards configuradas, y por tanto la categoría seleccionada es siempre **All**.
+Por defecto, cuando un usuario abre Explore, ve el contenido que tenga asignada la categoría **Destacados**.
 
-La categoría **All**, que es la primera que se visualiza, no es una categoría como tal sino que es la forma que tiene el usuario de ver todo el contenido.
+Así pues, tienes varias opciones:
+
+1. Que el contenido solo se vea en la Home, al inicio, cuando el usuario abre Explore. Para eso asígnale solo la categoría **Destacados**.
+2. Que el contenido se vea en la Home y además en otra u otras categorías. Para eso asígnale la categoría **Destacados** y la otra u otras categorías en las que quieras que se muestre.
+3. Que el contenido NO se muestre en la Home y sí en otra u otras categorías. Para eso asígnale la categoría o categorías en las que quieras que se muestre.
 {% endhint %}
 
-🎯 **Buenas prácticas**: No es recomendable que un contenido tenga asignada más de una categoría, aunque Explore CMS no limite este comportamiento. A nivel de medición de datos es más sencillo imputar acciones cuando una card está asociada a una única categoría.
+🎯 **Buenas prácticas**: Lo recomendable es que el contenido tenga asignadas, como máximo, dos categorías y que una de ellas sea **Destacados** \(si quieres que se muestre en la Home\). Aunque Explore CMS no limite este comportamiento, a nivel de medición de datos es más sencillo imputar acciones cuando una card está asociada a una única categoría \(y a **Destacados** si es necesario\). 
 
 🤔 **¿Qué debo tener en cuenta cuando uso las categorías?**
 
