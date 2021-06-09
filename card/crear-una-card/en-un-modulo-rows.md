@@ -85,9 +85,9 @@ Si has habilitado la opción de mostrar la fecha de caducidad, cómo se muestre 
 
 Las categorías te permiten filtrar el contendido en Explore. Las categorías se muestran en la parte superior, a modo de carrusel horizontal, de modo que el usuario puede navegar por las categorías y seleccionar la que quiera ver.
 
-Cuando el usuario selecciona una categoría el contenido se muestra ordenado en formato vertical \(en lugar de scroll horizontal\), para que el usuario no se pierda ningún contenido.
+Cuando el usuario selecciona una categoría el contenido se muestra filtrado, para que el usuario no se pierda ningún contenido relacionado con esa categoría.
 
-![](../../.gitbook/assets/categories_devices-1-.png)
+![](../../.gitbook/assets/card_categories.png)
 
 En Explore CMS selecciona la categoría o las categorías que aplican a la card que estás configurando:
 
