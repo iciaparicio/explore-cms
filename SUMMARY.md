@@ -30,6 +30,7 @@
   * [Editar layout](layout/editar-layout.md)
   * [Repositorio de layouts](layout/repositorio-de-layouts.md)
   * [Publicar layouts](layout/publicar-layouts.md)
+* [Categoría](categoria.md)
 * [Test lines](test-lines.md)
 * [Deep links por categorías](deeplinks-en-explore.md)
 * [FAQ](faq.md)
