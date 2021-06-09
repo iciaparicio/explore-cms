@@ -123,8 +123,14 @@ En Explore CMS selecciona la categoría o las categorías que aplican a la card 
 🔅Es **obligatorio** indicar al menos una categoría.
 
 {% hint style="warning" %}
-Las categorías disponibles y los nombres de las categorías varían en función de la OB.
+El nombre de la categoría **Destacados** varía en función de la OB.
 {% endhint %}
+
+* **Destacados.** Las cards que tengan esta categoría asignada son las que se muestran en la Home de Explore cuando el usuario aterriza por primera vez, sin seleccionar ninguna categoría.
+
+  Si la card no tiene selecciona esta categoría entonces no se muestra al inicio y se mostrará solo cuando el usuario seleccione la categoría que tenga asignada.
+
+  🤓 Recuerda que puedes asignar más de una categoría por card.
 
 * **Fusión**. Paquetes: packs, planes, paquetes de productos.
 * **Móviles**. Dispositivos: smartphones, tablets.
