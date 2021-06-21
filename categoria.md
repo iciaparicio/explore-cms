@@ -6,5 +6,5 @@ description: Permiten categorizar el contenido para mostrarlo filtrado a los usu
 
 Las categorías permiten a los usuarios poder consumir, filtrado, el contenido de Explore. Estas categorías se muestran en la parte superior de Explore.
 
-
+![](.gitbook/assets/categoria_detalle.png)
 
