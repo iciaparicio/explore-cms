@@ -8,7 +8,7 @@ Para [editar un módulo](../modulo/editar-modulo.md) haz clic en ![](../.gitbook
 
 Los campos aparecen informados o vacíos según la configuración que tenga la card. Puedes modificar la información de cualquiera de los campos informados o añadir información adicional en los campos vacíos. 
 
-Además, puedes ver, para cada card, a qué microsegmentos aplica, si los tiene configurados.
+Además, puedes ver, para cada card, **a qué microsegmentos** aplica, si los tiene configurados.
 
 ![](../.gitbook/assets/microsegmento_detail.png)
 
