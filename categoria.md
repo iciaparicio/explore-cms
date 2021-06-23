@@ -39,6 +39,12 @@ _Ejemplo de un internal name incorrecto y de otro correcto_
 👍 `internet_y_television`
 {% endhint %}
 
+Si necesitas más información sobre deep links consulta esta sección 👇 
+
+{% page-ref page="deeplinks-en-explore.md" %}
+
+
+
 **Category name**. Es el nombre de la categoría que ven los usuarios en la sección de Explore.  
 🔅Tiene una longitud máxima de **11 caracteres** y es **obligatorio**.
 
