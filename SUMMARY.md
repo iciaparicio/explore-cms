@@ -32,6 +32,7 @@
   * [Publicar layouts](layout/publicar-layouts.md)
 * [Categoría](categoria/README.md)
   * [Crear categoría](categoria/crear-categoria.md)
+  * [Editar categoría](categoria/editar-categoria.md)
 * [Test lines](test-lines.md)
 * [Deep links por categorías](deeplinks-en-explore.md)
 * [FAQ](faq.md)
