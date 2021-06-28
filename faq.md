@@ -86,13 +86,11 @@ Sí, así es. Todo el contenido tiene que tener asignada, al menos, una categor�
 
 ### ¿Puedo editar, crear o eliminar una categoría desde Explore CMS?
 
-No, no es posible ni crear, ni editar el nombre, ni eliminar una de las categorías existentes desde Explore CMS. Pero no te preocupes porque las categorías que puedes seleccionar han sido acordadas con tu OB para que no necesites crear categorías nuevas.
+Sí, puedes crear categorías nuevas, editarlas o desactivarlas si no las necesitas. 
 
-Si aún así consideras que hay contenido que no se adapta a ninguna de las categorías disponibles no dudes en ponerte en contacto con el responsable de tu OB para que pueda trasladar al equipo de NOVUM tu petición. Juntos decidirán si efectivamente es necesario hacer algún cambio.
+Aquí puedes ver toda la información 👇 
 
-### He visto que hay muchas categorías predefinidas en Explore CMS pero no las necesito todas.
-
-No pasa nada. Si hay alguna categoría que no necesitas no la uses. En ese caso esa categoría no se muestra al usuario.
+{% page-ref page="categoria/" %}
 
 ### ¿Puedo usar solo una categoría para todo mi contenido?
 
@@ -102,7 +100,11 @@ De todos modos seguro que tienes un contenido muy interesante para usar al menos
 
 ### ¿Puedo cambiar el orden en el que se van a mostrar las categorías en Explore?
 
-Desde Explore CMS no. Pero no te preocupes porque antes del lanzamiento de las categorías el orden se ha acordado ya con los responsables de tu OB. 
+Sí, puedes cambiar el orden, excepto el de la categoría Destacados que aparece siempre en primer lugar porque es la que representa la página de aterrizaje de Explore.
 
-Si fuera necesario algún cambio, comunícalo a la persona responsable de tu OB para que lo pueda gestionar con el personal de NOVUM.
+Aquí tienes más información sobre cómo cambiar el orden de las categorías 👇 
+
+{% page-ref page="categoria/ordenar-categorias.md" %}
+
+
 
