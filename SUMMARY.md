@@ -33,6 +33,8 @@
 * [Categoría](categoria/README.md)
   * [Crear categoría](categoria/crear-categoria.md)
   * [Editar categoría](categoria/editar-categoria.md)
+  * [Ordenar categorías](categoria/ordenar-categorias.md)
+  * [Desactivar o activar categoría](categoria/desactivar-o-activar-categoria.md)
 * [Test lines](test-lines.md)
 * [Deep links por categorías](deeplinks-en-explore.md)
 * [FAQ](faq.md)
