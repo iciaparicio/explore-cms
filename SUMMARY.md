@@ -36,6 +36,6 @@
   * [Ordenar categorías](categoria/ordenar-categorias.md)
   * [Desactivar o activar categoría](categoria/desactivar-o-activar-categoria.md)
 * [Test lines](test-lines.md)
-* [Deep links por categorías](deeplinks-en-explore.md)
+* [Deep links por categorías](deep-links-por-categorias.md)
 * [FAQ](faq.md)
 

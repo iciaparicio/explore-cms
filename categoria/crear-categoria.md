@@ -15,23 +15,29 @@ Para cada nueva categoría rellena los siguientes campos:​‌
 #### Category <a id="category"></a>
 
 **Internal name**. Es el nombre interno que identifica la categoría. Este nombre no se muestra en la app en ningún momento pero sí se utiliza para crear el deep link que identifica la categoría. También es el nombre que se usa en Google Analytics para identificar esa categoría.   
-🔅Es un campo **obligatorio**, que **no** admite ni **mayúsculas, espacios y caracteres especiales**.
+🔅Es un campo **obligatorio**
+
+{% hint style="success" %}
+El valor de **Internal name** tiene que cumplir lo siguiente:
+
+* Empezar por minúscula de la a a la z \(nada de caracteres especiales ni acentos\).
+* Después, vale cualquier combinación de caracteres de la a a la z minúscula \(nada de caracteres especiales ni acentos\), guiones medios y guiones bajos, y números.
+{% endhint %}
+
+|   👎 Ejemplos incorrectos  | 👍 Ejemplos correctos  |
+| :--- | :--- |
+| `TelevisionInternet` | `television_internet` |
+| `Descuento 30` | `descuento30` |
+| `100_gigasGratis` | `gigas_gratis100` |
+| `díaDeLaMadre` | `dia-de-la-madre` |
 
 {% hint style="info" %}
 Pese a que es un nombre interno asegúrate de crearlo correctamente porque una vez generada la categoría **no puedes modificar** este campo.
 {% endhint %}
 
-{% hint style="success" %}
-_Ejemplo de un internal name incorrecto y de otro correcto_
-
-​​👎 `InternetYTelevision`
-
-​​👍 `internet_y_television`‌
-{% endhint %}
+{% page-ref page="../deep-links-por-categorias.md" %}
 
 Si necesitas más información sobre deep links consulta esta sección ​👇
-
-{% page-ref page="../deeplinks-en-explore.md" %}
 
 **Category name**. Es el nombre de la categoría que ven los usuarios en la sección de Explore.  
 🔅Tiene una longitud máxima de **11 caracteres** y es **obligatorio**.
