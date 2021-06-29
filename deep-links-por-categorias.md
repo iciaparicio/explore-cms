@@ -40,7 +40,7 @@ Destino, dentro de al app, al que lleva el enlace \(URL\). Para Explore, el enla
 
 En función del valor de este parámetro, el contenido de Explore se refresca o no.
 
-`refresh=true` La aplicación navega a la pestaña Explore y solicita el nuevo contendido, es decir, se refresca la información de esta pestaña.
+`refresh=true` La aplicación navega a la pestaña Explore y solicita el nuevo contenido, es decir, se refresca la información de esta pestaña.
 
 `refresh=false` Si el deep link no tiene este parámetro o si el valor es `false` entonces el enlace te llevará igualmente a la pestaña de Explore pero no se refresca si hay contenido nuevo.
 
@@ -61,7 +61,7 @@ Usa el caracter `?` para añadir más de un parámetro.
 
 ### Ejemplo de deep link para Explore
 
-![Ejemplo de deep link en Explore](.gitbook/assets/ejemplo_deep_link_explore.png)
+![Ejemplo deep link de Explore](.gitbook/assets/ejemplo_deep_link_explore.png)
 
 1 URL de la tab de Explore
 
