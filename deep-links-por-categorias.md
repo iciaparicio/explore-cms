@@ -18,7 +18,7 @@ El deep link tiene siempre esta estructura:
 
 `https://appweb.movistar.es/explore?refresh=true|false&categoryId=internalname`
 
-Donde `internalname` es el valor del campo Internal name que le hayas dado al crear la categoría.
+Donde `internalname` es el valor del campo **Internal name** que le hayas dado al crear la categoría.
 
 {% hint style="warning" %}
 Ten en cuenta que el deep link varía en función de la OB. Asegúrate de estar usando la estructura correcta😉 
@@ -69,5 +69,5 @@ Usa el caracter `?` para añadir más de un parámetro.
 
 3 El deep link muestra el contendido filtrado por la categoría cuyo **Internal name** es `accesory`.
 
-Por tanto, este ejemplo es un deeplink que te muestra el contendido de Explore actualizado y filtrado por la categoría a la que pertenece el Internal name `accessory`.
+Por tanto, este ejemplo es un deep link que te muestra el contendido de Explore actualizado y filtrado por la categoría a la que pertenece el **Internal name** `accessory`.
 
