@@ -91,7 +91,7 @@ Cuando el usuario selecciona una categoría el contenido se muestra filtrado, pa
 
 En Explore CMS selecciona la categoría o las categorías que aplican a la card que estás configurando:
 
-![](../../.gitbook/assets/categories%20%281%29.png)
+![](../../.gitbook/assets/categories_card.png)
 
 🔅Es **obligatorio** indicar al menos una categoría.
 
@@ -105,24 +105,25 @@ El nombre de la categoría **Destacados** varía en función de la OB.
 
   🤓 Recuerda que puedes asignar más de una categoría por card.
 
-* **Fusión**. Paquetes: packs, planes, paquetes de productos.
-* **Móviles**. Dispositivos: smartphones, tablets.
-* **Likes**. Fidelización: membresía, contenido de programas de loyalty/fidelización \(Valoriza, Priority, Club Movistar…\)
-* **TV**. Televisión: planes de televisión, contenido destacado.
-* **Ofertas**. Promociones: Contenido promocional que pueda encajar y que es posible que incluso pueda convivir con otras categorías.
-* **Servicios**. Servicios: servicios de valor añadido \(nuevas funcionalidades\), apps, servicios de TEF. 
-
 {% hint style="info" %}
 🙋 **Ten en cuenta que...**
 
-Por defecto, cuando un usuario abre Explore, ve el contenido que tenga asignada la categoría **Destacados**
+Por defecto, cuando un usuario abre Explore, ve el contenido que tenga asignada la categoría **Destacados**.
 
-Así pues, tienes varias opciones
+Así pues, tienes varias opciones:
 
 1. Que el contenido solo se vea en la Home, al inicio, cuando el usuario abre Explore. Para eso asígnale solo la categoría **Destacados**.
 2. Que el contenido se vea en la Home y además en otra u otras categorías. Para eso asígnale la categoría **Destacados** y la otra u otras categorías en las que quieras que se muestre.
 3. Que el contenido NO se muestre en la Home y sí en otra u otras categorías. Para eso asígnale la categoría o categorías en las que quieras que se muestre.
 {% endhint %}
+
+#### Crear una categoría desde una card
+
+Si necesitas crear o editar una categoría porque ninguna de las que ves encaja con lo que necesitas, haz clic en **EDIT CATEGORY** para ir al flujo de categorías.
+
+Aquí tienes toda la información sobre la creación y edición de categorías 👇 
+
+{% page-ref page="../../categoria/" %}
 
 🎯 **Buenas prácticas**: Lo recomendable es que el contenido tenga asignadas, como máximo, dos categorías y que una de ellas sea **Destacados** \(si quieres que se muestre en la Home\). Aunque Explore CMS no limite este comportamiento, a nivel de medición de datos es más sencillo imputar acciones cuando una card está asociada a una única categoría \(y a **Destacados** si es necesario\). 
 
