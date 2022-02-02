@@ -1,14 +1,21 @@
----
-description: >-
-  Aquí encontrarás toda la información sobre esta herramienta de gestión de
-  contenidos de Explore.
----
+# Extras CMS
 
-# Guía de uso de Explore CMS
+Accede al CMS de Extras desde el menú lateral **Extras**.
 
-## ¿Qué es Explore CMS?
+![](<.gitbook/assets/Extras\_Menu (1).png>)
 
-Explore CMS \(Content Management System\) es una herramienta diseñada por el equipo de Producto de NOVUM para que las OBs y otros equipos de NOVUM puedan publicar y gestionar, de forma rápida y sencilla, contenido en Explore.
+{% hint style="info" %}
+Si no tienes acceso consulta con el OBPM de TCX, para que pueda gestionarlo.
+{% endhint %}
 
-[Acceso al CMS](https://commstoolcms-es.mytelco.io/​)
+## Antes de empezar...
 
+#### ¿Qué es un extra?
+
+Recuerda que un extra es simplemente un elemento compuesto de icono y de un texto breve.&#x20;
+
+#### ¿Por qué son necesarias las listas de extras?
+
+Para poder crear un extra es necesario que ese extra esté incluido en una lista ya que por sí solo no se verá. De hecho, lo más habitual, es que agrupes varios extras bajo un título común y que se vean a modo de lista pero todo esto puedes aprenderlo en esta guía.
+
+¿Empezamos?
